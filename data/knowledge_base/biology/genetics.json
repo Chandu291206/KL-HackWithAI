@@ -1,0 +1,268 @@
+{
+  "subject": "Biology",
+  "topic": "Genetics",
+  "exam": "NEET",
+  "summary": "Genetics is the study of heredity and variation in living organisms. It deals with the transmission of traits from one generation to another. The key concepts in genetics include Mendel's laws, gene expression, genetic code, genetic drift, and gene mapping. The main objective of genetics is to understand how genes interact to produce specific characteristics in an organism. In this chapter, we will discuss the basic principles of genetics and its applications.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "Who is considered as the father of modern genetics?",
+      "options": {
+        "A": "Gregor Mendel",
+        "B": "Charles Darwin",
+        "C": "Rosalind Franklin",
+        "D": "James Watson"
+      },
+      "correct_option": "A",
+      "explanation": "Gregor Mendel was an Austrian monk who is considered as the father of modern genetics. He conducted experiments on pea plants and formulated the laws of inheritance."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the main difference between genotype and phenotype?",
+      "options": {
+        "A": "Genotype refers to the physical characteristics while phenotype refers to the genetic makeup",
+        "B": "Phenotype refers to the physical characteristics while genotype refers to the environmental factors",
+        "C": "Both genotype and phenotype refer to the same characteristic",
+        "D": "There is no difference between genotype and phenotype"
+      },
+      "correct_option": "A",
+      "explanation": "Genotype refers to an organism's genetic makeup, whereas phenotype refers to its physical characteristics."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the term for the process by which genes are passed from one generation to another?",
+      "options": {
+        "A": "Heritability",
+        "B": "Inheritance",
+        "C": "Genetic drift",
+        "D": "Mutation"
+      },
+      "correct_option": "B",
+      "explanation": "Inheritance refers to the process by which genes are passed from one generation to another."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the probability of an individual having a particular genotype when the parents have different genotypes?",
+      "options": {
+        "A": "1/2",
+        "B": "1/4",
+        "C": "3/4",
+        "D": "1"
+      },
+      "correct_option": "B",
+      "explanation": "When the parents have different genotypes, the probability of an individual having a particular genotype is 1/4."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the term for the process by which genes are transmitted from one generation to another?",
+      "options": {
+        "A": "Genetic drift",
+        "B": "Natural selection",
+        "C": "Mutation",
+        "D": "Inheritance"
+      },
+      "correct_option": "D",
+      "explanation": "Inheritance refers to the process by which genes are transmitted from one generation to another."
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "question": "What is the term for the process by which a population's genetic makeup changes over time due to random events?",
+      "options": {
+        "A": "Genetic drift",
+        "B": "Mutation",
+        "C": "Natural selection",
+        "D": "Gene flow"
+      },
+      "correct_option": "A",
+      "explanation": "Genetic drift refers to the process by which a population's genetic makeup changes over time due to random events."
+    },
+    {
+      "id": 7,
+      "difficulty": "hard",
+      "question": "What is the term for the process by which an organism's genetic information is converted into a functional product?",
+      "options": {
+        "A": "Gene expression",
+        "B": "Gene mapping",
+        "C": "Genetic code",
+        "D": "Mutation"
+      },
+      "correct_option": "A",
+      "explanation": "Gene expression refers to the process by which an organism's genetic information is converted into a functional product."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is the term for the process by which a gene is passed from one generation to another?",
+      "options": {
+        "A": "Inheritance",
+        "B": "Mutation",
+        "C": "Genetic drift",
+        "D": "Gene flow"
+      },
+      "correct_option": "A",
+      "explanation": "Inheritance refers to the process by which a gene is passed from one generation to another."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is the term for the sequence of nucleotides that makes up the DNA molecule?",
+      "options": {
+        "A": "Genetic code",
+        "B": "Gene expression",
+        "C": "Genotype",
+        "D": "Phenotype"
+      },
+      "correct_option": "A",
+      "explanation": "The genetic code refers to the sequence of nucleotides that makes up the DNA molecule."
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What is the term for the process by which an organism's genes are passed from one generation to another?",
+      "options": {
+        "A": "Inheritance",
+        "B": "Heritability",
+        "C": "Genetic drift",
+        "D": "Mutation"
+      },
+      "correct_option": "A",
+      "explanation": "Inheritance refers to the process by which an organism's genes are passed from one generation to another."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the term for the study of heredity and variation in living organisms?",
+      "options": {
+        "A": "Genetics",
+        "B": "Evolutionary biology",
+        "C": "Biotechnology",
+        "D": "Molecular biology"
+      },
+      "correct_option": "A",
+      "explanation": "Genetics refers to the study of heredity and variation in living organisms."
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "What is the term for the process by which a gene's expression is influenced by environmental factors?",
+      "options": {
+        "A": "Epigenetics",
+        "B": "Gene regulation",
+        "C": "Genetic drift",
+        "D": "Mutation"
+      },
+      "correct_option": "A",
+      "explanation": "Epigenetics refers to the process by which a gene's expression is influenced by environmental factors."
+    },
+    {
+      "id": 13,
+      "difficulty": "hard",
+      "question": "What is the term for the study of the structure, function, and evolution of genes?",
+      "options": {
+        "A": "Genomics",
+        "B": "Epigenetics",
+        "C": "Gene mapping",
+        "D": "Mutation"
+      },
+      "correct_option": "A",
+      "explanation": "Genomics refers to the study of the structure, function, and evolution of genes."
+    },
+    {
+      "id": 14,
+      "difficulty": "easy",
+      "question": "What is the term for the process by which an organism's genetic information is converted into a functional product?",
+      "options": {
+        "A": "Gene expression",
+        "B": "Gene mapping",
+        "C": "Genetic code",
+        "D": "Mutation"
+      },
+      "correct_option": "A",
+      "explanation": "Gene expression refers to the process by which an organism's genetic information is converted into a functional product."
+    },
+    {
+      "id": 15,
+      "difficulty": "easy",
+      "question": "What is the term for the study of the structure, function, and evolution of genes?",
+      "options": {
+        "A": "Genomics",
+        "B": "Epigenetics",
+        "C": "Gene mapping",
+        "D": "Mutation"
+      },
+      "correct_option": "A",
+      "explanation": "Genomics refers to the study of the structure, function, and evolution of genes."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the term for the process by which a gene's expression is influenced by environmental factors?",
+      "options": {
+        "A": "Epigenetics",
+        "B": "Gene regulation",
+        "C": "Genetic drift",
+        "D": "Mutation"
+      },
+      "correct_option": "A",
+      "explanation": "Epigenetics refers to the process by which a gene's expression is influenced by environmental factors."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is the term for the study of the structure, function, and evolution of genes?",
+      "options": {
+        "A": "Genomics",
+        "B": "Epigenetics",
+        "C": "Gene mapping",
+        "D": "Mutation"
+      },
+      "correct_option": "A",
+      "explanation": "Genomics refers to the study of the structure, function, and evolution of genes."
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the term for the process by which a gene's expression is influenced by environmental factors?",
+      "options": {
+        "A": "Epigenetics",
+        "B": "Gene regulation",
+        "C": "Genetic drift",
+        "D": "Mutation"
+      },
+      "correct_option": "A",
+      "explanation": "Epigenetics refers to the process by which a gene's expression is influenced by environmental factors."
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What is the term for the study of the structure, function, and evolution of genes?",
+      "options": {
+        "A": "Genomics",
+        "B": "Epigenetics",
+        "C": "Gene mapping",
+        "D": "Mutation"
+      },
+      "correct_option": "A",
+      "explanation": "Genomics refers to the study of the structure, function, and evolution of genes."
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is the term for the process by which a gene's expression is influenced by environmental factors?",
+      "options": {
+        "A": "Epigenetics",
+        "B": "Gene regulation",
+        "C": "Genetic drift",
+        "D": "Mutation"
+      },
+      "correct_option": "A",
+      "explanation": "Epigenetics refers to the process by which a gene's expression is influenced by environmental factors."
+    }
+  ]
+}

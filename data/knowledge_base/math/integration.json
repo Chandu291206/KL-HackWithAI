@@ -1,0 +1,268 @@
+{
+  "subject": "Math",
+  "topic": "Integration",
+  "exam": "JEE",
+  "summary": "Integration is a fundamental concept in calculus, dealing with the inverse operation of differentiation. It is denoted by the integral sign ∫ and is used to find the area under curves, volumes of solids, and other quantities. The most common type of integration is indefinite integration, which involves finding an antiderivative of a function. This is useful for solving problems that involve accumulation or quantification. In JEE, integration questions can be quite challenging, requiring knowledge of various techniques such as substitution, integration by parts, and integration by partial fractions. It is essential to have a solid understanding of the fundamental principles, formulas, and concepts before attempting these questions.\r\n\r\nSome key concepts in integration include:\r\n* The Fundamental Theorem of Calculus (FTC), which states that differentiation and integration are inverse operations.\r\n* The concept of an antiderivative, which is a function that can be differentiated to obtain the original function.\r\n* Various techniques for evaluating definite integrals, such as substitution, integration by parts, and integration by partial fractions.\r\n\r\nIn terms of exam patterns, JEE typically tests integration skills through a range of question types. These may include:\r\n* Evaluating definite integrals using various techniques.\r\n* Finding the area under curves or volumes of solids.\r\n* Solving optimization problems that involve accumulation.\r\n* Understanding and applying the FTC in different contexts.\r\n\r\nCommon mistakes to avoid when dealing with integration questions include:\r\n* Failing to recognize the importance of the FTC and its applications.\r\n* Ignoring the need for proper substitution or simplification when evaluating definite integrals.\r\n* Relying too heavily on memorization rather than understanding fundamental concepts.\r\n\r\nTo succeed in JEE integration questions, it is essential to develop a strong foundation in calculus and practice regularly. Focus on building your skills through solving problems, reviewing concepts, and learning from mistakes.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "Find the indefinite integral of x^2 + 3x - 2 with respect to x.",
+      "options": {
+        "A": "x^3 + ωx^2 - 2x",
+        "B": "x^3 + 3x^2 - 2x",
+        "C": "x^3 + 3x - 2",
+        "D": "x^3 + x^2 - 2"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate x^2, and then add up the other terms."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Evaluate ∫(x + 1) dx from x = 0 to x = 2.",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate (x + 1) and then evaluate the definite integral."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Find the area under the curve y = x^2 from x = 0 to x = 2.",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "10"
+      },
+      "correct_option": "A",
+      "explanation": "Integrate x^2 with respect to x and then evaluate the definite integral."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "Evaluate ∫(x^2 + 3x - 2) dx from x = 1 to x = 3.",
+      "options": {
+        "A": "12",
+        "B": "15",
+        "C": "18",
+        "D": "21"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate (x^2 + 3x - 2) and then evaluate the definite integral."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "Find the antiderivative of f(x) = x^3 - 4x^2 + 7x.",
+      "options": {
+        "A": "x^4 - 4x^3 + 7x^2",
+        "B": "x^4 - 4x^3 + 7x",
+        "C": "x^4 - 8x^3 + 14x^2",
+        "D": "x^4 - 8x^3 + 14x"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate each term separately."
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "Evaluate ∫(2x + 1) dx from x = 0 to x = 4.",
+      "options": {
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "14"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate (2x + 1) and then evaluate the definite integral."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Find the indefinite integral of 3x^2 - 2x with respect to x.",
+      "options": {
+        "A": "x^3 - ωx^2 + ψx",
+        "B": "x^3 + 3x^2 - 2x",
+        "C": "x^3 - 3x^2 - 2x",
+        "D": "x^3 - 2x"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate each term separately."
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "Evaluate ∫(x^2 + 2x) dx from x = -1 to x = 3.",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "14",
+        "D": "16"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate (x^2 + 2x) and then evaluate the definite integral."
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "question": "Find the antiderivative of f(x) = ψx^3 - 3x^2 + 5x.",
+      "options": {
+        "A": "ψx^4 - 3x^3 + 5x^2",
+        "B": "ψx^4 - 3x^3 + 5x",
+        "C": "ψx^4 - 6x^3 + 10x^2",
+        "D": "ψx^4 - 6x^3 + 10x"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate each term separately."
+    },
+    {
+      "id": 10,
+      "difficulty": "hard",
+      "question": "Evaluate ∫(x^2 - 4x + 3) dx from x = 1 to x = 5.",
+      "options": {
+        "A": "20",
+        "B": "25",
+        "C": "30",
+        "D": "35"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate (x^2 - 4x + 3) and then evaluate the definite integral."
+    },
+    {
+      "id": 11,
+      "difficulty": "easy",
+      "question": "Find the indefinite integral of x with respect to x.",
+      "options": {
+        "A": "x^2",
+        "B": "x",
+        "C": "1",
+        "D": "0"
+      },
+      "correct_option": "B",
+      "explanation": "Use the power rule to integrate x."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "Evaluate ∫(2x - 3) dx from x = 1 to x = 4.",
+      "options": {
+        "A": "6",
+        "B": "8",
+        "C": "10",
+        "D": "12"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate (2x - 3) and then evaluate the definite integral."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Find the antiderivative of f(x) = x^2 + 5.",
+      "options": {
+        "A": "x^3 + 5x",
+        "B": "x^3 - 5x",
+        "C": "x^3 + 5",
+        "D": "x^3 - 5"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate each term separately."
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "Evaluate ∫(x^2 + x) dx from x = -1 to x = 3.",
+      "options": {
+        "A": "12",
+        "B": "15",
+        "C": "18",
+        "D": "21"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate (x^2 + x) and then evaluate the definite integral."
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "Find the antiderivative of f(x) = ψx^3 - 4x^2 + 7.",
+      "options": {
+        "A": "ψx^4 - 4x^3 + 7x",
+        "B": "ψx^4 - 4x^3 + 7",
+        "C": "ψx^4 - 8x^3 + 14x",
+        "D": "ψx^4 - 8x^3 + 14"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate each term separately."
+    },
+    {
+      "id": 16,
+      "difficulty": "easy",
+      "question": "Find the indefinite integral of x - 2 with respect to x.",
+      "options": {
+        "A": "x^2 - 2x",
+        "B": "x^2 + 2x",
+        "C": "x^2 - 4x",
+        "D": "x^2 + 4x"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate x and then simplify."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Evaluate ∫(3x - 1) dx from x = 0 to x = 2.",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "10"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate (3x - 1) and then evaluate the definite integral."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "Find the antiderivative of f(x) = x^2 + 4.",
+      "options": {
+        "A": "x^3 + 4x",
+        "B": "x^3 - 4x",
+        "C": "x^3 + 4",
+        "D": "x^3 - 4"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate each term separately."
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "Evaluate ∫(x^2 + 3x) dx from x = -1 to x = 5.",
+      "options": {
+        "A": "30",
+        "B": "35",
+        "C": "40",
+        "D": "45"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate (x^2 + 3x) and then evaluate the definite integral."
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "Find the antiderivative of f(x) = ψx^4 - 5x^3 + 9.",
+      "options": {
+        "A": "ψx^5 - 5x^4 + 9x",
+        "B": "ψx^5 - 5x^4 + 9",
+        "C": "ψx^5 - 10x^4 + 18x",
+        "D": "ψx^5 - 10x^4 + 18"
+      },
+      "correct_option": "A",
+      "explanation": "Use the power rule to integrate each term separately."
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "subject": "Math",
+  "topic": "Quadratic Equations",
+  "exam": "JEE",
+  "summary": "A quadratic equation is a polynomial equation of degree two, which means the highest power of the variable (usually x) is two. The general form of a quadratic equation is ax^2 + bx + c = 0, where a, b and c are constants, and x is the variable. The solutions to the equation can be found by factoring or using the quadratic formula: (-b ± √(b^2-4ac)) / 2a. Quadratic equations are widely used in various fields such as physics, engineering, economics, and computer science. For instance, projectile motion problems often involve quadratic equations. In this topic, we will cover key concepts, formulas, exam patterns, common mistakes, and tips to help JEE aspirants master quadratic equations.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "If a = 2, b = 3 and c = 4 in the equation ax^2 + bx + c = 0, find the value of x which satisfies the equation.",
+      "options": {
+        "A": "x=1",
+        "B": "-1/2",
+        "C": "x=-1",
+        "D": "x=2"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Solve the equation x^2 + 5x - 6 = 0.",
+      "options": {
+        "A": "x=-1",
+        "B": "x=3",
+        "C": "x=-2",
+        "D": "x=4"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "If the quadratic equation x^2 + bx + c = 0 has equal roots, then what is the value of b?",
+      "options": {
+        "A": "-c",
+        "B": "0",
+        "C": "b",
+        "D": "2c"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "Solve the equation x^2 - 7x + 12 = 0.",
+      "options": {
+        "A": "x=1",
+        "B": "x=3",
+        "C": "x=-2",
+        "D": "x=4"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "Find the value of x which satisfies the equation x^2 + 4x - 3 = 0.",
+      "options": {
+        "A": "x=-1",
+        "B": "x=1/3",
+        "C": "x=2",
+        "D": "x=-3"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "Solve the equation x^2 + 5x - 6 = 0.",
+      "options": {
+        "A": "x=1",
+        "B": "x=-1",
+        "C": "x=3",
+        "D": "x=-2"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Find the value of k for which the equation x^2 + (k+4)x - 5 = 0 has equal roots.",
+      "options": {
+        "A": "-8",
+        "B": "-6",
+        "C": "-4",
+        "D": "2"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "difficulty": "hard",
+      "question": "Solve the equation x^2 + 3x - 1 = 0.",
+      "options": {
+        "A": "x=1/2",
+        "B": "x=-1/2",
+        "C": "x=1/3",
+        "D": "x=-2"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "question": "Find the value of x which satisfies the equation x^2 - 4x + 3 = 0.",
+      "options": {
+        "A": "x=1/3",
+        "B": "x=-1/3",
+        "C": "x=3",
+        "D": "x=-3"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "difficulty": "hard",
+      "question": "Solve the equation x^2 - 6x + 8 = 0.",
+      "options": {
+        "A": "x=1/2",
+        "B": "x=-1/2",
+        "C": "x=2",
+        "D": "x=-2"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "difficulty": "easy",
+      "question": "Find the value of x which satisfies the equation x^2 + 3x - 4 = 0.",
+      "options": {
+        "A": "x=1",
+        "B": "x=-1",
+        "C": "x=4/3",
+        "D": "x=-4/3"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "difficulty": "easy",
+      "question": "Solve the equation x^2 - 5x + 6 = 0.",
+      "options": {
+        "A": "x=1",
+        "B": "x=-1",
+        "C": "x=3/2",
+        "D": "x=-3/2"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "Find the value of x which satisfies the equation x^2 - 4x + 1 = 0.",
+      "options": {
+        "A": "x=1/3",
+        "B": "x=-1/3",
+        "C": "x=1/2",
+        "D": "x=-1/2"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Solve the equation x^2 + 6x - 8 = 0.",
+      "options": {
+        "A": "x=2",
+        "B": "x=-1",
+        "C": "x=4/3",
+        "D": "x=-4/3"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "Find the value of x which satisfies the equation x^2 - 10x + 25 = 0.",
+      "options": {
+        "A": "x=1/5",
+        "B": "x=-1/5",
+        "C": "x=5/3",
+        "D": "x=-5/3"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "Solve the equation x^2 - 7x + 12 = 0.",
+      "options": {
+        "A": "x=1",
+        "B": "x=-1",
+        "C": "x=3/2",
+        "D": "x=-3/2"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "difficulty": "easy",
+      "question": "Find the value of x which satisfies the equation x^2 + 4x - 5 = 0.",
+      "options": {
+        "A": "x=1/3",
+        "B": "x=-1/3",
+        "C": "x=2",
+        "D": "x=-2"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "difficulty": "easy",
+      "question": "Solve the equation x^2 + 5x - 6 = 0.",
+      "options": {
+        "A": "x=1",
+        "B": "x=-1",
+        "C": "x=3/2",
+        "D": "x=-3/2"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "Find the value of x which satisfies the equation x^2 - 8x + 15 = 0.",
+      "options": {
+        "A": "x=1/3",
+        "B": "x=-1/3",
+        "C": "x=5/2",
+        "D": "x=-5/2"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "Solve the equation x^2 - 11x + 30 = 0.",
+      "options": {
+        "A": "x=1",
+        "B": "x=-1",
+        "C": "x=3/2",
+        "D": "x=-3/2"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    }
+  ]
+}

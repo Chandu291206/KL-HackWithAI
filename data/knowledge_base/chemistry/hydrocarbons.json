@@ -1,0 +1,268 @@
+{
+  "subject": "Chemistry",
+  "topic": "Hydrocarbons",
+  "exam": "Both",
+  "summary": "Hydrocarbons are organic compounds that contain only hydrogen and carbon atoms. They are formed through chemical reactions between hydrocarbon molecules, and they can be found in a variety of natural sources such as petroleum, coal, and natural gas. Hydrocarbons are an important part of the chemistry of life, and they play a crucial role in many biological processes. In this chapter, we will explore the properties and characteristics of hydrocarbons, including their chemical composition, physical properties, and biological importance.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the molecular formula for methane?",
+      "options": {
+        "A": "CH4",
+        "B": "C6H12",
+        "C": "C8H16",
+        "D": "C10H20"
+      },
+      "correct_option": "A",
+      "explanation": "Methane is a hydrocarbon with the molecular formula CH4."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a characteristic of saturated hydrocarbons?",
+      "options": {
+        "A": "They have a single bond between carbon atoms",
+        "B": "They have a double bond between carbon atoms",
+        "C": "They are insoluble in water",
+        "D": "They are highly flammable"
+      },
+      "correct_option": "B",
+      "explanation": "Saturated hydrocarbons do not have any double bonds."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the molecular formula for propane?",
+      "options": {
+        "A": "C3H6",
+        "B": "C3H8",
+        "C": "C4H10",
+        "D": "C5H12"
+      },
+      "correct_option": "B",
+      "explanation": "Propane is a hydrocarbon with the molecular formula C3H8."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the difference between an alkane and an alkene?",
+      "options": {
+        "A": "Alkanes have double bonds, while alkenes have single bonds",
+        "B": "Alkenes have double bonds, while alkanes have single bonds",
+        "C": "Alkanes are saturated, while alkenes are unsaturated",
+        "D": "Alkenes are saturated, while alkanes are unsaturated"
+      },
+      "correct_option": "C",
+      "explanation": "Alkanes are saturated hydrocarbons, which means they only have single bonds between carbon atoms. Alkenes are unsaturated hydrocarbons, which means they have at least one double bond."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the functional group of a saturated hydrocarbon?",
+      "options": {
+        "A": "-OH",
+        "B": "-COOH",
+        "C": "-CH3",
+        "D": "none"
+      },
+      "correct_option": "D",
+      "explanation": "Saturated hydrocarbons do not have any functional groups."
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "What is the molecular formula for butane?",
+      "options": {
+        "A": "C4H8",
+        "B": "C5H10",
+        "C": "C6H12",
+        "D": "C7H14"
+      },
+      "correct_option": "A",
+      "explanation": "Butane is a hydrocarbon with the molecular formula C4H8."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "Which of the following is an example of a hydrocarbon?",
+      "options": {
+        "A": "water",
+        "B": "glucose",
+        "C": "methane",
+        "D": "sodium"
+      },
+      "correct_option": "C",
+      "explanation": "Methane is a hydrocarbon."
+    },
+    {
+      "id": 8,
+      "difficulty": "hard",
+      "question": "What is the process by which a saturated hydrocarbon can be converted to an unsaturated hydrocarbon?",
+      "options": {
+        "A": "oxidation",
+        "B": "reduction",
+        "C": "hydrogenation",
+        "D": "dehydration"
+      },
+      "correct_option": "C",
+      "explanation": "Hydrogenation is a process that converts saturated hydrocarbons to unsaturated hydrocarbons."
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "question": "What is the molecular formula for hexane?",
+      "options": {
+        "A": "C5H10",
+        "B": "C6H12",
+        "C": "C7H14",
+        "D": "C8H16"
+      },
+      "correct_option": "B",
+      "explanation": "Hexane is a hydrocarbon with the molecular formula C6H12."
+    },
+    {
+      "id": 10,
+      "difficulty": "hard",
+      "question": "What is the process by which an unsaturated hydrocarbon can be converted to a saturated hydrocarbon?",
+      "options": {
+        "A": "oxidation",
+        "B": "reduction",
+        "C": "hydrogenation",
+        "D": "dehydration"
+      },
+      "correct_option": "C",
+      "explanation": "Hydrogenation is a process that converts unsaturated hydrocarbons to saturated hydrocarbons."
+    },
+    {
+      "id": 11,
+      "difficulty": "easy",
+      "question": "What is the molecular formula for ethane?",
+      "options": {
+        "A": "C2H4",
+        "B": "C3H6",
+        "C": "C2H6",
+        "D": "C4H8"
+      },
+      "correct_option": "C",
+      "explanation": "Ethane is a hydrocarbon with the molecular formula C2H6."
+    },
+    {
+      "id": 12,
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a characteristic of unsaturated hydrocarbons?",
+      "options": {
+        "A": "They have at least one double bond",
+        "B": "They are highly flammable",
+        "C": "They are insoluble in water",
+        "D": "They are less dense than saturated hydrocarbons"
+      },
+      "correct_option": "B",
+      "explanation": "Unsaturated hydrocarbons do not necessarily have to be highly flammable."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is the functional group of an alkene?",
+      "options": {
+        "A": "-OH",
+        "B": "-COOH",
+        "C": "=CH2",
+        "D": "none"
+      },
+      "correct_option": "C",
+      "explanation": "Alkenes have a functional group called a double bond."
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "What is the molecular formula for octane?",
+      "options": {
+        "A": "C7H14",
+        "B": "C8H16",
+        "C": "C9H18",
+        "D": "C10H20"
+      },
+      "correct_option": "B",
+      "explanation": "Octane is a hydrocarbon with the molecular formula C8H16."
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "What is the process by which an unsaturated hydrocarbon can be converted to another unsaturated hydrocarbon?",
+      "options": {
+        "A": "oxidation",
+        "B": "reduction",
+        "C": "dehydration",
+        "D": "hydrogenation"
+      },
+      "correct_option": "C",
+      "explanation": "Dehydration is a process that converts unsaturated hydrocarbons to other unsaturated hydrocarbons."
+    },
+    {
+      "id": 16,
+      "difficulty": "easy",
+      "question": "Which of the following is an example of an alkane?",
+      "options": {
+        "A": "methane",
+        "B": "ethanol",
+        "C": "butane",
+        "D": "glucose"
+      },
+      "correct_option": "A",
+      "explanation": "Methane is a saturated hydrocarbon, which makes it an example of an alkane."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is the difference between an alkene and an alkyne?",
+      "options": {
+        "A": "Alkenes have triple bonds, while alkanes have single bonds",
+        "B": "Alkynes have double bonds, while alkenes have single bonds",
+        "C": "Alkynes are saturated, while alkenes are unsaturated",
+        "D": "Alkenes are saturated, while alkanes are unsaturated"
+      },
+      "correct_option": "A",
+      "explanation": "Alkenes have double bonds, while alkynes have triple bonds."
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the molecular formula for decane?",
+      "options": {
+        "A": "C9H18",
+        "B": "C10H20",
+        "C": "C11H22",
+        "D": "C12H24"
+      },
+      "correct_option": "B",
+      "explanation": "Decane is a hydrocarbon with the molecular formula C10H20."
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What is the process by which an alkene can be converted to an alkyne?",
+      "options": {
+        "A": "oxidation",
+        "B": "reduction",
+        "C": "dehydration",
+        "D": "hydrogenation"
+      },
+      "correct_option": "C",
+      "explanation": "Dehydration is a process that converts alkene to alkyne."
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is the molecular formula for undecane?",
+      "options": {
+        "A": "C10H20",
+        "B": "C11H22",
+        "C": "C12H24",
+        "D": "C13H26"
+      },
+      "correct_option": "B",
+      "explanation": "Undecane is a hydrocarbon with the molecular formula C11H22."
+    }
+  ]
+}

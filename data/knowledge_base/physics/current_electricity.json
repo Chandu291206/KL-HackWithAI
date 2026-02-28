@@ -1,0 +1,268 @@
+{
+  "subject": "Physics",
+  "topic": "Current Electricity",
+  "exam": "Both",
+  "summary": "Current electricity is a branch of physics that deals with the flow of electrons through a conductor. The key concept in current electricity is the flow of electric charge, which is measured in amperes (A). The voltage or potential difference between two points in a circuit drives this flow. The resistance to the flow of charge is measured in ohms (Ω) and depends on the material and geometry of the conductor. The formula for Ohm's law is V=IR, where V is the voltage, I is the current, and R is the resistance. Kirchhoff's laws are also crucial in circuit analysis. There are two main types of circuits: series and parallel. In a series circuit, all components are connected one after another, while in a parallel circuit, all components are connected between the same two points. The total resistance of a parallel circuit is the reciprocal of the sum of the reciprocals of the individual resistances. The total current drawn from the source is the sum of the currents through each component. Common mistakes to avoid include not considering the internal resistance of batteries and assuming that all components in a circuit have zero internal resistance. Tips for solving problems include using Kirchhoff's laws to find the current in different parts of the circuit, and then using Ohm's law to find the voltage.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the unit of electric current?",
+      "options": {
+        "A": "Volts",
+        "B": "Ampere",
+        "C": "Ohm",
+        "D": "Watt"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the formula for Ohm's law?",
+      "options": {
+        "A": "V=IR",
+        "B": "I=RV",
+        "C": "R=VI",
+        "D": "V=RI"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the type of circuit where all components are connected in a single loop?",
+      "options": {
+        "A": "Series",
+        "B": "Parallel",
+        "C": "Mixed",
+        "D": "None"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the total resistance of a parallel circuit?",
+      "options": {
+        "A": "The sum of individual resistances",
+        "B": "The reciprocal of the sum of individual resistances",
+        "C": "The product of individual resistances",
+        "D": "None"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the total current drawn from a source in a series circuit?",
+      "options": {
+        "A": "The sum of individual currents",
+        "B": "The product of individual currents",
+        "C": "The reciprocal of the sum of individual resistances",
+        "D": "None"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "What is the internal resistance of a battery?",
+      "options": {
+        "A": "The resistance offered by the external circuit",
+        "B": "The resistance offered by the internal wires",
+        "C": "The resistance within the battery itself",
+        "D": "None"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the unit of electric potential difference?",
+      "options": {
+        "A": "Volt",
+        "B": "Ampere",
+        "C": "Ohm",
+        "D": "Watt"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What is the total current drawn from a source in a parallel circuit?",
+      "options": {
+        "A": "The sum of individual currents",
+        "B": "The product of individual currents",
+        "C": "The reciprocal of the sum of individual resistances",
+        "D": "None"
+      },
+      "correct_option": "Sum of individual currents",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "question": "What is the current in a circuit with resistance R and voltage V?",
+      "options": {
+        "A": "I=V/R",
+        "B": "I=R/V",
+        "C": "I=RV",
+        "D": "None"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What is the formula for the current in a series-parallel circuit?",
+      "options": {
+        "A": "I=V/R",
+        "B": "I=RV",
+        "C": "I=(R1+R2)/V",
+        "D": "None"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "difficulty": "hard",
+      "question": "What is the current in a circuit with resistance R and voltage V, if the internal resistance of the source is r?",
+      "options": {
+        "A": "I=(V-r)/R",
+        "B": "I=V/(R+r)",
+        "C": "I=RV/(R+r)",
+        "D": "None"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "difficulty": "easy",
+      "question": "What is the formula for the total resistance of a series circuit?",
+      "options": {
+        "A": "R1+R2",
+        "B": "R1*R2",
+        "C": "R1-R2",
+        "D": "None"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is the total current drawn from a source in a circuit with two resistors connected in series and parallel?",
+      "options": {
+        "A": "The sum of individual currents",
+        "B": "The product of individual currents",
+        "C": "The reciprocal of the sum of individual resistances",
+        "D": "None"
+      },
+      "correct_option": "Sum of individual currents",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "What is the current in a circuit with resistance R and voltage V, if the internal resistance of the source is r and the circuit is connected to another circuit?",
+      "options": {
+        "A": "I=(V-r)/R",
+        "B": "I=V/(R+r)",
+        "C": "I=RV/(R+r)",
+        "D": "None"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "difficulty": "easy",
+      "question": "What is the unit of electric power?",
+      "options": {
+        "A": "Watt",
+        "B": "Volt",
+        "C": "Ampere",
+        "D": "Ohm"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the formula for the total power consumed by a circuit?",
+      "options": {
+        "A": "P=VI",
+        "B": "P=I^2R",
+        "C": "P=(V-I)/R",
+        "D": "None"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is the power consumed by a circuit with resistance R and voltage V, if the internal resistance of the source is r?",
+      "options": {
+        "A": "P=(V-r)/R",
+        "B": "P=V/(R+r)",
+        "C": "P=RV/(R+r)",
+        "D": "None"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is the total power consumed by a series circuit with two resistors?",
+      "options": {
+        "A": "P=VI",
+        "B": "P=I^2R",
+        "C": "P=(V-I)/R",
+        "D": "None"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What is the power consumed by a circuit with resistance R and voltage V, if the internal resistance of the source is r and the circuit is connected to another circuit?",
+      "options": {
+        "A": "P=(V-r)/R",
+        "B": "P=V/(R+r)",
+        "C": "P=RV/(R+r)",
+        "D": "None"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "difficulty": "easy",
+      "question": "What is the total power consumed by a parallel circuit with two resistors?",
+      "options": {
+        "A": "P=VI",
+        "B": "P=I^2R",
+        "C": "P=(V-I)/R",
+        "D": "None"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    }
+  ]
+}

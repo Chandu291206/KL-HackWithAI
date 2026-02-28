@@ -1,0 +1,268 @@
+{
+  "subject": "Biology",
+  "topic": "Human Physiology",
+  "exam": "NEET",
+  "summary": "Human physiology refers to the study of the functions and processes that occur within the human body. It is a vital subject for NEET UG students, as it forms a significant portion of the biology section. In this topic, you will learn about the various organs and systems that make up the human body, including the circulatory, respiratory, digestive, nervous, and endocrine systems. You will also study the functions of these systems, such as circulation of blood, exchange of gases, digestion and absorption of nutrients, transmission of nerve impulses, and secretion of hormones. Furthermore, you will learn about the regulation of various bodily functions, including body temperature, blood pressure, and heart rate. Understanding human physiology is crucial for NEET UG students, as it helps them to comprehend the complexities of the human body and how different systems interact with each other.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the primary function of the circulatory system?",
+      "options": {
+        "A": "to regulate body temperature",
+        "B": "to transport oxygen and nutrients to cells",
+        "C": "to remove waste products from the body",
+        "D": "to produce hormones"
+      },
+      "correct_option": "B",
+      "explanation": "The primary function of the circulatory system is to transport oxygen and nutrients to cells and remove waste products from the body."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a function of the respiratory system?",
+      "options": {
+        "A": "to take in oxygen",
+        "B": "to remove carbon dioxide",
+        "C": "to regulate body temperature",
+        "D": "to produce hormones"
+      },
+      "correct_option": "D",
+      "explanation": "The respiratory system is responsible for taking in oxygen and removing carbon dioxide, but it does not produce hormones."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the primary function of the digestive system?",
+      "options": {
+        "A": "to break down food into smaller molecules",
+        "B": "to absorb nutrients from digested food",
+        "C": "to remove waste products from the body",
+        "D": "to regulate blood sugar levels"
+      },
+      "correct_option": "A",
+      "explanation": "The primary function of the digestive system is to break down food into smaller molecules that can be absorbed and utilized by the body."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which of the following is a type of white blood cell?",
+      "options": {
+        "A": "neutrophil",
+        "B": "lymphocyte",
+        "C": "monocyte",
+        "D": "eosinophil"
+      },
+      "correct_option": "A",
+      "explanation": "Neutrophils are a type of white blood cell that plays a key role in the body's immune response."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is the primary function of the nervous system?",
+      "options": {
+        "A": "to control muscle movements",
+        "B": "to regulate body temperature",
+        "C": "to transmit nerve impulses",
+        "D": "to produce hormones"
+      },
+      "correct_option": "C",
+      "explanation": "The primary function of the nervous system is to transmit nerve impulses between different parts of the body."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "Which of the following is a type of connective tissue?",
+      "options": {
+        "A": "cartilage",
+        "B": "bone",
+        "C": "muscle",
+        "D": "blood"
+      },
+      "correct_option": "A",
+      "explanation": "Cartilage is a type of connective tissue that provides support and flexibility to various parts of the body."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the primary function of the endocrine system?",
+      "options": {
+        "A": "to regulate blood sugar levels",
+        "B": "to produce hormones",
+        "C": "to remove waste products from the body",
+        "D": "to control muscle movements"
+      },
+      "correct_option": "B",
+      "explanation": "The primary function of the endocrine system is to produce hormones that help regulate various bodily functions."
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What is the process by which glucose is absorbed from the digestive tract into the bloodstream?",
+      "options": {
+        "A": "osmosis",
+        "B": "diffusion",
+        "C": "active transport",
+        "D": "facilitated diffusion"
+      },
+      "correct_option": "D",
+      "explanation": "Glucose absorption from the digestive tract into the bloodstream occurs through facilitated diffusion."
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is the purpose of the diaphragm in the respiratory system?",
+      "options": {
+        "A": "to regulate breathing",
+        "B": "to filter air",
+        "C": "to expand the chest cavity",
+        "D": "to contract the lungs"
+      },
+      "correct_option": "C",
+      "explanation": "The diaphragm plays a crucial role in expanding the chest cavity during inhalation, allowing for the exchange of gases."
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What is the primary function of the lymphatic system?",
+      "options": {
+        "A": "to transport nutrients to cells",
+        "B": "to remove waste products from the body",
+        "C": "to regulate body temperature",
+        "D": "to produce hormones"
+      },
+      "correct_option": "B",
+      "explanation": "The primary function of the lymphatic system is to remove waste products, including pathogens and toxins, from the body."
+    },
+    {
+      "id": 11,
+      "difficulty": "hard",
+      "question": "What is the role of the pancreas in glucose regulation?",
+      "options": {
+        "A": "to produce insulin",
+        "B": "to produce glucagon",
+        "C": "to regulate blood sugar levels",
+        "D": "to remove waste products from the body"
+      },
+      "correct_option": "A",
+      "explanation": "The pancreas produces insulin, which helps regulate blood glucose levels."
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "What is the purpose of the tricuspid valve in the circulatory system?",
+      "options": {
+        "A": "to pump blood from the heart to the lungs",
+        "B": "to pump blood from the heart to the rest of the body",
+        "C": "to regulate blood pressure",
+        "D": "to remove waste products from the blood"
+      },
+      "correct_option": "B",
+      "explanation": "The tricuspid valve plays a crucial role in pumping oxygenated blood from the right ventricle to the left atrium."
+    },
+    {
+      "id": 13,
+      "difficulty": "hard",
+      "question": "What is the primary function of the kidneys?",
+      "options": {
+        "A": "to regulate blood pressure",
+        "B": "to remove waste products from the body",
+        "C": "to produce hormones",
+        "D": "to control muscle movements"
+      },
+      "correct_option": "B",
+      "explanation": "The primary function of the kidneys is to remove waste products, including urea, creatinine, and other toxins, from the blood."
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "What is the role of the hypothalamus in regulating body temperature?",
+      "options": {
+        "A": "to produce hormones that regulate body temperature",
+        "B": "to sense changes in body temperature",
+        "C": "to control sweat glands",
+        "D": "to regulate appetite"
+      },
+      "correct_option": "B",
+      "explanation": "The hypothalamus plays a crucial role in sensing changes in body temperature and regulating the body's thermoregulatory responses."
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "What is the primary function of the thyroid gland?",
+      "options": {
+        "A": "to regulate heart rate",
+        "B": "to produce hormones that regulate metabolism",
+        "C": "to control muscle movements",
+        "D": "to remove waste products from the body"
+      },
+      "correct_option": "B",
+      "explanation": "The primary function of the thyroid gland is to produce hormones that regulate metabolic rate, such as thyroxine (T4) and triiodothyronine (T3)."
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "What is the role of the adrenal glands in responding to stress?",
+      "options": {
+        "A": "to produce hormones that regulate blood sugar levels",
+        "B": "to produce cortisol and adrenaline in response to stress",
+        "C": "to control muscle movements",
+        "D": "to remove waste products from the body"
+      },
+      "correct_option": "B",
+      "explanation": "The adrenal glands play a crucial role in responding to stress by producing hormones such as cortisol and adrenaline."
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is the primary function of the pituitary gland?",
+      "options": {
+        "A": "to regulate body temperature",
+        "B": "to produce hormones that regulate growth and development",
+        "C": "to control muscle movements",
+        "D": "to remove waste products from the body"
+      },
+      "correct_option": "B",
+      "explanation": "The primary function of the pituitary gland is to produce hormones that regulate growth and development, such as growth hormone and thyroid-stimulating hormone."
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the role of the spleen in the immune system?",
+      "options": {
+        "A": "to filter blood",
+        "B": "to store red blood cells",
+        "C": "to remove waste products from the body",
+        "D": "to activate white blood cells"
+      },
+      "correct_option": "A",
+      "explanation": "The spleen plays a crucial role in filtering the blood and removing old or damaged red blood cells, as well as storing platelets."
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What is the primary function of the liver?",
+      "options": {
+        "A": "to regulate blood pressure",
+        "B": "to remove waste products from the body",
+        "C": "to produce bile for digestion",
+        "D": "to store glycogen"
+      },
+      "correct_option": "B",
+      "explanation": "The primary function of the liver is to remove waste products, including toxins and excess nutrients, from the blood."
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is the role of the autonomic nervous system in regulating heart rate?",
+      "options": {
+        "A": "to stimulate the heart to beat faster",
+        "B": "to slow down the heart rate",
+        "C": "to regulate blood pressure",
+        "D": "to control muscle movements"
+      },
+      "correct_option": "A",
+      "explanation": "The autonomic nervous system plays a crucial role in regulating heart rate, with the sympathetic branch stimulating the heart to beat faster during times of stress or excitement."
+    }
+  ]
+}

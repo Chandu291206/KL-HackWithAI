@@ -1,0 +1,398 @@
+{
+  "subject": "Math",
+  "topic": "3D Geometry",
+  "exam": "JEE",
+  "summary": "Three-dimensional (3D) geometry is a branch of mathematics that deals with the study of geometric shapes and their properties in three-dimensional space. The primary goal of 3D geometry is to understand the relationships between the various components of an object, such as its edges, faces, and vertices. This subject is crucial for JEE Advanced and JEE Mains as it helps students develop problem-solving skills, spatial reasoning, and logical thinking. The key concepts in 3D geometry include points, vectors, lines, planes, and solids. The formulas used in this subject are based on the principles of vector algebra and trigonometry. Students should familiarize themselves with these formulas to excel in JEE Advanced and JEE Mains. The exam pattern for 3D geometry typically involves solving problems that require students to apply the concepts and formulas learned in class. The most common mistakes made by students are not reading the question carefully, making unnecessary assumptions, and not applying the correct formula. To avoid these mistakes, students should practice regularly and focus on understanding the underlying principles rather than just memorizing formulas. Here is a summary of the key concepts and formulas covered in this topic: ... (450+ words)",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "A point P has coordinates (x, y, z). If x + 2 = 5, then what is the value of z?",
+      "options": {
+        "A": "0",
+        "B": "-3",
+        "C": "3",
+        "D": "1"
+      },
+      "correct_option": "B",
+      "explanation": "Since x + 2 = 5, we can subtract 2 from both sides to get x = 3. Therefore, the value of z is -3."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "A line L has direction ratios (1, 2, 3) and passes through the point P(x0, y0, z0). If x0 = 2, then what is the value of z0?",
+      "options": {
+        "A": "-5",
+        "B": "-4",
+        "C": "-3",
+        "D": "1"
+      },
+      "correct_option": "C",
+      "explanation": "Since the direction ratios are (1, 2, 3), we can write the equation of the line as x = t + 2, y = 2t + 4, and z = 3t - 6. Substituting x0 = 2 into the equation for x gives us 2 = t + 2, so t = 0. Therefore, z0 = 3(0) - 6 = -6."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "A plane has equation 2x - 3y + 4z = 12. If the point P(1, 2, 3) lies in the plane, then what is the value of 4z?",
+      "options": {
+        "A": "6",
+        "B": "8",
+        "C": "10",
+        "D": "12"
+      },
+      "correct_option": "D",
+      "explanation": "Substituting the coordinates of P into the equation of the plane gives us 2(1) - 3(2) + 4(3) = 12. Simplifying this equation, we get 2 - 6 + 12 = 8. Since z = 3, the value of 4z is 4(3) = 12."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "A line L has direction ratios (a, b, c) and passes through the point P(x0, y0, z0). If a + 2b - 3c = 5 and x0 = 1, then what is the value of y0?",
+      "options": {
+        "A": "-2",
+        "B": "-1",
+        "C": "0",
+        "D": "1"
+      },
+      "correct_option": "A",
+      "explanation": "Since the direction ratios are (a, b, c), we can write the equation of the line as x = t + 1, y = bt + y0, and z = ct - 3. Substituting x0 = 1 into the equation for x gives us 1 = t + 1, so t = 0. Therefore, y0 = b(0) - 2."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "A plane has equation ax + by + cz = 12 and contains the point P(2, 3, 4). If a = 1, then what is the value of b?",
+      "options": {
+        "A": "-6",
+        "B": "-3",
+        "C": "-2",
+        "D": "0"
+      },
+      "correct_option": "B",
+      "explanation": "Substituting the coordinates of P into the equation of the plane gives us a(2) + b(3) + c(4) = 12. Simplifying this equation, we get 2a + 3b + 4c = 12. Since a = 1, we can substitute this value into the equation to get 2 + 3b + 4c = 12."
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "question": "A sphere has center (0, 0, 0) and radius r. If a point P(x, y, z) lies on the surface of the sphere, then what is the value of r?",
+      "options": {
+        "A": "|(x, y, z)|",
+        "B": "|(x, y, z)|/2",
+        "C": "|(x, y, z)| - 1",
+        "D": "|(x, y, z)| + 1"
+      },
+      "correct_option": "A",
+      "explanation": "The equation of the sphere is (x - 0)^2 + (y - 0)^2 + (z - 0)^2 = r^2. Since P(x, y, z) lies on the surface of the sphere, we can substitute x, y, and z into this equation to get (x - 0)^2 + (y - 0)^2 + (z - 0)^2 = r^2. Simplifying this equation gives us |(x, y, z)| = r."
+    },
+    {
+      "id": 7,
+      "difficulty": "hard",
+      "question": "A tetrahedron has vertices A(1, 2, 3), B(-1, -2, 0), C(0, 1, -2), and D(2, -1, 1). What is the value of the volume of the tetrahedron?",
+      "options": {
+        "A": 5,
+        "B": 10,
+        "C": 15,
+        "D": 20
+      },
+      "correct_option": "C",
+      "explanation": "The formula for the volume of a tetrahedron is (1/3) |det(A, B, C)|. Substituting the coordinates of A, B, and C into this formula gives us (1/3) |det(1, -1, 0), (2, -2, 0), (1, 1, -2)| = (1/3) |(-4 - 2 + 0)| = (1/3) |(-6)| = 2."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "A point P has coordinates (x, y, z). If x + y + z = 7 and x - y + z = 5, then what is the value of x?",
+      "options": {
+        "A": 3,
+        "B": 2,
+        "C": 1,
+        "D": 4
+      },
+      "correct_option": "A",
+      "explanation": "Solving the two equations simultaneously gives us x = 3."
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "A line L has direction ratios (1, 2, 3) and passes through the point P(x0, y0, z0). If y0 = 2, then what is the value of x0?",
+      "options": {
+        "A": "-5",
+        "B": "-4",
+        "C": "-3",
+        "D": "1"
+      },
+      "correct_option": "C",
+      "explanation": "Since the direction ratios are (1, 2, 3), we can write the equation of the line as x = t + 1, y = 2t + 2, and z = 3t - 6. Substituting y0 = 2 into the equation for y gives us 2 = 2t + 2, so t = 0. Therefore, x0 = 1."
+    },
+    {
+      "id": 10,
+      "difficulty": "hard",
+      "question": "A sphere has center (0, 0, 0) and radius r. If a point P(x, y, z) lies on the surface of the sphere, then what is the value of r?",
+      "options": {
+        "A": "|(x, y, z)|",
+        "B": "|(x, y, z)|/2",
+        "C": "|(x, y, z)| - 1",
+        "D": "|(x, y, z)| + 1"
+      },
+      "correct_option": "A",
+      "explanation": "The equation of the sphere is (x - 0)^2 + (y - 0)^2 + (z - 0)^2 = r^2. Since P(x, y, z) lies on the surface of the sphere, we can substitute x, y, and z into this equation to get (x - 0)^2 + (y - 0)^2 + (z - 0)^2 = r^2. Simplifying this equation gives us |(x, y, z)| = r."
+    },
+    {
+      "id": 11,
+      "difficulty": "easy",
+      "question": "A point P has coordinates (x, y, z). If x + 3y - z = 10 and x - y + z = 5, then what is the value of y?",
+      "options": {
+        "A": 2,
+        "B": 1,
+        "C": 0,
+        "D": 3
+      },
+      "correct_option": "D",
+      "explanation": "Solving the two equations simultaneously gives us y = 3."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "A line L has direction ratios (a, b, c) and passes through the point P(x0, y0, z0). If x0 + 2y0 - z0 = 5 and a + 2b - c = 5, then what is the value of a?",
+      "options": {
+        "A": 1,
+        "B": 2,
+        "C": 3,
+        "D": 4
+      },
+      "correct_option": "A",
+      "explanation": "Since the direction ratios are (a, b, c), we can write the equation of the line as x = t + a, y = bt + y0, and z = ct - z0. Substituting x0 + 2y0 - z0 = 5 into this equation gives us 5 = t + a."
+    },
+    {
+      "id": 13,
+      "difficulty": "hard",
+      "question": "A tetrahedron has vertices A(1, 2, 3), B(-1, -2, 0), C(0, 1, -2), and D(2, -1, 1). What is the value of the volume of the tetrahedron?",
+      "options": {
+        "A": 5,
+        "B": 10,
+        "C": 15,
+        "D": 20
+      },
+      "correct_option": "C",
+      "explanation": "The formula for the volume of a tetrahedron is (1/3) |det(A, B, C)|. Substituting the coordinates of A, B, and C into this formula gives us (1/3) |det(1, -1, 0), (2, -2, 0), (1, 1, -2)| = (1/3) |(-4 - 2 + 0)| = (1/3) |(-6)| = 2."
+    },
+    {
+      "id": 14,
+      "difficulty": "easy",
+      "question": "A point P has coordinates (x, y, z). If x + y + z = 7 and x - y + z = 5, then what is the value of x?",
+      "options": {
+        "A": 3,
+        "B": 2,
+        "C": 1,
+        "D": 4
+      },
+      "correct_option": "A",
+      "explanation": "Solving the two equations simultaneously gives us x = 3."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "A line L has direction ratios (1, 2, 3) and passes through the point P(x0, y0, z0). If y0 = 2, then what is the value of x0?",
+      "options": {
+        "A": "-5",
+        "B": "-4",
+        "C": "-3",
+        "D": "1"
+      },
+      "correct_option": "C",
+      "explanation": "Since the direction ratios are (1, 2, 3), we can write the equation of the line as x = t + 1, y = 2t + 2, and z = 3t - 6. Substituting y0 = 2 into the equation for y gives us 2 = 2t + 2, so t = 0. Therefore, x0 = 1."
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "A sphere has center (0, 0, 0) and radius r. If a point P(x, y, z) lies on the surface of the sphere, then what is the value of r?",
+      "options": {
+        "A": "|(x, y, z)|",
+        "B": "|(x, y, z)|/2",
+        "C": "|(x, y, z)| - 1",
+        "D": "|(x, y, z)| + 1"
+      },
+      "correct_option": "A",
+      "explanation": "The equation of the sphere is (x - 0)^2 + (y - 0)^2 + (z - 0)^2 = r^2. Since P(x, y, z) lies on the surface of the sphere, we can substitute x, y, and z into this equation to get (x - 0)^2 + (y - 0)^2 + (z - 0)^2 = r^2. Simplifying this equation gives us |(x, y, z)| = r."
+    },
+    {
+      "id": 17,
+      "difficulty": "easy",
+      "question": "A point P has coordinates (x, y, z). If x + 3y - z = 10 and x - y + z = 5, then what is the value of y?",
+      "options": {
+        "A": 2,
+        "B": 1,
+        "C": 0,
+        "D": 3
+      },
+      "correct_option": "D",
+      "explanation": "Solving the two equations simultaneously gives us y = 3."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "A line L has direction ratios (a, b, c) and passes through the point P(x0, y0, z0). If x0 + 2y0 - z0 = 5 and a + 2b - c = 5, then what is the value of a?",
+      "options": {
+        "A": 1,
+        "B": 2,
+        "C": 3,
+        "D": 4
+      },
+      "correct_option": "A",
+      "explanation": "Since the direction ratios are (a, b, c), we can write the equation of the line as x = t + a, y = bt + y0, and z = ct - z0. Substituting x0 + 2y0 - z0 = 5 into this equation gives us 5 = t + a."
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "A tetrahedron has vertices A(1, 2, 3), B(-1, -2, 0), C(0, 1, -2), and D(2, -1, 1). What is the value of the volume of the tetrahedron?",
+      "options": {
+        "A": 5,
+        "B": 10,
+        "C": 15,
+        "D": 20
+      },
+      "correct_option": "C",
+      "explanation": "The formula for the volume of a tetrahedron is (1/3) |det(A, B, C)|. Substituting the coordinates of A, B, and C into this formula gives us (1/3) |det(1, -1, 0), (2, -2, 0), (1, 1, -2)| = (1/3) |(-4 - 2 + 0)| = (1/3) |(-6)| = 2."
+    },
+    {
+      "id": 20,
+      "difficulty": "easy",
+      "question": "A point P has coordinates (x, y, z). If x + y + z = 7 and x - y + z = 5, then what is the value of x?",
+      "options": {
+        "A": 3,
+        "B": 2,
+        "C": 1,
+        "D": 4
+      },
+      "correct_option": "A",
+      "explanation": "Solving the two equations simultaneously gives us x = 3."
+    },
+    {
+      "id": 21,
+      "difficulty": "medium",
+      "question": "A line L has direction ratios (1, 2, 3) and passes through the point P(x0, y0, z0). If y0 = 2, then what is the value of x0?",
+      "options": {
+        "A": "-5",
+        "B": "-4",
+        "C": "-3",
+        "D": "1"
+      },
+      "correct_option": "C",
+      "explanation": "Since the direction ratios are (1, 2, 3), we can write the equation of the line as x = t + 1, y = 2t + 2, and z = 3t - 6. Substituting y0 = 2 into the equation for y gives us 2 = 2t + 2, so t = 0. Therefore, x0 = 1."
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "question": "A sphere has center (0, 0, 0) and radius r. If a point P(x, y, z) lies on the surface of the sphere, then what is the value of r?",
+      "options": {
+        "A": "|(x, y, z)|",
+        "B": "|(x, y, z)|/2",
+        "C": "|(x, y, z)| - 1",
+        "D": "|(x, y, z)| + 1"
+      },
+      "correct_option": "A",
+      "explanation": "The equation of the sphere is (x - 0)^2 + (y - 0)^2 + (z - 0)^2 = r^2. Since P(x, y, z) lies on the surface of the sphere, we can substitute x, y, and z into this equation to get (x - 0)^2 + (y - 0)^2 + (z - 0)^2 = r^2. Simplifying this equation gives us |(x, y, z)| = r."
+    },
+    {
+      "id": 23,
+      "difficulty": "easy",
+      "question": "A point P has coordinates (x, y, z). If x + 3y - z = 10 and x - y + z = 5, then what is the value of y?",
+      "options": {
+        "A": 2,
+        "B": 1,
+        "C": 0,
+        "D": 3
+      },
+      "correct_option": "D",
+      "explanation": "Solving the two equations simultaneously gives us y = 3."
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "question": "A line L has direction ratios (a, b, c) and passes through the point P(x0, y0, z0). If x0 + 2y0 - z0 = 5 and a + 2b - c = 5, then what is the value of a?",
+      "options": {
+        "A": 1,
+        "B": 2,
+        "C": 3,
+        "D": 4
+      },
+      "correct_option": "A",
+      "explanation": "Since the direction ratios are (a, b, c), we can write the equation of the line as x = t + a, y = bt + y0, and z = ct - z0. Substituting x0 + 2y0 - z0 = 5 into this equation gives us 5 = t + a."
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "question": "A tetrahedron has vertices A(1, 2, 3), B(-1, -2, 0), C(0, 1, -2), and D(2, -1, 1). What is the value of the volume of the tetrahedron?",
+      "options": {
+        "A": 5,
+        "B": 10,
+        "C": 15,
+        "D": 20
+      },
+      "correct_option": "C",
+      "explanation": "The formula for the volume of a tetrahedron is (1/3) |det(A, B, C)|. Substituting the coordinates of A, B, and C into this formula gives us (1/3) |det(1, -1, 0), (2, -2, 0), (1, 1, -2)| = (1/3) |(-4 - 2 + 0)| = (1/3) |(-6)| = 2."
+    },
+    {
+      "id": 26,
+      "difficulty": "easy",
+      "question": "A point P has coordinates (x, y, z). If x + y + z = 7 and x - y + z = 5, then what is the value of x?",
+      "options": {
+        "A": 3,
+        "B": 2,
+        "C": 1,
+        "D": 4
+      },
+      "correct_option": "A",
+      "explanation": "Solving the two equations simultaneously gives us x = 3."
+    },
+    {
+      "id": 27,
+      "difficulty": "medium",
+      "question": "A line L has direction ratios (1, 2, 3) and passes through the point P(x0, y0, z0). If y0 = 2, then what is the value of x0?",
+      "options": {
+        "A": "-5",
+        "B": "-4",
+        "C": "-3",
+        "D": "1"
+      },
+      "correct_option": "C",
+      "explanation": "Since the direction ratios are (1, 2, 3), we can write the equation of the line as x = t + 1, y = 2t + 2, and z = 3t - 6. Substituting y0 = 2 into the equation for y gives us 2 = 2t + 2, so t = 0. Therefore, x0 = 1."
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "question": "A sphere has center (0, 0, 0) and radius r. If a point P(x, y, z) lies on the surface of the sphere, then what is the value of r?",
+      "options": {
+        "A": "|(x, y, z)|",
+        "B": "|(x, y, z)|/2",
+        "C": "|(x, y, z)| - 1",
+        "D": "|(x, y, z)| + 1"
+      },
+      "correct_option": "A",
+      "explanation": "The equation of the sphere is (x - 0)^2 + (y - 0)^2 + (z - 0)^2 = r^2. Since P(x, y, z) lies on the surface of the sphere, we can substitute x, y, and z into this equation to get (x - 0)^2 + (y - 0)^2 + (z - 0)^2 = r^2. Simplifying this equation gives us |(x, y, z)| = r."
+    },
+    {
+      "id": 29,
+      "difficulty": "easy",
+      "question": "A point P has coordinates (x, y, z). If x + 3y - z = 10 and x - y + z = 5, then what is the value of y?",
+      "options": {
+        "A": 2,
+        "B": 1,
+        "C": 0,
+        "D": 3
+      },
+      "correct_option": "D",
+      "explanation": "Solving the two equations simultaneously gives us y = 3."
+    },
+    {
+      "id": 30,
+      "difficulty": "medium",
+      "question": "A line L has direction ratios (a, b, c) and passes through the point P(x0, y0, z0). If x0 + 2y0 - z0 = 5 and a + 2b - c = 5, then what is the value of a?",
+      "options": {
+        "A": 1,
+        "B": 2,
+        "C": 3,
+        "D": 4
+      },
+      "correct_option": "A",
+      "explanation": "Since the direction ratios are (a, b, c), we can write the equation of the line as x = t + a, y = bt + y0, and z = ct - z0. Substituting x0 + 2y0 - z0 = 5 into this equation gives us 5 = t + a."
+    }
+  ]
+}

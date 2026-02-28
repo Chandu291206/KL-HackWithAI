@@ -1,0 +1,268 @@
+{
+  "subject": "Physics",
+  "topic": "Thermodynamics",
+  "exam": "Both",
+  "summary": "Thermodynamics is a branch of physics that deals with the relationships between heat, work, and energy. It is based on four laws: zeroth law, first law, second law, and third law. The zeroth law states that if two systems are in thermal equilibrium with a third system, then they are also in thermal equilibrium with each other. The first law defines internal energy as the sum of kinetic and potential energies. The second law introduces entropy, which is a measure of disorder or randomness. The third law specifies how entropy changes during reversible processes. Thermodynamics has many applications in engineering, chemistry, and biology. For JEE Mains and NEET UG students, understanding thermodynamics concepts such as ideal gas equation, internal energy, enthalpy, and free energy will help them solve problems efficiently. It is essential to practice solving thermodynamics-related questions for both exams.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "The zeroth law of thermodynamics states that if two systems are in thermal equilibrium with a third system, then they are also in thermal equilibrium with each other. What does this mean?",
+      "options": {
+        "A": "It means the temperature of all three systems is same",
+        "B": "It means the heat transfer between the systems is same",
+        "C": "It means the internal energy of all three systems is same",
+        "D": "It means the entropy of all three systems is same"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the difference between internal energy and enthalpy?",
+      "options": {
+        "A": "Internal energy is a state function while enthalpy is not",
+        "B": "Enthalpy is a state function while internal energy is not",
+        "C": "Both are state functions",
+        "D": "Neither is a state function"
+      },
+      "correct_option": "B",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Ideal gas equation states PV = nRT. What does P represent?",
+      "options": {
+        "A": "Pressure",
+        "B": "Volume",
+        "C": "Number of moles",
+        "D": "Temperature"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "The entropy change during a reversible isothermal process is zero. What is the reason?",
+      "options": {
+        "A": "Because there is no heat transfer",
+        "B": "Because the temperature remains constant",
+        "C": "Because the pressure remains constant",
+        "D": "Because there is no work done"
+      },
+      "correct_option": "B",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the significance of free energy in thermodynamics?",
+      "options": {
+        "A": "It determines the spontaneity of a process",
+        "B": "It determines the entropy change during a process",
+        "C": "It determines the internal energy change during a process",
+        "D": "It determines the enthalpy change during a process"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "What is the difference between adiabatic and isothermal processes?",
+      "options": {
+        "A": "Adiabatic process is reversible while isothermal process is irreversible",
+        "B": "Isothermal process is reversible while adiabatic process is irreversible",
+        "C": "Adiabatic process occurs at constant temperature while isothermal process occurs at constant pressure",
+        "D": "Isothermal process occurs at constant temperature while adiabatic process occurs at constant volume"
+      },
+      "correct_option": "B",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 7,
+      "difficulty": "medium",
+      "question": "What is the significance of entropy in thermodynamics?",
+      "options": {
+        "A": "It determines the spontaneity of a process",
+        "B": "It determines the internal energy change during a process",
+        "C": "It determines the enthalpy change during a process",
+        "D": "It determines the disorder or randomness of a system"
+      },
+      "correct_option": "D",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 8,
+      "difficulty": "hard",
+      "question": "What is the difference between heat and work?",
+      "options": {
+        "A": "Heat is energy transfer due to temperature difference while work is energy transfer due to pressure difference",
+        "B": "Work is energy transfer due to temperature difference while heat is energy transfer due to pressure difference",
+        "C": "Both are forms of internal energy",
+        "D": "Neither is a form of internal energy"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "question": "What is the significance of Carnot cycle in thermodynamics?",
+      "options": {
+        "A": "It determines the efficiency of an engine",
+        "B": "It determines the entropy change during a process",
+        "C": "It determines the internal energy change during a process",
+        "D": "It determines the free energy change during a process"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 10,
+      "difficulty": "hard",
+      "question": "What is the difference between reversible and irreversible processes?",
+      "options": {
+        "A": "Reversible process occurs at constant temperature while irreversible process occurs at constant pressure",
+        "B": "Irreversible process occurs at constant temperature while reversible process occurs at constant pressure",
+        "C": "Reversible process is a spontaneous process while irreversible process is non-spontaneous",
+        "D": "Irreversible process is a spontaneous process while reversible process is non-spontaneous"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 11,
+      "difficulty": "hard",
+      "question": "What is the significance of Gibbs free energy in thermodynamics?",
+      "options": {
+        "A": "It determines the spontaneity of a process",
+        "B": "It determines the entropy change during a process",
+        "C": "It determines the internal energy change during a process",
+        "D": "It determines the enthalpy change during a process"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "What is the difference between ideal and real gases?",
+      "options": {
+        "A": "Ideal gas has zero viscosity while real gas has non-zero viscosity",
+        "B": "Real gas has zero viscosity while ideal gas has non-zero viscosity",
+        "C": "Ideal gas obeys kinetic molecular theory while real gas does not",
+        "D": "Real gas obeys kinetic molecular theory while ideal gas does not"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 13,
+      "difficulty": "hard",
+      "question": "What is the significance of Kelvin-Planck statement in thermodynamics?",
+      "options": {
+        "A": "It determines the efficiency of an engine",
+        "B": "It determines the entropy change during a process",
+        "C": "It determines the internal energy change during a process",
+        "D": "It determines the free energy change during a process"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "What is the difference between adiabatic and isothermal compressions?",
+      "options": {
+        "A": "Adiabatic compression occurs at constant temperature while isothermal compression occurs at constant pressure",
+        "B": "Isothermal compression occurs at constant temperature while adiabatic compression occurs at constant pressure",
+        "C": "Adiabatic compression occurs at constant volume while isothermal compression occurs at constant temperature",
+        "D": "Isothermal compression occurs at constant volume while adiabatic compression occurs at constant temperature"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "What is the significance of Joule-Thomson coefficient in thermodynamics?",
+      "options": {
+        "A": "It determines the entropy change during a process",
+        "B": "It determines the internal energy change during a process",
+        "C": "It determines the enthalpy change during a process",
+        "D": "It determines the isothermal compressibility of a gas"
+      },
+      "correct_option": "D",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "What is the difference between ideal and non-ideal solutions?",
+      "options": {
+        "A": "Ideal solution has zero osmotic pressure while non-ideal solution has non-zero osmotic pressure",
+        "B": "Non-ideal solution has zero osmotic pressure while ideal solution has non-zero osmotic pressure",
+        "C": "Ideal solution obeys Raoult's law while non-ideal solution does not",
+        "D": "Non-ideal solution obeys Raoult's law while ideal solution does not"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is the significance of van't Hoff equation in thermodynamics?",
+      "options": {
+        "A": "It determines the entropy change during a process",
+        "B": "It determines the internal energy change during a process",
+        "C": "It determines the enthalpy change during a process",
+        "D": "It relates the chemical potential of a solute to its concentration"
+      },
+      "correct_option": "D",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the difference between ideal and real semiconductors?",
+      "options": {
+        "A": "Ideal semiconductor has zero carrier density while real semiconductor has non-zero carrier density",
+        "B": "Real semiconductor has zero carrier density while ideal semiconductor has non-zero carrier density",
+        "C": "Ideal semiconductor obeys band theory while real semiconductor does not",
+        "D": "Real semiconductor obeys band theory while ideal semiconductor does not"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What is the significance of Nernst equation in thermodynamics?",
+      "options": {
+        "A": "It determines the entropy change during a process",
+        "B": "It determines the internal energy change during a process",
+        "C": "It determines the enthalpy change during a process",
+        "D": "It relates the electrochemical potential of an ion to its concentration"
+      },
+      "correct_option": "D",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is the difference between ideal and real superconductors?",
+      "options": {
+        "A": "Ideal superconductor has zero resistivity while real superconductor has non-zero resistivity",
+        "B": "Real superconductor has zero resistivity while ideal superconductor has non-zero resistivity",
+        "C": "Ideal superconductor obeys BCS theory while real superconductor does not",
+        "D": "Real superconductor obeys BCS theory while ideal superconductor does not"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    }
+  ]
+}

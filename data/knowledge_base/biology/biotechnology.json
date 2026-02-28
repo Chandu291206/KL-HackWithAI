@@ -1,0 +1,268 @@
+{
+  "subject": "Biology",
+  "topic": "Biotechnology",
+  "exam": "NEET",
+  "summary": "Biotechnology is a multidisciplinary field that combines biology, chemistry, mathematics, and engineering to develop innovative products and technologies. It involves the use of biological agents, such as enzymes, microorganisms, and genes, to improve processes or create new products. Biotechnology has numerous applications in fields like medicine, agriculture, environmental conservation, and bioremediation. The process of genetic engineering, where DNA is modified to introduce desirable traits, is a key aspect of biotechnology. This technology has revolutionized the production of biofuels, vaccines, and genetically engineered crops. Gene editing techniques, such as CRISPR-Cas9, have further expanded the scope of biotechnology. Biotechnology also plays a crucial role in diagnosing and treating genetic disorders, like sickle cell anemia and muscular dystrophy. In this context, understanding the basics of molecular biology, genetics, and biochemistry is essential for NEET aspirants. The exam pattern typically includes multiple-choice questions and descriptive answers that test candidates' knowledge of biotechnology concepts, applications, and techniques.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the primary focus of biotechnology?",
+      "options": {
+        "A": "Medical applications",
+        "B": "Environmental conservation",
+        "C": "Industrial processes",
+        "D": "Genetic engineering"
+      },
+      "correct_option": "D",
+      "explanation": "Biotechnology primarily focuses on genetic engineering, which involves the manipulation of DNA to introduce desirable traits."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is gene editing?",
+      "options": {
+        "A": "The process of introducing new genes into an organism",
+        "B": "The removal of unwanted genes from an organism",
+        "C": "The modification of existing genes in an organism",
+        "D": "The study of gene expression"
+      },
+      "correct_option": "C",
+      "explanation": "Gene editing is the process of modifying existing genes in an organism to introduce desirable traits."
+    },
+    {
+      "id": 3,
+      "difficulty": "medium",
+      "question": "What are the benefits of genetically engineered crops?",
+      "options": {
+        "A": "Increased crop yield",
+        "B": "Improved disease resistance",
+        "C": "Enhanced nutritional value",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "explanation": "Genetically engineered crops can exhibit increased crop yield, improved disease resistance, and enhanced nutritional value."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the primary application of biotechnology in medicine?",
+      "options": {
+        "A": "Vaccine production",
+        "B": "Disease diagnosis",
+        "C": "Gene therapy",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "explanation": "Biotechnology has multiple applications in medicine, including vaccine production, disease diagnosis, and gene therapy."
+    },
+    {
+      "id": 5,
+      "difficulty": "hard",
+      "question": "What is the CRISPR-Cas9 system?",
+      "options": {
+        "A": "A type of gene editing technique",
+        "B": "A method for producing biofuels",
+        "C": "A technique for genetic engineering",
+        "D": "A tool for studying molecular biology"
+      },
+      "correct_option": "A",
+      "explanation": "The CRISPR-Cas9 system is a highly efficient and precise gene editing technique that has revolutionized the field of biotechnology."
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "question": "What are some of the ethical concerns surrounding biotechnology?",
+      "options": {
+        "A": "Genetic modification",
+        "B": "Gene therapy",
+        "C": "Ethical treatment of animals",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "explanation": "Biotechnology raises several ethical concerns, including genetic modification, gene therapy, and the ethical treatment of animals."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is bioremediation?",
+      "options": {
+        "A": "The process of removing pollutants from the environment",
+        "B": "The study of environmental conservation",
+        "C": "The production of biofuels",
+        "D": "The modification of genes"
+      },
+      "correct_option": "A",
+      "explanation": "Bioremediation is the process of using microorganisms to remove pollutants from the environment."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is genetic engineering?",
+      "options": {
+        "A": "The manipulation of DNA to introduce desirable traits",
+        "B": "The study of gene expression",
+        "C": "The process of removing unwanted genes",
+        "D": "The modification of existing genes"
+      },
+      "correct_option": "A",
+      "explanation": "Genetic engineering involves the manipulation of DNA to introduce desirable traits."
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What are some of the applications of biotechnology in agriculture?",
+      "options": {
+        "A": "Improved crop yield",
+        "B": "Increased resistance to pests and diseases",
+        "C": "Enhanced nutritional value",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "explanation": "Biotechnology has numerous applications in agriculture, including improved crop yield, increased resistance to pests and diseases, and enhanced nutritional value."
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What is the primary focus of biotechnology in medicine?",
+      "options": {
+        "A": "Vaccine production",
+        "B": "Disease diagnosis",
+        "C": "Gene therapy",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "explanation": "Biotechnology has multiple applications in medicine, including vaccine production, disease diagnosis, and gene therapy."
+    },
+    {
+      "id": 11,
+      "difficulty": "hard",
+      "question": "What is the CRISPR-Cas9 system used for?",
+      "options": {
+        "A": "Gene editing",
+        "B": "Gene expression",
+        "C": "Genetic modification",
+        "D": "All of the above"
+      },
+      "correct_option": "A",
+      "explanation": "The CRISPR-Cas9 system is primarily used for gene editing."
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "What are some of the challenges faced by biotechnology?",
+      "options": {
+        "A": "Ethical concerns",
+        "B": "Regulatory hurdles",
+        "C": "Public perception",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "explanation": "Biotechnology faces several challenges, including ethical concerns, regulatory hurdles, and public perception."
+    },
+    {
+      "id": 13,
+      "difficulty": "easy",
+      "question": "What is genetic engineering used for?",
+      "options": {
+        "A": "Genome editing",
+        "B": "Gene therapy",
+        "C": "Genetic modification",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "explanation": "Genetic engineering has multiple applications, including genome editing, gene therapy, and genetic modification."
+    },
+    {
+      "id": 14,
+      "difficulty": "easy",
+      "question": "What is bioremediation used for?",
+      "options": {
+        "A": "Environmental conservation",
+        "B": "Pollution removal",
+        "C": "Water treatment",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "explanation": "Bioremediation has multiple applications, including environmental conservation, pollution removal, and water treatment."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What are some of the benefits of biotechnology?",
+      "options": {
+        "A": "Improved crop yield",
+        "B": "Increased resistance to pests and diseases",
+        "C": "Enhanced nutritional value",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "explanation": "Biotechnology has numerous benefits, including improved crop yield, increased resistance to pests and diseases, and enhanced nutritional value."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is gene editing used for?",
+      "options": {
+        "A": "Genome editing",
+        "B": "Gene therapy",
+        "C": "Genetic modification",
+        "D": "All of the above"
+      },
+      "correct_option": "A",
+      "explanation": "Gene editing has multiple applications, including genome editing, gene therapy, and genetic modification."
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What are some of the limitations of biotechnology?",
+      "options": {
+        "A": "Ethical concerns",
+        "B": "Regulatory hurdles",
+        "C": "Public perception",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "explanation": "Biotechnology faces several limitations, including ethical concerns, regulatory hurdles, and public perception."
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the future direction of biotechnology?",
+      "options": {
+        "A": "Genome editing",
+        "B": "Gene therapy",
+        "C": "Synthetic biology",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "explanation": "Biotechnology has a bright future, with applications in genome editing, gene therapy, and synthetic biology."
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "What is genetic engineering used for?",
+      "options": {
+        "A": "Genome editing",
+        "B": "Gene therapy",
+        "C": "Genetic modification",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "explanation": "Genetic engineering has multiple applications, including genome editing, gene therapy, and genetic modification."
+    },
+    {
+      "id": 20,
+      "difficulty": "easy",
+      "question": "What is biotechnology used for?",
+      "options": {
+        "A": "Environmental conservation",
+        "B": "Pollution removal",
+        "C": "Water treatment",
+        "D": "All of the above"
+      },
+      "correct_option": "D",
+      "explanation": "Biotechnology has multiple applications, including environmental conservation, pollution removal, and water treatment."
+    }
+  ]
+}

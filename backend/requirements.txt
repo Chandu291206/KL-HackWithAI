@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+passlib[bcrypt]
+python-jose[cryptography]
+apscheduler
+youtube-search-python
+httpx
+email-validator
+streamlit
+requests
+sseclient-py
+python-multipart

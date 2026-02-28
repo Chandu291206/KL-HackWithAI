@@ -1,0 +1,268 @@
+{
+  "subject": "Physics",
+  "topic": "Kinematics",
+  "exam": "Both",
+  "summary": "Kinematics is a fundamental branch of classical mechanics that describes the motion of points, bodies, and systems of bodies without considering the forces that cause the motion. It forms the bedrock for understanding more complex topics in physics, including dynamics. For JEE Mains and NEET UG, a thorough understanding of kinematics is indispensable.\n\nKey concepts in kinematics begin with defining position, displacement, and distance. Position refers to the location of an object relative to a reference point. Displacement is the change in position, a vector quantity, while distance is the total path length covered, a scalar quantity. Understanding the vector nature of displacement and the scalar nature of distance is crucial for problem-solving. Next, speed and velocity are introduced. Speed is the rate at which distance is covered (scalar), whereas velocity is the rate of change of displacement (vector). Instantaneous velocity and average velocity are distinct; instantaneous velocity is the velocity at a specific moment, while average velocity is the total displacement divided by the total time. Similarly, acceleration is the rate of change of velocity, also a vector quantity. Constant acceleration leads to the well-known equations of motion.\n\nImportant formulas are central to kinematics. For motion in one dimension with constant acceleration, the three primary equations are: 1) v = u + at, 2) s = ut + (1/2)at², and 3) v² = u² + 2as, where 'u' is initial velocity, 'v' is final velocity, 'a' is acceleration, 't' is time, and 's' is displacement. An additional formula, s_nth = u + a(2n-1)/2, calculates the displacement in the nth second. When acceleration is not constant, calculus becomes essential: velocity v = ds/dt and acceleration a = dv/dt = d²s/dt². Projectile motion, a key 2D kinematic concept, involves constant horizontal velocity and constant vertical acceleration (due to gravity). Formulas for projectile motion include time of flight (T = 2u sinθ / g), maximum height (H = u² sin²θ / 2g), and horizontal range (R = u² sin(2θ) / g). Relative velocity, which describes the velocity of an object with respect to another moving object, is also a critical topic, often expressed as V_AB = V_A - V_B.\n\nCommon exam patterns often involve: 1) direct application of equations of motion, 2) graphical analysis (position-time, velocity-time, acceleration-time graphs), 3) problems related to free fall and vertical motion, 4) projectile motion scenarios (e.g., hitting a target, motion on an inclined plane), 5) relative velocity problems (e.g., rain-man problems, river-boat problems), and 6) calculus-based questions where velocity or acceleration are functions of time or position.\n\nTypical mistakes students make include confusing scalar and vector quantities (e.g., distance vs. displacement, speed vs. velocity), incorrect sign conventions for direction, errors in applying the equations of motion (especially when acceleration is not constant or when using them for vector quantities without proper vector addition), misinterpreting graphs (e.g., confusing the slope of a v-t graph with the area under it), and calculation errors in calculus-based problems.\n\nExam tips for kinematics include: 1) Always identify the given and required quantities clearly. 2) Pay meticulous attention to sign conventions for displacement, velocity, and acceleration. 3) Draw clear diagrams for 2D motion problems like projectile motion and relative velocity. 4) Master the interpretation of kinematic graphs – slopes and areas provide crucial information. 5) Practice a wide variety of problems, including those involving varying acceleration requiring calculus. 6) Break down complex problems into simpler steps. 7) For relative velocity, consistently apply the vector subtraction formula. Consistent practice and conceptual clarity are key to excelling in kinematics.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "Which of the following quantities is a scalar quantity?",
+      "options": {
+        "A": "Displacement",
+        "B": "Velocity",
+        "C": "Speed",
+        "D": "Acceleration"
+      },
+      "correct_option": "C",
+      "explanation": "Speed is defined as the total distance covered per unit time, which is a scalar quantity. Displacement, velocity, and acceleration are all vector quantities."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What does the slope of a position-time (x-t) graph represent?",
+      "options": {
+        "A": "Acceleration",
+        "B": "Velocity",
+        "C": "Speed",
+        "D": "Displacement"
+      },
+      "correct_option": "B",
+      "explanation": "The slope of a position-time graph (dx/dt) represents the instantaneous velocity of the object."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "An object moves with constant velocity. What is its acceleration?",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Changing"
+      },
+      "correct_option": "C",
+      "explanation": "Acceleration is the rate of change of velocity. If velocity is constant, its rate of change is zero, hence acceleration is zero."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Which of the following equations is NOT an equation of motion for constant acceleration?",
+      "options": {
+        "A": "v = u + at",
+        "B": "s = ut + (1/2)at²",
+        "C": "v² = u² + 2as",
+        "D": "s = (u + v)t"
+      },
+      "correct_option": "D",
+      "explanation": "The equation s = (u + v)t is incorrect. The correct equation relating displacement, initial velocity, final velocity, and time is s = (u + v)/2 * t, which is derived from the definition of average velocity."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is the unit of acceleration in the SI system?",
+      "options": {
+        "A": "m/s",
+        "B": "m/s²",
+        "C": "m",
+        "D": "s"
+      },
+      "correct_option": "B",
+      "explanation": "Acceleration is the rate of change of velocity. Velocity is in m/s, so acceleration is (m/s)/s = m/s²."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "A particle starts from rest and moves with uniform acceleration. Which of the following graphs correctly represents its velocity-time relation?",
+      "options": {
+        "A": "A straight line passing through the origin with a positive slope.",
+        "B": "A horizontal line above the time axis.",
+        "C": "A curve with increasing slope.",
+        "D": "A straight line parallel to the velocity axis."
+      },
+      "correct_option": "A",
+      "explanation": "For uniform acceleration, velocity changes linearly with time (v = u + at). Since it starts from rest (u=0), v = at, which is a straight line passing through the origin with a positive slope 'a'."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "For a particle moving in a straight line, if the instantaneous velocity is zero, does it mean the instantaneous acceleration is also zero?",
+      "options": {
+        "A": "Yes, always.",
+        "B": "No, never.",
+        "C": "Not necessarily.",
+        "D": "Only if the particle is at rest permanently."
+      },
+      "correct_option": "C",
+      "explanation": "Not necessarily. At the highest point of a vertically thrown object, its instantaneous velocity is zero, but its acceleration is 'g' (due to gravity), which is non-zero. Also, if a particle momentarily reverses direction, its velocity becomes zero, but acceleration might be non-zero."
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "A car accelerates uniformly from rest to 20 m/s in 5 seconds. What is the distance covered by the car during this time?",
+      "options": {
+        "A": "20 m",
+        "B": "50 m",
+        "C": "100 m",
+        "D": "25 m"
+      },
+      "correct_option": "B",
+      "explanation": "Given: u = 0 m/s, v = 20 m/s, t = 5 s. We can find acceleration first: a = (v - u) / t = (20 - 0) / 5 = 4 m/s². Then, s = ut + (1/2)at² = 0*5 + (1/2)*4*(5²) = 2*25 = 50 m. Alternatively, using s = (u + v)/2 * t = (0 + 20)/2 * 5 = 10 * 5 = 50 m."
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "A ball is thrown vertically upwards with an initial velocity of 10 m/s. How high will it go? (Take g = 10 m/s²)",
+      "options": {
+        "A": "10 m",
+        "B": "5 m",
+        "C": "20 m",
+        "D": "2.5 m"
+      },
+      "correct_option": "B",
+      "explanation": "At the maximum height, the final velocity (v) will be 0 m/s. Given u = 10 m/s, a = -g = -10 m/s². Using v² = u² + 2as: 0² = (10)² + 2(-10)s => 0 = 100 - 20s => 20s = 100 => s = 5 m."
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "The position of a particle is given by x(t) = 3t² - 6t + 5 (in meters, t in seconds). What is the velocity of the particle at t = 2 s?",
+      "options": {
+        "A": "6 m/s",
+        "B": "12 m/s",
+        "C": "0 m/s",
+        "D": "3 m/s"
+      },
+      "correct_option": "A",
+      "explanation": "Velocity is the derivative of position with respect to time: v(t) = dx/dt = d/dt (3t² - 6t + 5) = 6t - 6. At t = 2 s, v(2) = 6(2) - 6 = 12 - 6 = 6 m/s."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "A projectile is fired horizontally from the top of a 80 m high cliff with a speed of 20 m/s. How far from the base of the cliff does it strike the ground? (Take g = 10 m/s²)",
+      "options": {
+        "A": "40 m",
+        "B": "80 m",
+        "C": "160 m",
+        "D": "200 m"
+      },
+      "correct_option": "B",
+      "explanation": "First, find the time of flight using vertical motion: H = (1/2)gt². 80 = (1/2)*10*t² => 80 = 5t² => t² = 16 => t = 4 s. The horizontal distance (range) is R = horizontal velocity * time = 20 m/s * 4 s = 80 m."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "A train A is moving east with a speed of 10 m/s and train B is moving west with a speed of 15 m/s. What is the velocity of train A relative to train B?",
+      "options": {
+        "A": "5 m/s East",
+        "B": "25 m/s East",
+        "C": "5 m/s West",
+        "D": "25 m/s West"
+      },
+      "correct_option": "B",
+      "explanation": "Let East be the positive direction. V_A = +10 m/s. V_B = -15 m/s. Velocity of A relative to B is V_AB = V_A - V_B = (+10) - (-15) = 10 + 15 = +25 m/s. So, 25 m/s East."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "The velocity-time graph for a particle is shown. The distance traveled by the particle in the first 4 seconds is:\n\n(Assume a graph with a straight line from (0,0) to (2, 10) and then a straight line from (2,10) to (4,0). This represents a triangle with base 4 and height 10)",
+      "options": {
+        "A": "10 m",
+        "B": "20 m",
+        "C": "30 m",
+        "D": "40 m"
+      },
+      "correct_option": "B",
+      "explanation": "The distance traveled is the area under the speed-time graph. Since the velocity is always positive (or zero) in the given description, distance is the area under the v-t graph. The graph forms a triangle with base = 4 s and height = 10 m/s. Area = (1/2) * base * height = (1/2) * 4 * 10 = 20 m."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "A body starts from rest and moves with uniform acceleration. If it covers 20 m in the first 2 seconds, what distance will it cover in the next 2 seconds?",
+      "options": {
+        "A": "20 m",
+        "B": "40 m",
+        "C": "60 m",
+        "D": "80 m"
+      },
+      "correct_option": "C",
+      "explanation": "From s = ut + (1/2)at², since u=0, s = (1/2)at². For the first 2 seconds (t=2s), 20 = (1/2)a(2²) => 20 = 2a => a = 10 m/s². Total distance in 4 seconds (t=4s): s_4 = (1/2)a(4²) = (1/2)*10*16 = 80 m. Distance in the next 2 seconds (from t=2s to t=4s) = s_4 - s_2 = 80 - 20 = 60 m."
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "A particle moves along the x-axis such that its acceleration is given by a = -2v, where v is its velocity. If at t=0, x=0 and v=10 m/s, what is the position of the particle when its velocity becomes 1 m/s?",
+      "options": {
+        "A": "4.5 m",
+        "B": "ln(10) m",
+        "C": "9 m",
+        "D": "ln(100) m"
+      },
+      "correct_option": "A",
+      "explanation": "Given a = -2v. We know a = v dv/dx. So, v dv/dx = -2v. This simplifies to dv/dx = -2 (assuming v is not zero). Integrating both sides: ∫dv = ∫-2dx. This is not correct as v is not constant. Correct approach: a = dv/dt = -2v. This implies dv/v = -2dt. Integrating from v_0=10 to v=1 and from t=0 to t: ∫(10 to 1) dv/v = ∫(0 to t) -2dt => [ln|v|] (10 to 1) = -2t => ln(1) - ln(10) = -2t => -ln(10) = -2t => t = ln(10)/2. Now, for position, we need v = dx/dt. From dv/v = -2dt, we get v(t) = 10e^(-2t). So, dx/dt = 10e^(-2t). Integrating from x=0 to x and t=0 to t: ∫(0 to x) dx = ∫(0 to t) 10e^(-2t) dt => x = [-5e^(-2t)] (0 to t) = -5e^(-2t) - (-5e^0) = 5 - 5e^(-2t). We need x when v=1 m/s. We found t = ln(10)/2 when v=1. Substitute t back into x: x = 5 - 5e^(-2 * ln(10)/2) = 5 - 5e^(-ln(10)) = 5 - 5 * (1/10) = 5 - 0.5 = 4.5 m."
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "A man running on a horizontal road at 8 km/h finds that the rain is falling vertically. He increases his speed to 12 km/h and finds that the rain makes an angle of 30° with the vertical. The speed of the rain with respect to the ground is:",
+      "options": {
+        "A": "4√7 km/h",
+        "B": "4 km/h",
+        "C": "8 km/h",
+        "D": "12 km/h"
+      },
+      "correct_option": "A",
+      "explanation": "Let V_r be the velocity of rain with respect to the ground, and V_m be the velocity of the man. V_rm = V_r - V_m. In the first case, V_m1 = 8 km/h (horizontal). Rain appears vertical, so V_rm1 has only a vertical component. This means the horizontal component of V_r is equal to V_m1. Let V_r = V_rx i + V_ry j. Then V_rm1 = (V_rx - 8) i + V_ry j. For V_rm1 to be vertical, V_rx - 8 = 0, so V_rx = 8 km/h. Thus, V_r = 8i + V_ry j. In the second case, V_m2 = 12 km/h (horizontal). V_rm2 = V_r - V_m2 = (8 - 12) i + V_ry j = -4i + V_ry j. This resultant velocity makes an angle of 30° with the vertical. So, tan(30°) = |horizontal component| / |vertical component| = |-4| / |V_ry|. 1/√3 = 4 / |V_ry| => |V_ry| = 4√3 km/h. The speed of rain with respect to the ground is |V_r| = √(V_rx² + V_ry²) = √(8² + (4√3)²) = √(64 + 16*3) = √(64 + 48) = √112 = √(16*7) = 4√7 km/h."
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "Two cars A and B are moving in the same direction with speeds 30 m/s and 20 m/s respectively. When car A is at a distance of 100 m behind car B, the driver of car A applies brakes producing a uniform deceleration of 2 m/s². What is the minimum initial distance between the cars so that car A does not collide with car B?",
+      "options": {
+        "A": "25 m",
+        "B": "50 m",
+        "C": "75 m",
+        "D": "100 m"
+      },
+      "correct_option": "A",
+      "explanation": "Let's work in the frame of reference of car B. V_AB = V_A - V_B = 30 - 20 = 10 m/s. Acceleration of A relative to B, a_AB = a_A - a_B. Since B is not accelerating, a_B = 0. So, a_AB = -2 m/s² (deceleration of A). Initial relative distance is 100 m. For no collision, the relative velocity V_AB must become zero before the relative displacement becomes 100 m. Using v² = u² + 2as, for relative motion: (V_AB_final)² = (V_AB_initial)² + 2 * a_AB * s_AB. We want the minimum distance for no collision, which means V_AB_final = 0. 0² = (10)² + 2(-2)s_AB => 0 = 100 - 4s_AB => 4s_AB = 100 => s_AB = 25 m. This means car A will travel 25 m relative to car B before coming to a stop relative to B. If the initial distance is 25 m, A will just stop at B's position. If the initial distance is more than 25 m, they won't collide. If the initial distance is less than 25 m, they will collide. So, the minimum initial distance required is 25 m."
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "A particle is projected from the ground with an initial velocity u making an angle θ with the horizontal. At the highest point of its trajectory, the velocity of the particle is:",
+      "options": {
+        "A": "u",
+        "B": "u sinθ",
+        "C": "u cosθ",
+        "D": "0"
+      },
+      "correct_option": "C",
+      "explanation": "In projectile motion, the horizontal component of velocity (u cosθ) remains constant throughout the trajectory, assuming no air resistance. At the highest point, the vertical component of velocity becomes momentarily zero. Therefore, the velocity of the particle at the highest point is solely its horizontal component, which is u cosθ."
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "A stone is dropped from a height h. Another stone is thrown horizontally from the same height with a velocity v. Which stone will reach the ground first?",
+      "options": {
+        "A": "The stone dropped vertically.",
+        "B": "The stone thrown horizontally.",
+        "C": "Both will reach simultaneously.",
+        "D": "Depends on the value of v."
+      },
+      "correct_option": "C",
+      "explanation": "The vertical motion of both stones is independent of their horizontal motion. Both stones are subject to the same gravitational acceleration 'g' in the vertical direction and start with zero initial vertical velocity (for the dropped stone, it's dropped; for the horizontally thrown stone, its initial vertical velocity is zero). Therefore, both stones will take the same time to fall through the height 'h' and reach the ground simultaneously. The horizontal velocity only affects the horizontal distance covered, not the time of flight."
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "A particle starts from rest and its acceleration varies with time as a = 3t² + 2t. Find the velocity of the particle after 2 seconds.",
+      "options": {
+        "A": "16 m/s",
+        "B": "12 m/s",
+        "C": "8 m/s",
+        "D": "4 m/s"
+      },
+      "correct_option": "B",
+      "explanation": "Given a = dv/dt = 3t² + 2t. To find velocity, integrate acceleration with respect to time: ∫dv = ∫(3t² + 2t) dt. v = t³ + t² + C. Since the particle starts from rest, at t=0, v=0. So, 0 = 0³ + 0² + C => C = 0. Thus, v(t) = t³ + t². Now, find the velocity after 2 seconds (t=2): v(2) = (2)³ + (2)² = 8 + 4 = 12 m/s."
+    }
+  ]
+}

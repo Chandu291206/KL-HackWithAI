@@ -1,0 +1,268 @@
+{
+  "subject": "Chemistry",
+  "topic": "p-Block Elements",
+  "exam": "Both",
+  "summary": "The p-block elements are a group of elements that make up the sixth and seventh periods of the periodic table. These elements include carbon, nitrogen, oxygen, fluorine, neon, and others. The p-block is characterized by an increase in atomic size and electronegativity as you move down the group. This is because the number of protons in the nucleus increases, which means that the positive charge on the nucleus also increases. As a result, the electrons are attracted to the nucleus more strongly, causing the atom to contract and increase its radius. The p-block elements have a wide range of physical and chemical properties, including melting points, boiling points, densities, and reactivity. Some p-block elements are highly reactive, while others are relatively inert. In this summary, we will explore the key concepts, formulas, exam patterns, common mistakes, and tips for understanding p-block elements.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the p-block in the periodic table?",
+      "options": {
+        "A": "The first group of elements",
+        "B": "The sixth and seventh periods of elements",
+        "C": "The d-block elements",
+        "D": "The f-block elements"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which p-block element has the highest electronegativity?",
+      "options": {
+        "A": "Fluorine",
+        "B": "Oxygen",
+        "C": "Nitrogen",
+        "D": "Carbon"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the trend in atomic size as you move down the p-block?",
+      "options": {
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains constant",
+        "D": "No trend"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "Why do the p-block elements have a wide range of physical and chemical properties?",
+      "options": {
+        "A": "Due to differences in atomic size",
+        "B": "Due to differences in electronegativity",
+        "C": "Due to differences in both atomic size and electronegativity",
+        "D": "No correlation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the relationship between the p-block elements' reactivity and their electronegativity?",
+      "options": {
+        "A": "More reactive elements have higher electronegativity",
+        "B": "Less reactive elements have lower electronegativity",
+        "C": "Reactivity is not related to electronegativity",
+        "D": "No correlation"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "question": "How do the p-block elements' physical and chemical properties change as you move down the group?",
+      "options": {
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Remain constant",
+        "D": "No trend"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "difficulty": "hard",
+      "question": "Why do some p-block elements have a higher melting point than others?",
+      "options": {
+        "A": "Due to differences in atomic size",
+        "B": "Due to differences in electronegativity",
+        "C": "Due to differences in both atomic size and electronegativity",
+        "D": "No correlation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is the p-block element with the highest melting point?",
+      "options": {
+        "A": "Carbon",
+        "B": "Nitrogen",
+        "C": "Oxygen",
+        "D": "Fluorine"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is the p-block element with the highest boiling point?",
+      "options": {
+        "A": "Carbon",
+        "B": "Nitrogen",
+        "C": "Oxygen",
+        "D": "Neon"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "Why do some p-block elements have a higher boiling point than others?",
+      "options": {
+        "A": "Due to differences in atomic size",
+        "B": "Due to differences in electronegativity",
+        "C": "Due to differences in both atomic size and electronegativity",
+        "D": "No correlation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the trend in density as you move down the p-block?",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "No trend"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "Why do some p-block elements have a higher density than others?",
+      "options": {
+        "A": "Due to differences in atomic size",
+        "B": "Due to differences in electronegativity",
+        "C": "Due to differences in both atomic size and electronegativity",
+        "D": "No correlation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "difficulty": "easy",
+      "question": "What is the p-block element with the highest reactivity?",
+      "options": {
+        "A": "Fluorine",
+        "B": "Oxygen",
+        "C": "Nitrogen",
+        "D": "Carbon"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "difficulty": "easy",
+      "question": "What is the p-block element with the lowest reactivity?",
+      "options": {
+        "A": "Neon",
+        "B": "Nitrogen",
+        "C": "Oxygen",
+        "D": "Carbon"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Why do some p-block elements have a higher reactivity than others?",
+      "options": {
+        "A": "Due to differences in atomic size",
+        "B": "Due to differences in electronegativity",
+        "C": "Due to differences in both atomic size and electronegativity",
+        "D": "No correlation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the trend in ionization energy as you move down the p-block?",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "No trend"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "Why do some p-block elements have a higher ionization energy than others?",
+      "options": {
+        "A": "Due to differences in atomic size",
+        "B": "Due to differences in electronegativity",
+        "C": "Due to differences in both atomic size and electronegativity",
+        "D": "No correlation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "difficulty": "easy",
+      "question": "What is the p-block element with the highest ionization energy?",
+      "options": {
+        "A": "Carbon",
+        "B": "Nitrogen",
+        "C": "Oxygen",
+        "D": "Neon"
+      },
+      "correct_option": "D",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "What is the p-block element with the lowest ionization energy?",
+      "options": {
+        "A": "Carbon",
+        "B": "Nitrogen",
+        "C": "Oxygen",
+        "D": "Fluorine"
+      },
+      "correct_option": "D",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "Why do some p-block elements have a higher electron affinity than others?",
+      "options": {
+        "A": "Due to differences in atomic size",
+        "B": "Due to differences in electronegativity",
+        "C": "Due to differences in both atomic size and electronegativity",
+        "D": "No correlation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    }
+  ]
+}

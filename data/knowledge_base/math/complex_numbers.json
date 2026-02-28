@@ -1,0 +1,268 @@
+{
+  "subject": "Math",
+  "topic": "Complex Numbers",
+  "exam": "JEE",
+  "summary": "Complex numbers are a fundamental concept in mathematics that extends the real number system to include imaginary numbers. A complex number is typically represented as a + bi, where a and b are real numbers and i is the imaginary unit that satisfies i^2 = -1. Complex numbers can be added, subtracted, multiplied, and divided using standard arithmetic operations, with some exceptions due to the presence of i. The conjugate of a complex number z = a + bi is z* = a - bi, which plays an important role in many mathematical manipulations. The magnitude or modulus of a complex number is given by |z| = sqrt(a^2 + b^2). Complex numbers are used extensively in various branches of mathematics, physics, engineering, and computer science to model and analyze oscillatory phenomena, electrical circuits, signal processing, and many other applications. In this topic, we will explore key concepts, formulas, and techniques used to manipulate complex numbers, along with common mistakes and tips for solving problems.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the conjugate of the complex number z = 3 + 4i?",
+      "options": {
+        "A": "3 - 4i",
+        "B": "5 + 6i",
+        "C": "2 - 3i",
+        "D": "-1 + 2i"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the modulus of the complex number z = 4 - 3i?",
+      "options": {
+        "A": "sqrt(25)",
+        "B": "sqrt(16)",
+        "C": "sqrt(9)",
+        "D": "5"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the sum of z1 = 2 + 3i and z2 = 4 - i?",
+      "options": {
+        "A": "6 + 2i",
+        "B": "6 - i",
+        "C": "8 + 2i",
+        "D": "7 + i"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the product of z1 = 3 - 2i and z2 = 5 + 4i?",
+      "options": {
+        "A": "15 + 6i",
+        "B": "17 + i",
+        "C": "-1 - 10i",
+        "D": "-15 - 8i"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the quotient of z1 = 6 + 3i and z2 = 2 - i?",
+      "options": {
+        "A": "2.5 + 1.25i",
+        "B": "3.5 + 0.75i",
+        "C": "4 + 2i",
+        "D": "5.5 - 0.5i"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "question": "Find the value of z^3 for z = 1 + i.",
+      "options": {
+        "A": "-2 - 2i",
+        "B": "1 - i",
+        "C": "-1 - i",
+        "D": "0"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "difficulty": "hard",
+      "question": "Find the value of (z + w)^3 for z = 2 + 3i and w = 1 - 2i.",
+      "options": {
+        "A": "5 + 33i",
+        "B": "-13 - 14i",
+        "C": "8 + 24i",
+        "D": "-4 + 12i"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is the sum of z1 = 5 and z2 = 2 - 3i?",
+      "options": {
+        "A": "7 - 3i",
+        "B": "6 + 2i",
+        "C": "7",
+        "D": "8 - i"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is the product of z1 = 3 and z2 = 4 + 3i?",
+      "options": {
+        "A": "12 + 9i",
+        "B": "15 - i",
+        "C": "10 + 6i",
+        "D": "11 + 5i"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "difficulty": "hard",
+      "question": "Find the value of z^4 for z = 1 - i.",
+      "options": {
+        "A": "-1 + 2i",
+        "B": "0",
+        "C": "1 - i",
+        "D": "1 + i"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "difficulty": "easy",
+      "question": "What is the modulus of the complex number z = 2i?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "sqrt(4)",
+        "D": "sqrt(5)"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is the sum of z1 = 2 + i and z2 = 3 - 2i?",
+      "options": {
+        "A": "5 - i",
+        "B": "4 + i",
+        "C": "5",
+        "D": "6 - i"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "difficulty": "hard",
+      "question": "Find the value of (z - w)^2 for z = 3 + 2i and w = 2 - i.",
+      "options": {
+        "A": "5 + 10i",
+        "B": "1 - 4i",
+        "C": "-2 + 6i",
+        "D": "0"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "difficulty": "easy",
+      "question": "What is the product of z1 = 2 and z2 = i?",
+      "options": {
+        "A": "2i",
+        "B": "-2i",
+        "C": "0",
+        "D": "1"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is the sum of z1 = 4 - i and z2 = 3 + 2i?",
+      "options": {
+        "A": "7 + i",
+        "B": "6 + 3i",
+        "C": "8 + i",
+        "D": "9 - i"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "Find the value of z^2 for z = 1 + 3i.",
+      "options": {
+        "A": "-8 - 6i",
+        "B": "10 + i",
+        "C": "4 - 9i",
+        "D": "0"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "difficulty": "easy",
+      "question": "What is the modulus of the complex number z = 3 - 4i?",
+      "options": {
+        "A": "1",
+        "B": "sqrt(5)",
+        "C": "sqrt(25)",
+        "D": "5"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is the product of z1 = 2 - i and z2 = 4 + 3i?",
+      "options": {
+        "A": "-8 + 7i",
+        "B": "5 - 10i",
+        "C": "9 + 6i",
+        "D": "10 + 11i"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "Find the value of (z + w)^2 for z = 1 - i and w = 3 + i.",
+      "options": {
+        "A": "-4 + 12i",
+        "B": "0",
+        "C": "5 + 6i",
+        "D": "10 + i"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "Find the value of z^3 for z = -1 + 2i.",
+      "options": {
+        "A": "-2 - 4i",
+        "B": "0",
+        "C": "2 - i",
+        "D": "-2 + 4i"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "subject": "Biology",
+  "topic": "Biomolecules",
+  "exam": "NEET",
+  "summary": "Biomolecules are the building blocks of life. They are composed of carbon, hydrogen, oxygen, and nitrogen atoms along with other elements like phosphorus, sulfur, and iron. Biomolecules can be classified into three main categories: carbohydrates, proteins, and nucleic acids. Carbohydrates include sugars and starches that serve as energy sources for cells. Proteins perform various functions such as catalyzing enzymes, transporting molecules, and replicating DNA. Nucleic acids comprise DNA and RNA, which contain genetic information necessary for cell growth, reproduction, and evolution. Biomolecules play crucial roles in cellular processes like metabolism, signaling, and regulation of gene expression. Understanding biomolecules is essential to comprehend biological systems and disease mechanisms. Students should focus on the structural and functional properties of biomolecules, their role in cellular processes, and the molecular interactions that occur between them.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What are the basic components of biomolecules?",
+      "options": {
+        "A": "Carbon, hydrogen, oxygen",
+        "B": "Nitrogen, sulfur, iron",
+        "C": "Phosphorus, carbon, nitrogen",
+        "D": "Oxygen, nitrogen, phosphorus"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Which biomolecule is responsible for energy storage in cells?",
+      "options": {
+        "A": "Protein",
+        "B": "Carbohydrate",
+        "C": "Nucleic acid",
+        "D": "Lipid"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the primary function of proteins in cells?",
+      "options": {
+        "A": "Energy storage",
+        "B": "Cell signaling",
+        "C": "Enzyme catalysis",
+        "D": "DNA replication"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the role of nucleic acids in cellular processes?",
+      "options": {
+        "A": "Energy storage",
+        "B": "Cell signaling",
+        "C": "Genetic information storage and transmission",
+        "D": "Enzyme regulation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the primary function of carbohydrates in cells?",
+      "options": {
+        "A": "Energy storage",
+        "B": "Cell signaling",
+        "C": "Structural component",
+        "D": "Enzyme regulation"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "question": "What is the role of biomolecules in cellular processes like metabolism and signaling?",
+      "options": {
+        "A": "Structural component",
+        "B": "Energy storage",
+        "C": "Molecular interactions",
+        "D": "Gene regulation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "difficulty": "hard",
+      "question": "How do biomolecules interact with each other in cellular processes?",
+      "options": {
+        "A": "Through chemical reactions",
+        "B": "Through molecular interactions",
+        "C": "Through enzymatic catalysis",
+        "D": "Through genetic modification"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is the main difference between carbohydrates and proteins?",
+      "options": {
+        "A": "Carbohydrates contain carbon, hydrogen, and oxygen",
+        "B": "Proteins contain nitrogen, sulfur, and iron",
+        "C": "Carbohydrates are structural components",
+        "D": "Proteins are energy storage"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is the role of nucleic acids in DNA replication?",
+      "options": {
+        "A": "Energy storage",
+        "B": "Cell signaling",
+        "C": "Genetic information transmission",
+        "D": "Enzyme regulation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What is the primary function of lipids in cells?",
+      "options": {
+        "A": "Energy storage",
+        "B": "Cell signaling",
+        "C": "Structural component",
+        "D": "Enzyme regulation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "difficulty": "hard",
+      "question": "How do biomolecules regulate gene expression?",
+      "options": {
+        "A": "Through transcription",
+        "B": "Through translation",
+        "C": "Through post-translational modification",
+        "D": "Through epigenetic modification"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "difficulty": "easy",
+      "question": "What is the main function of enzymes in cells?",
+      "options": {
+        "A": "Energy storage",
+        "B": "Cell signaling",
+        "C": "Catalysis",
+        "D": "Gene regulation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is the role of biomolecules in cellular processes like metabolism and signaling?",
+      "options": {
+        "A": "Structural component",
+        "B": "Energy storage",
+        "C": "Molecular interactions",
+        "D": "Gene regulation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "How do biomolecules interact with each other in cellular processes?",
+      "options": {
+        "A": "Through chemical reactions",
+        "B": "Through molecular interactions",
+        "C": "Through enzymatic catalysis",
+        "D": "Through genetic modification"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "difficulty": "easy",
+      "question": "What is the main difference between carbohydrates and proteins?",
+      "options": {
+        "A": "Carbohydrates contain carbon, hydrogen, and oxygen",
+        "B": "Proteins contain nitrogen, sulfur, and iron",
+        "C": "Carbohydrates are structural components",
+        "D": "Proteins are energy storage"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "difficulty": "easy",
+      "question": "What is the role of nucleic acids in DNA replication?",
+      "options": {
+        "A": "Energy storage",
+        "B": "Cell signaling",
+        "C": "Genetic information transmission",
+        "D": "Enzyme regulation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is the primary function of lipids in cells?",
+      "options": {
+        "A": "Energy storage",
+        "B": "Cell signaling",
+        "C": "Structural component",
+        "D": "Enzyme regulation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "How do biomolecules regulate gene expression?",
+      "options": {
+        "A": "Through transcription",
+        "B": "Through translation",
+        "C": "Through post-translational modification",
+        "D": "Through epigenetic modification"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "What is the main function of enzymes in cells?",
+      "options": {
+        "A": "Energy storage",
+        "B": "Cell signaling",
+        "C": "Catalysis",
+        "D": "Gene regulation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is the role of biomolecules in cellular processes like metabolism and signaling?",
+      "options": {
+        "A": "Structural component",
+        "B": "Energy storage",
+        "C": "Molecular interactions",
+        "D": "Gene regulation"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    }
+  ]
+}

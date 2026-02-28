@@ -1,0 +1,268 @@
+{
+  "subject": "Biology",
+  "topic": "Reproduction",
+  "exam": "NEET",
+  "summary": "Reproduction is a complex process that ensures the continuation of species. It involves the production of offspring through sexual or asexual means. In plants, reproduction occurs through flowers, fruits, and seeds, whereas in animals, it takes place through male and female gametes. The process of reproduction in living organisms is influenced by various factors such as environment, genetics, and evolutionary pressures.\r\n\r\nIn this topic, we will explore the mechanisms of reproduction in both plants and animals, including hermaphroditism, parthenogenesis, and viviparity. We will also discuss the role of hormones, genetic material, and energy sources in regulating reproductive processes.\r\n\r\nReproduction is a vital aspect of life, ensuring the survival and adaptation of species to their environments. Understanding the intricacies of reproduction helps us appreciate the diversity of life on Earth and our place within it.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the primary function of reproduction?",
+      "options": {
+        "A": "To maintain energy levels",
+        "B": "To ensure survival",
+        "C": "To produce offspring",
+        "D": "To adapt to environment"
+      },
+      "correct_option": "C",
+      "explanation": "Reproduction is the process by which an organism produces offspring, ensuring the continuation of its species."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the primary mode of reproduction in plants?",
+      "options": {
+        "A": "Flowers and fruits",
+        "B": "Seeds and spores",
+        "C": "Fungal hyphae",
+        "D": "Cell division"
+      },
+      "correct_option": "A",
+      "explanation": "In plants, the primary mode of reproduction is through flowers, fruits, and seeds."
+    },
+    {
+      "id": 3,
+      "difficulty": "medium",
+      "question": "What is hermaphroditism in animals?",
+      "options": {
+        "A": "The presence of both ovaries and testes",
+        "B": "The absence of reproductive organs",
+        "C": "The presence of only one sex organ",
+        "D": "The ability to reproduce without a mate"
+      },
+      "correct_option": "A",
+      "explanation": "Hermaphroditism is the condition where an individual has both male and female reproductive organs."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is parthenogenesis in animals?",
+      "options": {
+        "A": "The process of reproduction through eggs",
+        "B": "The process of reproduction without fertilization",
+        "C": "The process of reproduction with both parents",
+        "D": "The process of reproduction only with a male"
+      },
+      "correct_option": "B",
+      "explanation": "Parthenogenesis is the process of reproduction that occurs without fertilization."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is viviparity in animals?",
+      "options": {
+        "A": "The process of laying eggs",
+        "B": "The process of giving birth to live young",
+        "C": "The process of reproduction through spores",
+        "D": "The process of reproduction through seeds"
+      },
+      "correct_option": "B",
+      "explanation": "Viviparity is the condition where animals give birth to live young."
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "What is the role of hormones in regulating reproductive processes?",
+      "options": {
+        "A": "To stimulate reproduction",
+        "B": "To inhibit reproduction",
+        "C": "To regulate growth",
+        "D": "To maintain energy levels"
+      },
+      "correct_option": "A",
+      "explanation": "Hormones play a crucial role in regulating reproductive processes by stimulating or inhibiting the production of gametes."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the primary source of energy for reproductive processes?",
+      "options": {
+        "A": "Glucose",
+        "B": "Fatty acids",
+        "C": "Protein",
+        "D": "ATP"
+      },
+      "correct_option": "A",
+      "explanation": "The primary source of energy for reproductive processes is glucose."
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What is the role of genetic material in regulating reproductive processes?",
+      "options": {
+        "A": "To control the production of gametes",
+        "B": "To regulate growth and development",
+        "C": "To maintain energy levels",
+        "D": "To ensure survival"
+      },
+      "correct_option": "A",
+      "explanation": "Genetic material plays a crucial role in regulating reproductive processes by controlling the production of gametes."
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "question": "What is the concept of 'reproductive isolation'?",
+      "options": {
+        "A": "The process of reproduction without a mate",
+        "B": "The condition where an individual has both male and female reproductive organs",
+        "C": "The situation where two species are geographically isolated from each other",
+        "D": "The ability to reproduce in different environments"
+      },
+      "correct_option": "C",
+      "explanation": "Reproductive isolation is the concept where two species are geographically or genetically separated, making interbreeding impossible."
+    },
+    {
+      "id": 10,
+      "difficulty": "hard",
+      "question": "What is the role of environmental factors in regulating reproductive processes?",
+      "options": {
+        "A": "To stimulate reproduction",
+        "B": "To inhibit reproduction",
+        "C": "To regulate growth and development",
+        "D": "To maintain energy levels"
+      },
+      "correct_option": "B",
+      "explanation": "Environmental factors play a crucial role in regulating reproductive processes by inhibiting or stimulating the production of gametes."
+    },
+    {
+      "id": 11,
+      "difficulty": "easy",
+      "question": "What is the primary mode of reproduction in animals?",
+      "options": {
+        "A": "Flowers and fruits",
+        "B": "Seeds and spores",
+        "C": "Fungal hyphae",
+        "D": "Gametes"
+      },
+      "correct_option": "D",
+      "explanation": "In animals, the primary mode of reproduction is through gametes."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is the role of energy sources in regulating reproductive processes?",
+      "options": {
+        "A": "To maintain energy levels",
+        "B": "To regulate growth and development",
+        "C": "To stimulate reproduction",
+        "D": "To inhibit reproduction"
+      },
+      "correct_option": "A",
+      "explanation": "Energy sources play a crucial role in regulating reproductive processes by maintaining energy levels."
+    },
+    {
+      "id": 13,
+      "difficulty": "hard",
+      "question": "What is the concept of 'co-evolution'?",
+      "options": {
+        "A": "The process of adaptation to environment",
+        "B": "The situation where two species are geographically isolated from each other",
+        "C": "The phenomenon where two species evolve together",
+        "D": "The ability to reproduce in different environments"
+      },
+      "correct_option": "C",
+      "explanation": "Co-evolution is the concept where two species evolve together, influencing each other's reproductive processes."
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "What is the role of evolutionary pressures in regulating reproductive processes?",
+      "options": {
+        "A": "To stimulate reproduction",
+        "B": "To inhibit reproduction",
+        "C": "To regulate growth and development",
+        "D": "To maintain energy levels"
+      },
+      "correct_option": "B",
+      "explanation": "Evolutionary pressures play a crucial role in regulating reproductive processes by inhibiting or stimulating the production of gametes."
+    },
+    {
+      "id": 15,
+      "difficulty": "easy",
+      "question": "What is the primary mode of reproduction in fungi?",
+      "options": {
+        "A": "Flowers and fruits",
+        "B": "Seeds and spores",
+        "C": "Fungal hyphae",
+        "D": "Gametes"
+      },
+      "correct_option": "B",
+      "explanation": "In fungi, the primary mode of reproduction is through spores."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the role of genetic drift in regulating reproductive processes?",
+      "options": {
+        "A": "To control the production of gametes",
+        "B": "To regulate growth and development",
+        "C": "To maintain energy levels",
+        "D": "To ensure survival"
+      },
+      "correct_option": "A",
+      "explanation": "Genetic drift plays a crucial role in regulating reproductive processes by controlling the production of gametes."
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is the concept of 'speciation'?",
+      "options": {
+        "A": "The process of adaptation to environment",
+        "B": "The situation where two species are geographically isolated from each other",
+        "C": "The phenomenon where a new species emerges",
+        "D": "The ability to reproduce in different environments"
+      },
+      "correct_option": "C",
+      "explanation": "Speciation is the concept where a new species emerges through reproductive isolation or genetic drift."
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the role of mutation in regulating reproductive processes?",
+      "options": {
+        "A": "To stimulate reproduction",
+        "B": "To inhibit reproduction",
+        "C": "To regulate growth and development",
+        "D": "To maintain energy levels"
+      },
+      "correct_option": "B",
+      "explanation": "Mutation plays a crucial role in regulating reproductive processes by inhibiting or stimulating the production of gametes."
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "What is the primary mode of reproduction in protists?",
+      "options": {
+        "A": "Flowers and fruits",
+        "B": "Seeds and spores",
+        "C": "Fungal hyphae",
+        "D": "Gametes"
+      },
+      "correct_option": "D",
+      "explanation": "In protists, the primary mode of reproduction is through gametes."
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is the role of symbiosis in regulating reproductive processes?",
+      "options": {
+        "A": "To control the production of gametes",
+        "B": "To regulate growth and development",
+        "C": "To maintain energy levels",
+        "D": "To ensure survival"
+      },
+      "correct_option": "A",
+      "explanation": "Symbiosis plays a crucial role in regulating reproductive processes by controlling the production of gametes."
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "subject": "Chemistry",
+  "topic": "Thermochemistry",
+  "exam": "Both",
+  "summary": "Thermochemistry is the study of the relationship between heat and chemical reactions. It involves understanding how energy changes during a reaction, including the transfer of heat from one system to another. The concept of Hess's Law is crucial in thermochemistry, which states that the change in enthalpy (ΔH) for a reaction is independent of the path taken. This law allows us to calculate ΔH by summing up the ΔH values for individual steps in a multistep process. Thermochemical equations are written with the reactants on the left and products on the right, separated by an arrow representing the direction of the reaction. The sign of ΔH indicates whether energy is released or absorbed during the reaction. For example, the combustion of methane (CH4) to form carbon dioxide and water releases energy, indicated by a negative value of ΔH. Thermochemistry has numerous applications in fields such as chemical engineering, materials science, and environmental science.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the unit of enthalpy?",
+      "options": {
+        "A": "J",
+        "B": "KJ/mol",
+        "C": "Calorie",
+        "D": "eV"
+      },
+      "correct_option": "B",
+      "explanation": "Enthalpy has units of kJ/mol"
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the sign convention for ΔH?",
+      "options": {
+        "A": "Positive indicates energy release",
+        "B": "Negative indicates energy absorption",
+        "C": "Both above statements are correct",
+        "D": "Neither above statement is correct"
+      },
+      "correct_option": "C",
+      "explanation": "Correct"
+    },
+    {
+      "id": 3,
+      "difficulty": "medium",
+      "question": "Calculate the ΔH for the reaction: CaO + H2SO4 → CaSO4 + H2O",
+      "options": {
+        "A": "-123.6 kJ/mol",
+        "B": "123.6 kJ/mol",
+        "C": "-1.23 kJ/mol",
+        "D": "1.23 kJ/mol"
+      },
+      "correct_option": "A",
+      "explanation": "ΔH = -123.6 kJ/mol"
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the importance of Hess's Law?",
+      "options": {
+        "A": "It helps in calculating ΔG",
+        "B": "It helps in calculating ΔH",
+        "C": "It helps in determining whether a reaction is spontaneous or not",
+        "D": "It has no significance"
+      },
+      "correct_option": "B",
+      "explanation": "Correct"
+    },
+    {
+      "id": 5,
+      "difficulty": "hard",
+      "question": "Derive the expression for ΔH using standard enthalpy of formation",
+      "options": {
+        "A": "-ΣnΔf_H",
+        "B": "+ΣnΔf_H",
+        "C": "=ΣnΔf_H",
+        "D": "None of the above"
+      },
+      "correct_option": "A",
+      "explanation": "Correct"
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "question": "What is the significance of standard enthalpy of formation?",
+      "options": {
+        "A": "It helps in calculating ΔH for a reaction",
+        "B": "It helps in determining whether a reaction is spontaneous or not",
+        "C": "It has no significance",
+        "D": "It is used to calculate Gibbs free energy"
+      },
+      "correct_option": "A",
+      "explanation": "Correct"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the term for the energy transferred as heat?",
+      "options": {
+        "A": "Enthalpy",
+        "B": "Entropy",
+        "C": "Internal Energy",
+        "D": "Thermoneutrality"
+      },
+      "correct_option": "A",
+      "explanation": "Correct"
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is the term for the energy of a system at constant pressure?",
+      "options": {
+        "A": "Internal Energy",
+        "B": "Enthalpy",
+        "C": "Entropy",
+        "D": "Free Energy"
+      },
+      "correct_option": "A",
+      "explanation": "Correct"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "Calculate the ΔH for the reaction: CO2 + H2 → CH3OH + H2O",
+      "options": {
+        "A": "-127.4 kJ/mol",
+        "B": "127.4 kJ/mol",
+        "C": "-1.27 kJ/mol",
+        "D": "1.27 kJ/mol"
+      },
+      "correct_option": "A",
+      "explanation": "ΔH = -127.4 kJ/mol"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What is the significance of ΔH in chemical reactions?",
+      "options": {
+        "A": "It indicates whether a reaction is spontaneous or not",
+        "B": "It helps in calculating the standard free energy change",
+        "C": "It is used to calculate the equilibrium constant",
+        "D": "It has no significance"
+      },
+      "correct_option": "B",
+      "explanation": "Correct"
+    },
+    {
+      "id": 11,
+      "difficulty": "hard",
+      "question": "Derive the expression for ΔH using standard enthalpy of formation and standard entropy change",
+      "options": {
+        "A": "=ΣnΔf_H + TΔS",
+        "B": "-ΣnΔf_H - TΔS",
+        "C": "+ΣnΔf_H - TΔS",
+        "D": "None of the above"
+      },
+      "correct_option": "A",
+      "explanation": "Correct"
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "What is the significance of standard entropy change in chemical reactions?",
+      "options": {
+        "A": "It helps in calculating ΔG",
+        "B": "It has no significance",
+        "C": "It helps in determining whether a reaction is spontaneous or not",
+        "D": "It is used to calculate the equilibrium constant"
+      },
+      "correct_option": "C",
+      "explanation": "Correct"
+    },
+    {
+      "id": 13,
+      "difficulty": "easy",
+      "question": "What is the unit of entropy?",
+      "options": {
+        "A": "J/mol",
+        "B": "KJ/mol",
+        "C": "eV",
+        "D": "Calorie"
+      },
+      "correct_option": "A",
+      "explanation": "Correct"
+    },
+    {
+      "id": 14,
+      "difficulty": "easy",
+      "question": "What is the term for the disorder or randomness of a system?",
+      "options": {
+        "A": "Entropy",
+        "B": "Internal Energy",
+        "C": "Enthalpy",
+        "D": "Free Energy"
+      },
+      "correct_option": "A",
+      "explanation": "Correct"
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "Calculate the ΔH for the reaction: C6H12 + O2 → CO2 + H2O",
+      "options": {
+        "A": "-127.4 kJ/mol",
+        "B": "127.4 kJ/mol",
+        "C": "-1.27 kJ/mol",
+        "D": "1.27 kJ/mol"
+      },
+      "correct_option": "A",
+      "explanation": "ΔH = -127.4 kJ/mol"
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the significance of ΔG in chemical reactions?",
+      "options": {
+        "A": "It helps in determining whether a reaction is spontaneous or not",
+        "B": "It has no significance",
+        "C": "It is used to calculate the equilibrium constant",
+        "D": "It indicates whether a reaction is reversible or not"
+      },
+      "correct_option": "A",
+      "explanation": "Correct"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "Derive the expression for ΔG using ΔH and TΔS",
+      "options": {
+        "A": "=ΔH - TΔS",
+        "B": "=ΔH + TΔS",
+        "C": "-ΔH + TΔS",
+        "D": "None of the above"
+      },
+      "correct_option": "A",
+      "explanation": "Correct"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the significance of Gibbs free energy in chemical reactions?",
+      "options": {
+        "A": "It helps in determining whether a reaction is spontaneous or not",
+        "B": "It has no significance",
+        "C": "It is used to calculate the equilibrium constant",
+        "D": "It indicates whether a reaction is reversible or not"
+      },
+      "correct_option": "A",
+      "explanation": "Correct"
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "What is the term for the state of a system with maximum entropy?",
+      "options": {
+        "A": "Equilibrium",
+        "B": "Thermoneutrality",
+        "C": "Entropy Maximum",
+        "D": "Thermal Equilibrium"
+      },
+      "correct_option": "A",
+      "explanation": "Correct"
+    },
+    {
+      "id": 20,
+      "difficulty": "easy",
+      "question": "What is the term for the energy required to separate a system into its component parts?",
+      "options": {
+        "A": "Internal Energy",
+        "B": "Enthalpy",
+        "C": "Entropy",
+        "D": "Free Energy"
+      },
+      "correct_option": "A",
+      "explanation": "Correct"
+    }
+  ]
+}

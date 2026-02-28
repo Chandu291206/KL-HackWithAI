@@ -1,0 +1,268 @@
+{
+  "subject": "Biology",
+  "topic": "Cell Biology",
+  "exam": "NEET",
+  "summary": "Cell biology is the study of the structure, function and behavior of cells, which are the basic units of life. The cell is a complex system that consists of various organelles, membranes, cytoplasm, and nucleus. Cell biology has numerous applications in fields such as medicine, agriculture, and biotechnology. Some key concepts include cellular respiration, photosynthesis, mitosis, meiosis, apoptosis, and cell signaling pathways. The NEET exam tests students' knowledge of these topics through multiple-choice questions and descriptive answers. Common mistakes to avoid include not understanding the difference between prokaryotic and eukaryotic cells, failing to recognize the importance of cellular respiration in energy production, and neglecting to consider the role of apoptosis in maintaining tissue homeostasis. To succeed on the NEET exam, students should focus on developing a strong understanding of cell biology concepts, practicing with sample questions, and improving their time management skills.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the primary function of the cell membrane?",
+      "options": {
+        "A": "to provide structural support",
+        "B": "to regulate cellular transport",
+        "C": "to synthesize proteins",
+        "D": "to store genetic information"
+      },
+      "correct_option": "B",
+      "explanation": "The cell membrane, also known as the plasma membrane, regulates the movement of substances in and out of the cell."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the process by which cells produce energy from glucose?",
+      "options": {
+        "A": "photosynthesis",
+        "B": "respiration",
+        "C": "mitosis",
+        "D": "meiosis"
+      },
+      "correct_option": "B",
+      "explanation": "Cellular respiration is the process by which cells generate energy from the breakdown of glucose and other organic molecules."
+    },
+    {
+      "id": 3,
+      "difficulty": "medium",
+      "question": "What is the main difference between prokaryotic and eukaryotic cells?",
+      "options": {
+        "A": "the presence or absence of a nucleus",
+        "B": "the size of the cell",
+        "C": "the number of mitochondria",
+        "D": "the type of membrane-bound organelles"
+      },
+      "correct_option": "A",
+      "explanation": "Prokaryotic cells, such as bacteria, lack a true nucleus and other membrane-bound organelles, whereas eukaryotic cells, including animals and plants, have a true nucleus and various membraned organelles."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the process by which cells reproduce?",
+      "options": {
+        "A": "photosynthesis",
+        "B": "respiration",
+        "C": "mitosis",
+        "D": "meiosis"
+      },
+      "correct_option": "C",
+      "explanation": "Mitosis is the process by which eukaryotic cells divide and produce two daughter cells, each with the same number of chromosomes as the parent cell."
+    },
+    {
+      "id": 5,
+      "difficulty": "hard",
+      "question": "What is the role of apoptosis in maintaining tissue homeostasis?",
+      "options": {
+        "A": "to remove damaged or dysfunctional cells",
+        "B": "to increase cell proliferation",
+        "C": "to reduce cell size",
+        "D": "to stimulate cellular differentiation"
+      },
+      "correct_option": "A",
+      "explanation": "Apoptosis, or programmed cell death, plays a crucial role in maintaining tissue homeostasis by removing damaged or dysfunctional cells and preventing the accumulation of mutations."
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "question": "What is the significance of cellular signaling pathways?",
+      "options": {
+        "A": "to regulate gene expression",
+        "B": "to control cell growth and division",
+        "C": "to facilitate intercellular communication",
+        "D": "to coordinate developmental processes"
+      },
+      "correct_option": "C",
+      "explanation": "Cellular signaling pathways play a critical role in facilitating intercellular communication, allowing cells to respond to their environment and coordinate complex biological processes."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the primary function of the nucleus?",
+      "options": {
+        "A": "to synthesize proteins",
+        "B": "to store genetic information",
+        "C": "to regulate cell growth",
+        "D": "to facilitate intercellular communication"
+      },
+      "correct_option": "B",
+      "explanation": "The nucleus is the organelle responsible for storing and transmitting genetic information, serving as the control center of the cell."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is the process by which cells produce proteins?",
+      "options": {
+        "A": "translation",
+        "B": "transcription",
+        "C": "photosynthesis",
+        "D": "respiration"
+      },
+      "correct_option": "A",
+      "explanation": "Translation is the process by which messenger RNA (mRNA) sequences are used as templates to create a sequence of amino acids, resulting in the synthesis of proteins."
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is the difference between an autophagy and apoptosis?",
+      "options": {
+        "A": "autophagy is the process of cell death",
+        "B": "apoptosis is the process of cell survival",
+        "C": "autophagy is the process of cellular recycling",
+        "D": "apoptosis is the process of cellular differentiation"
+      },
+      "correct_option": "C",
+      "explanation": "Autophagy is the process by which cells recycle damaged or dysfunctional organelles and proteins, whereas apoptosis is the process by which cells undergo programmed cell death."
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What is the role of mitochondria in cellular respiration?",
+      "options": {
+        "A": "to produce ATP",
+        "B": "to synthesize proteins",
+        "C": "to regulate cellular transport",
+        "D": "to store genetic information"
+      },
+      "correct_option": "A",
+      "explanation": "Mitochondria are the site of cellular respiration, where energy from glucose is converted into ATP through the process of oxidative phosphorylation."
+    },
+    {
+      "id": 11,
+      "difficulty": "hard",
+      "question": "What is the significance of telomeres in cell division?",
+      "options": {
+        "A": "to regulate gene expression",
+        "B": "to control cell growth and division",
+        "C": "to facilitate intercellular communication",
+        "D": "to protect chromosomes during cell division"
+      },
+      "correct_option": "D",
+      "explanation": "Telomeres are repetitive DNA sequences at the ends of chromosomes that help to protect them from fusion or degradation during cell division."
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "What is the role of histones in gene expression?",
+      "options": {
+        "A": "to regulate gene expression",
+        "B": "to control cell growth and division",
+        "C": "to facilitate intercellular communication",
+        "D": "to package DNA into chromatin"
+      },
+      "correct_option": "D",
+      "explanation": "Histones are proteins that play a crucial role in packaging DNA into chromatin, allowing for the regulation of gene expression."
+    },
+    {
+      "id": 13,
+      "difficulty": "easy",
+      "question": "What is the primary function of the lysosome?",
+      "options": {
+        "A": "to synthesize proteins",
+        "B": "to store genetic information",
+        "C": "to regulate cellular transport",
+        "D": "to break down and recycle cellular waste"
+      },
+      "correct_option": "D",
+      "explanation": "Lysosomes are membrane-bound organelles responsible for breaking down and recycling cellular waste, including damaged or dysfunctional proteins and organelles."
+    },
+    {
+      "id": 14,
+      "difficulty": "easy",
+      "question": "What is the process by which cells produce energy from light?",
+      "options": {
+        "A": "photosynthesis",
+        "B": "respiration",
+        "C": "mitosis",
+        "D": "meiosis"
+      },
+      "correct_option": "A",
+      "explanation": "Photosynthesis is the process by which plants and some other organisms convert light energy into chemical energy, producing glucose and oxygen as byproducts."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is the difference between a prokaryotic and eukaryotic cell?",
+      "options": {
+        "A": "prokaryotes have a true nucleus, while eukaryotes do not",
+        "B": "eukaryotes have a true nucleus, while prokaryotes do not",
+        "C": "prokaryotes are larger than eukaryotes",
+        "D": "eukaryotes are more complex than prokaryotes"
+      },
+      "correct_option": "B",
+      "explanation": "Prokaryotic cells lack a true nucleus and other membrane-bound organelles, whereas eukaryotic cells have a true nucleus and various membraned organelles."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the role of ATP in cellular respiration?",
+      "options": {
+        "A": "to synthesize proteins",
+        "B": "to store genetic information",
+        "C": "to regulate gene expression",
+        "D": "to generate energy"
+      },
+      "correct_option": "D",
+      "explanation": "ATP (adenosine triphosphate) is the primary energy currency of cells, generated through cellular respiration and used to power various cellular processes."
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is the significance of cell signaling pathways in developmental biology?",
+      "options": {
+        "A": "to regulate gene expression",
+        "B": "to control cell growth and division",
+        "C": "to coordinate developmental processes",
+        "D": "to stimulate cellular differentiation"
+      },
+      "correct_option": "C",
+      "explanation": "Cell signaling pathways play a critical role in coordinating developmental processes, allowing cells to respond to their environment and shape the developing organism."
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the role of microtubules in cell division?",
+      "options": {
+        "A": "to regulate gene expression",
+        "B": "to control cell growth and division",
+        "C": "to facilitate intercellular communication",
+        "D": "to organize the mitotic spindle"
+      },
+      "correct_option": "D",
+      "explanation": "Microtubules are dynamic filaments that play a crucial role in organizing the mitotic spindle, allowing for the proper segregation of chromosomes during cell division."
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "What is the primary function of the chloroplast?",
+      "options": {
+        "A": "to synthesize proteins",
+        "B": "to store genetic information",
+        "C": "to regulate cellular transport",
+        "D": "to produce ATP through photosynthesis"
+      },
+      "correct_option": "D",
+      "explanation": "Chloroplasts are organelles found in plant cells that are responsible for producing ATP through the process of photosynthesis."
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is the significance of cell adhesion molecules in tissue development?",
+      "options": {
+        "A": "to regulate gene expression",
+        "B": "to control cell growth and division",
+        "C": "to coordinate developmental processes",
+        "D": "to facilitate intercellular communication"
+      },
+      "correct_option": "C",
+      "explanation": "Cell adhesion molecules play a critical role in coordinating developmental processes, allowing cells to adhere to each other and form complex tissue structures."
+    }
+  ]
+}

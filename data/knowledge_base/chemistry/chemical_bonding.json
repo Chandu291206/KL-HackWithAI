@@ -1,0 +1,268 @@
+{
+  "subject": "Chemistry",
+  "topic": "Chemical Bonding",
+  "exam": "Both",
+  "summary": "Chemical bonding is a crucial concept in chemistry, as it helps us understand how atoms interact with each other. Atoms tend to gain or lose electrons to form ions and attain a stable electronic configuration. This process of gaining or losing electrons is called ionization. When two atoms share one or more pairs of electrons to form a covalent bond, this is known as chemical bonding. The number of electrons involved in the bond is determined by the atomic numbers of the participating atoms. Chemical bonds are classified into three main types: ionic, covalent, and metallic. Ionic bonds occur when one atom loses an electron to become a positively charged ion (cation) and another atom gains that electron to become a negatively charged ion (anion). Covalent bonds form when two or more atoms share one or more pairs of electrons. Metallic bonds involve the sharing of electrons among many atoms, resulting in a sea of mobile electrons. Chemical bonding plays a vital role in determining the physical and chemical properties of substances.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is chemical bonding?",
+      "options": {
+        "A": "The process of gaining or losing electrons",
+        "B": "The process of sharing electrons",
+        "C": "The process of forming ions",
+        "D": "None of the above"
+      },
+      "correct_option": "A",
+      "explanation": "Chemical bonding is a process where atoms gain or lose electrons to form ions and attain a stable electronic configuration."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What type of bond forms when one atom loses an electron to become a cation and another atom gains that electron to become an anion?",
+      "options": {
+        "A": "Covalent",
+        "B": "Ionic",
+        "C": "Metallic",
+        "D": "Hydrogen"
+      },
+      "correct_option": "B",
+      "explanation": "An ionic bond forms when one atom loses an electron to become a positively charged ion (cation) and another atom gains that electron to become a negatively charged ion (anion)."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What type of bond forms when two or more atoms share one or more pairs of electrons?",
+      "options": {
+        "A": "Covalent",
+        "B": "Ionic",
+        "C": "Metallic",
+        "D": "Hydrogen"
+      },
+      "correct_option": "A",
+      "explanation": "A covalent bond forms when two or more atoms share one or more pairs of electrons."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the difference between an ion and a radical?",
+      "options": {
+        "A": "An ion has gained an electron, while a radical has lost an electron",
+        "B": "An ion has lost an electron, while a radical has gained an electron",
+        "C": "An ion has shared electrons, while a radical has not shared electrons",
+        "D": "None of the above"
+      },
+      "correct_option": "A",
+      "explanation": "An ion is formed by gaining or losing one or more electrons, whereas a radical is formed by gaining or losing one unpaired electron."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What type of bond is typically found in metals?",
+      "options": {
+        "A": "Covalent",
+        "B": "Ionic",
+        "C": "Metallic",
+        "D": "Hydrogen"
+      },
+      "correct_option": "C",
+      "explanation": "Metals typically exhibit metallic bonds, which involve the sharing of electrons among many atoms."
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "What is the process by which an atom loses or gains one or more electrons to form ions?",
+      "options": {
+        "A": "Ionization",
+        "B": "Electron sharing",
+        "C": "Chemical bonding",
+        "D": "None of the above"
+      },
+      "correct_option": "A",
+      "explanation": "Ionization is the process by which an atom loses or gains one or more electrons to form ions."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is a covalent bond?",
+      "options": {
+        "A": "A bond formed between two atoms that share one pair of electrons",
+        "B": "A bond formed between two atoms that share multiple pairs of electrons",
+        "C": "A bond formed between two atoms that do not share electrons",
+        "D": "None of the above"
+      },
+      "correct_option": "B",
+      "explanation": "A covalent bond is a type of chemical bond that forms when two or more atoms share one or more pairs of electrons."
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What type of bond is typically found in nonmetals?",
+      "options": {
+        "A": "Covalent",
+        "B": "Ionic",
+        "C": "Metallic",
+        "D": "Hydrogen"
+      },
+      "correct_option": "A",
+      "explanation": "Nonmetals typically exhibit covalent bonds, which involve the sharing of electrons among two or more atoms."
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is the difference between a chemical bond and a physical property?",
+      "options": {
+        "A": "A chemical bond is a type of physical property",
+        "B": "A chemical bond is not a physical property",
+        "C": "A chemical bond is a type of chemical property",
+        "D": "None of the above"
+      },
+      "correct_option": "B",
+      "explanation": "A chemical bond is a chemical property, whereas a physical property refers to a characteristic that can be observed without altering the substance's composition."
+    },
+    {
+      "id": 10,
+      "difficulty": "hard",
+      "question": "What is the concept of electronegativity and how does it relate to chemical bonding?",
+      "options": {
+        "A": "Electronegativity is a measure of an atom's ability to form bonds with other atoms",
+        "B": "Electronegativity is a measure of an atom's ability to lose electrons",
+        "C": "Electronegativity is a measure of an atom's ability to gain electrons",
+        "D": "None of the above"
+      },
+      "correct_option": "A",
+      "explanation": "Electronegativity is a measure of an atom's ability to attract shared electrons in a covalent bond. Atoms with high electronegativities tend to form bonds where they have a greater share of the electrons."
+    },
+    {
+      "id": 11,
+      "difficulty": "hard",
+      "question": "What is the difference between a polar and nonpolar covalent bond?",
+      "options": {
+        "A": "Polar bonds involve the sharing of electrons, while nonpolar bonds do not",
+        "B": "Polar bonds are found in ionic compounds, while nonpolar bonds are found in covalent compounds",
+        "C": "Polar bonds have a greater share of electrons, while nonpolar bonds have an equal share",
+        "D": "None of the above"
+      },
+      "correct_option": "A",
+      "explanation": "A polar covalent bond is one where the shared electrons are not equally distributed between the atoms, resulting in a partial positive charge on one atom and a partial negative charge on the other. A nonpolar covalent bond, on the other hand, has an equal share of electrons."
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "What is the concept of atomic orbitals and how do they relate to chemical bonding?",
+      "options": {
+        "A": "Atomic orbitals are a measure of an atom's ability to form bonds with other atoms",
+        "B": "Atomic orbitals are a measure of an atom's ability to lose electrons",
+        "C": "Atomic orbitals are a measure of an atom's ability to gain electrons",
+        "D": "None of the above"
+      },
+      "correct_option": "A",
+      "explanation": "Atomic orbitals are a set of mathematical functions that describe the probability distribution of an electron within an atom. The shape and size of atomic orbitals play a crucial role in determining how atoms bond with each other."
+    },
+    {
+      "id": 13,
+      "difficulty": "easy",
+      "question": "What type of bond forms when two atoms share one pair of electrons?",
+      "options": {
+        "A": "Covalent",
+        "B": "Ionic",
+        "C": "Metallic",
+        "D": "Hydrogen"
+      },
+      "correct_option": "A",
+      "explanation": "When two atoms share one pair of electrons, a covalent bond forms."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is the difference between a metallic and a covalent bond?",
+      "options": {
+        "A": "Metallic bonds involve the sharing of electrons among many atoms, while covalent bonds form when two or more atoms share one pair of electrons",
+        "B": "Metallic bonds are found in ionic compounds, while covalent bonds are found in molecular compounds",
+        "C": "Metallic bonds have a greater share of electrons, while covalent bonds have an equal share",
+        "D": "None of the above"
+      },
+      "correct_option": "A",
+      "explanation": "Metallic bonds involve the sharing of electrons among many atoms, whereas covalent bonds form when two or more atoms share one pair of electrons."
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "What is the concept of orbital overlap and how does it relate to chemical bonding?",
+      "options": {
+        "A": "Orbital overlap refers to the process by which atomic orbitals combine to form a molecular orbital",
+        "B": "Orbital overlap refers to the process by which electrons are transferred between atoms",
+        "C": "Orbital overlap refers to the process by which atoms lose or gain electrons",
+        "D": "None of the above"
+      },
+      "correct_option": "A",
+      "explanation": "Orbital overlap refers to the process by which atomic orbitals combine to form a molecular orbital, which is essential for chemical bonding."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What type of bond forms when one atom loses an electron to become a cation and another atom gains that electron to become an anion?",
+      "options": {
+        "A": "Covalent",
+        "B": "Ionic",
+        "C": "Metallic",
+        "D": "Hydrogen"
+      },
+      "correct_option": "B",
+      "explanation": "An ionic bond forms when one atom loses an electron to become a positively charged ion (cation) and another atom gains that electron to become a negatively charged ion (anion)."
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is the concept of molecular orbital theory and how does it relate to chemical bonding?",
+      "options": {
+        "A": "Molecular orbital theory is a model that describes the arrangement of electrons within a molecule",
+        "B": "Molecular orbital theory is a model that describes the arrangement of protons within an atom",
+        "C": "Molecular orbital theory is a model that describes the arrangement of neutrons within an atom",
+        "D": "None of the above"
+      },
+      "correct_option": "A",
+      "explanation": "Molecular orbital theory is a model that describes the arrangement of electrons within a molecule, which is essential for understanding chemical bonding."
+    },
+    {
+      "id": 18,
+      "difficulty": "easy",
+      "question": "What type of bond forms when two atoms share multiple pairs of electrons?",
+      "options": {
+        "A": "Covalent",
+        "B": "Ionic",
+        "C": "Metallic",
+        "D": "Hydrogen"
+      },
+      "correct_option": "A",
+      "explanation": "When two atoms share multiple pairs of electrons, a covalent bond forms."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What is the difference between a chemical bond and a physical property?",
+      "options": {
+        "A": "A chemical bond is a type of physical property",
+        "B": "A chemical bond is not a physical property",
+        "C": "A chemical bond is a type of chemical property",
+        "D": "None of the above"
+      },
+      "correct_option": "B",
+      "explanation": "A chemical bond is a chemical property, whereas a physical property refers to a characteristic that can be observed without altering the substance's composition."
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is the concept of resonance and how does it relate to chemical bonding?",
+      "options": {
+        "A": "Resonance refers to the process by which atoms form bonds with each other",
+        "B": "Resonance refers to the process by which electrons are transferred between atoms",
+        "C": "Resonance refers to the process by which atomic orbitals combine to form a molecular orbital",
+        "D": "None of the above"
+      },
+      "correct_option": "C",
+      "explanation": "Resonance refers to the process by which atomic orbitals combine to form a molecular orbital, which is essential for understanding chemical bonding."
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "subject": "Physics",
+  "topic": "Electrostatics",
+  "exam": "Both",
+  "summary": "Electrostatics is a fundamental concept in physics that deals with the study of stationary electric charges. It's a crucial topic for both JEE Mains and NEET UG students, as it lays the foundation for understanding various electrical phenomena. In this summary, we'll delve into the key concepts, formulas, and exam patterns related to electrostatics.\n\nThe fundamental principles of electrostatics include Coulomb's Law, which describes the interaction between two charges. It states that the force between two charges is proportional to the product of their magnitudes and inversely proportional to the square of the distance between them. This law can be mathematically represented as F = kq1q2/r^2, where F is the force, k is Coulomb's constant, q1 and q2 are the charges, and r is the distance.\n\nAnother important concept in electrostatics is electric field, which is a vector field that surrounds charged objects. It's defined as the force per unit charge that would be experienced by a test charge at a given point in space. The electric field due to a point charge can be calculated using the formula E = kq/r^2.\n\nUnderstanding the concept of electric potential or voltage is also crucial for electrostatics. Electric potential is the amount of work done per unit charge in moving a charge from infinity to a given point in an electric field. It's measured in volts (V) and is denoted by the symbol V.\n\nThe exam pattern for electrostatics typically includes a mix of theoretical and numerical problems. Students are expected to have a good grasp of concepts, formulas, and applications of electrostatics. Some common mistakes include ignoring units while calculating electric field or potential, not considering the direction of force, and mistakingly applying Coulomb's Law for moving charges.\n\nTo excel in this topic, students should focus on developing a strong foundation in mathematics and physics. They should practice solving problems from various sources, including textbooks, online resources, and previous year question papers. Additionally, they can improve their skills by working with real-world examples and applications of electrostatics.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the unit of electric charge?",
+      "options": {
+        "A": "Coulomb",
+        "B": "Volt",
+        "C": "Ampere",
+        "D": "Ohm"
+      },
+      "correct_option": "A",
+      "explanation": "The unit of electric charge is Coulomb (C)."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the formula for calculating the force between two charges?",
+      "options": {
+        "A": "F = kq1/r",
+        "B": "F = kq1q2/r^2",
+        "C": "F = kq1q2/r",
+        "D": "F = kq1/r^2"
+      },
+      "correct_option": "B",
+      "explanation": "The formula for calculating the force between two charges is F = kq1q2/r^2."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the direction of electric field lines around a positive charge?",
+      "options": {
+        "A": "Outward",
+        "B": "Inward",
+        "C": "Random",
+        "D": "Zero"
+      },
+      "correct_option": "A",
+      "explanation": "The direction of electric field lines around a positive charge is outward."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "Two charges, q1 = 2 μC and q2 = -3 μC, are separated by a distance of 5 cm. Calculate the force between them.",
+      "options": {
+        "A": "0.6 N",
+        "B": "1.8 N",
+        "C": "3.6 N",
+        "D": "4.5 N"
+      },
+      "correct_option": "A",
+      "explanation": "To calculate the force, we need to use Coulomb's Law: F = kq1q2/r^2."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the electric potential at a distance of 10 cm from a charge of +4 μC?",
+      "options": {
+        "A": "40 V",
+        "B": "80 V",
+        "C": "120 V",
+        "D": "160 V"
+      },
+      "correct_option": "C",
+      "explanation": "The electric potential at a distance of 10 cm from a charge of +4 μC can be calculated using the formula V = kq/r."
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "question": "A sphere of radius 5 cm is uniformly charged with a total charge of -2 μC. Calculate the electric field at the center of the sphere.",
+      "options": {
+        "A": "0 N/C",
+        "B": "100 N/C",
+        "C": "200 N/C",
+        "D": "300 N/C"
+      },
+      "correct_option": "B",
+      "explanation": "The electric field at the center of the sphere can be calculated using the formula E = kQ/r^2."
+    },
+    {
+      "id": 7,
+      "difficulty": "hard",
+      "question": "Two charges, q1 = +3 μC and q2 = -2 μC, are separated by a distance of 10 cm. Calculate the torque experienced by a charge of +1 μC placed at the midpoint between them.",
+      "options": {
+        "A": "0 Nm",
+        "B": "0.5 Nm",
+        "C": "1 Nm",
+        "D": "2 Nm"
+      },
+      "correct_option": "B",
+      "explanation": "The torque experienced by a charge of +1 μC placed at the midpoint between q1 and q2 can be calculated using the formula τ = r x F."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is the unit of electric potential?",
+      "options": {
+        "A": "Volts",
+        "B": "Coulombs",
+        "C": "Ampere-hours",
+        "D": "Ohms"
+      },
+      "correct_option": "A",
+      "explanation": "The unit of electric potential is Volts (V)."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is the formula for calculating the electric field due to a point charge?",
+      "options": {
+        "A": "E = kq/r",
+        "B": "E = kq/r^2",
+        "C": "E = kq/r^3",
+        "D": "E = kq"
+      },
+      "correct_option": "B",
+      "explanation": "The formula for calculating the electric field due to a point charge is E = kq/r^2."
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "A charge of +5 μC is placed at a distance of 15 cm from another charge of -3 μC. Calculate the force between them.",
+      "options": {
+        "A": "0.9 N",
+        "B": "2.1 N",
+        "C": "4.2 N",
+        "D": "6.3 N"
+      },
+      "correct_option": "B",
+      "explanation": "To calculate the force, we need to use Coulomb's Law: F = kq1q2/r^2."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the electric potential at a distance of 20 cm from a charge of +3 μC?",
+      "options": {
+        "A": "60 V",
+        "B": "90 V",
+        "C": "120 V",
+        "D": "150 V"
+      },
+      "correct_option": "C",
+      "explanation": "The electric potential at a distance of 20 cm from a charge of +3 μC can be calculated using the formula V = kq/r."
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "A sphere of radius 10 cm is uniformly charged with a total charge of -5 μC. Calculate the electric field at a distance of 25 cm from the center of the sphere.",
+      "options": {
+        "A": "0 N/C",
+        "B": "100 N/C",
+        "C": "200 N/C",
+        "D": "300 N/C"
+      },
+      "correct_option": "B",
+      "explanation": "The electric field at a distance of 25 cm from the center of the sphere can be calculated using the formula E = kQ/r^2."
+    },
+    {
+      "id": 13,
+      "difficulty": "hard",
+      "question": "Two charges, q1 = +2 μC and q2 = -4 μC, are separated by a distance of 15 cm. Calculate the torque experienced by a charge of +3 μC placed at the midpoint between them.",
+      "options": {
+        "A": "0 Nm",
+        "B": "1.5 Nm",
+        "C": "3 Nm",
+        "D": "4.5 Nm"
+      },
+      "correct_option": "B",
+      "explanation": "The torque experienced by a charge of +3 μC placed at the midpoint between q1 and q2 can be calculated using the formula τ = r x F."
+    },
+    {
+      "id": 14,
+      "difficulty": "easy",
+      "question": "What is the unit of electric current?",
+      "options": {
+        "A": "Amperes",
+        "B": "Volts",
+        "C": "Ohms",
+        "D": "Coulombs"
+      },
+      "correct_option": "A",
+      "explanation": "The unit of electric current is Amperes (A)."
+    },
+    {
+      "id": 15,
+      "difficulty": "easy",
+      "question": "What is the formula for calculating the resistance of a conductor?",
+      "options": {
+        "A": "R = ρ/l",
+        "B": "R = ρl",
+        "C": "R = l/ρ",
+        "D": "R = ρ"
+      },
+      "correct_option": "A",
+      "explanation": "The formula for calculating the resistance of a conductor is R = ρ/l, where ρ is the resistivity and l is the length."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "A charge of +4 μC is placed at a distance of 20 cm from another charge of -2 μC. Calculate the force between them.",
+      "options": {
+        "A": "1.8 N",
+        "B": "3.6 N",
+        "C": "5.4 N",
+        "D": "7.2 N"
+      },
+      "correct_option": "B",
+      "explanation": "To calculate the force, we need to use Coulomb's Law: F = kq1q2/r^2."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is the electric potential at a distance of 30 cm from a charge of +5 μC?",
+      "options": {
+        "A": "150 V",
+        "B": "200 V",
+        "C": "250 V",
+        "D": "300 V"
+      },
+      "correct_option": "C",
+      "explanation": "The electric potential at a distance of 30 cm from a charge of +5 μC can be calculated using the formula V = kq/r."
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "A sphere of radius 15 cm is uniformly charged with a total charge of -6 μC. Calculate the electric field at a distance of 35 cm from the center of the sphere.",
+      "options": {
+        "A": "0 N/C",
+        "B": "150 N/C",
+        "C": "300 N/C",
+        "D": "450 N/C"
+      },
+      "correct_option": "B",
+      "explanation": "The electric field at a distance of 35 cm from the center of the sphere can be calculated using the formula E = kQ/r^2."
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "Two charges, q1 = +4 μC and q2 = -6 μC, are separated by a distance of 25 cm. Calculate the torque experienced by a charge of +5 μC placed at the midpoint between them.",
+      "options": {
+        "A": "0 Nm",
+        "B": "3 Nm",
+        "C": "6 Nm",
+        "D": "9 Nm"
+      },
+      "correct_option": "C",
+      "explanation": "The torque experienced by a charge of +5 μC placed at the midpoint between q1 and q2 can be calculated using the formula τ = r x F."
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "A charge of +6 μC is placed at a distance of 40 cm from another charge of -8 μC. Calculate the force between them.",
+      "options": {
+        "A": "9 N",
+        "B": "12 N",
+        "C": "15 N",
+        "D": "18 N"
+      },
+      "correct_option": "B",
+      "explanation": "To calculate the force, we need to use Coulomb's Law: F = kq1q2/r^2."
+    }
+  ]
+}

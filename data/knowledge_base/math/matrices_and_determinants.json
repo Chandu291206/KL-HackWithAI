@@ -1,0 +1,268 @@
+{
+  "subject": "Math",
+  "topic": "Matrices and Determinants",
+  "exam": "JEE",
+  "summary": "A matrix is a rectangular array of numbers, symbols or expressions, arranged in rows and columns. Matrices are denoted by capital letters such as A, B, C, etc. Matrices can be used to represent linear transformations on vectors. Determinants are scalar values that characterize the properties of square matrices. The determinant of a matrix is defined as the value obtained by expanding along any row or column, and it is equal to the product of eigenvalues of the matrix. Determinants are used in finding the inverse of a matrix, calculating area and volume, and solving systems of linear equations. Matrices can be added and multiplied provided they have compatible dimensions. The identity matrix is a square matrix with all diagonal elements as 1, and all other elements as 0. The determinant of an identity matrix is always 1. The determinant of the transpose of a matrix is equal to the determinant of the original matrix. Determinants are used in finding the area of a parallelogram formed by two vectors.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "Find the value of |2 3|.",
+      "options": {
+        "A": "6",
+        "B": "5",
+        "C": "4",
+        "D": "3"
+      },
+      "correct_option": "A",
+      "explanation": "The determinant is calculated by subtracting the product of the two elements along the first row and column. In this case, it is 2*3 - 3*2 = 6."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Find the value of |1 2|.",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "0",
+        "D": "2"
+      },
+      "correct_option": "C",
+      "explanation": "The determinant is calculated by subtracting the product of the two elements along the first row and column. In this case, it is 1*2 - 2*1 = 0."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "Find the value of |1 1|.",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "2"
+      },
+      "correct_option": "B",
+      "explanation": "The determinant is calculated by subtracting the product of the two elements along the first row and column. In this case, it is 1*1 - 1*1 = 0."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "Find the value of |3 -2|.",
+      "options": {
+        "A": "5",
+        "B": "3",
+        "C": "-3",
+        "D": "2"
+      },
+      "correct_option": "A",
+      "explanation": "The determinant is calculated by subtracting the product of the two elements along the first row and column. In this case, it is 3*(-2) - (-2)*3 = 5."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Find the value of |1 0|.",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "2"
+      },
+      "correct_option": "B",
+      "explanation": "The determinant is calculated by subtracting the product of the two elements along the first row and column. In this case, it is 1*0 - 0*1 = 0."
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "If A = |2 3| and B = |4 5|, find the value of AB.",
+      "options": {
+        "A": "|8 15|",
+        "B": "|10 20|",
+        "C": "|12 25|",
+        "D": "|14 30|"
+      },
+      "correct_option": "A",
+      "explanation": "To calculate the product of two matrices, multiply each element of the first matrix with the corresponding element of the second matrix and add them."
+    },
+    {
+      "id": 7,
+      "difficulty": "medium",
+      "question": "If A = |1 -2| and B = |-3 4|, find the value of AB.",
+      "options": {
+        "A": "|3 -8|",
+        "B": "|-10 16|",
+        "C": "|12 20|",
+        "D": "|14 28|"
+      },
+      "correct_option": "A",
+      "explanation": "To calculate the product of two matrices, multiply each element of the first matrix with the corresponding element of the second matrix and add them."
+    },
+    {
+      "id": 8,
+      "difficulty": "hard",
+      "question": "If A = |1 2| and B = |-3 4|, find the value of (AB)^-1.",
+      "options": {
+        "A": "|-10 -16|",
+        "B": "|12 20|",
+        "C": "|14 28|",
+        "D": "|15 30|"
+      },
+      "correct_option": "A",
+      "explanation": "To find the inverse of a matrix, calculate its determinant and then apply the formula for finding the inverse."
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "question": "If A = |1 -2| and B = |-3 4|, find the value of (AB)^-1.",
+      "options": {
+        "A": "|10 16|",
+        "B": "|12 20|",
+        "C": "|14 28|",
+        "D": "|15 30|"
+      },
+      "correct_option": "A",
+      "explanation": "To find the inverse of a matrix, calculate its determinant and then apply the formula for finding the inverse."
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "Find the value of |1 2| + |3 -2|.",
+      "options": {
+        "A": "|4 4|",
+        "B": "|5 5|",
+        "C": "|6 6|",
+        "D": "|7 7|"
+      },
+      "correct_option": "A",
+      "explanation": "To add two matrices, add corresponding elements."
+    },
+    {
+      "id": 11,
+      "difficulty": "easy",
+      "question": "Find the value of |2 3| - |1 4|.",
+      "options": {
+        "A": "|1 1|",
+        "B": "|0 0|",
+        "C": "|-1 -1|",
+        "D": "|2 2|"
+      },
+      "correct_option": "B",
+      "explanation": "To subtract two matrices, subtract corresponding elements."
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "If A = |1 0| and B = |0 1|, find the value of AB.",
+      "options": {
+        "A": "|1 0|",
+        "B": "|0 1|",
+        "C": "|-1 -1|",
+        "D": "|2 3|"
+      },
+      "correct_option": "A",
+      "explanation": "To calculate the product of two matrices, multiply each element of the first matrix with the corresponding element of the second matrix and add them."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "If A = |2 -1| and B = |-3 4|, find the value of AB.",
+      "options": {
+        "A": "|-6 8|",
+        "B": "|12 20|",
+        "C": "|14 28|",
+        "D": "|15 30|"
+      },
+      "correct_option": "A",
+      "explanation": "To calculate the product of two matrices, multiply each element of the first matrix with the corresponding element of the second matrix and add them."
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "If A = |1 2| and B = |-3 4|, find the value of (AB)^-1.",
+      "options": {
+        "A": "|10 16|",
+        "B": "|12 20|",
+        "C": "|14 28|",
+        "D": "|15 30|"
+      },
+      "correct_option": "A",
+      "explanation": "To find the inverse of a matrix, calculate its determinant and then apply the formula for finding the inverse."
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "If A = |2 -1| and B = |-3 4|, find the value of (AB)^-1.",
+      "options": {
+        "A": "|10 16|",
+        "B": "|12 20|",
+        "C": "|14 28|",
+        "D": "|15 30|"
+      },
+      "correct_option": "A",
+      "explanation": "To find the inverse of a matrix, calculate its determinant and then apply the formula for finding the inverse."
+    },
+    {
+      "id": 16,
+      "difficulty": "easy",
+      "question": "Find the value of |1 2| * |3 -2|.",
+      "options": {
+        "A": "|3 4|",
+        "B": "|-6 8|",
+        "C": "|12 20|",
+        "D": "|14 28|"
+      },
+      "correct_option": "B",
+      "explanation": "To multiply two matrices, multiply each element of the first matrix with the corresponding element of the second matrix and add them."
+    },
+    {
+      "id": 17,
+      "difficulty": "easy",
+      "question": "Find the value of |2 -1| * |3 4|.",
+      "options": {
+        "A": "|6 -8|",
+        "B": "|12 20|",
+        "C": "|14 28|",
+        "D": "|15 30|"
+      },
+      "correct_option": "A",
+      "explanation": "To multiply two matrices, multiply each element of the first matrix with the corresponding element of the second matrix and add them."
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "If A = |1 0| and B = |0 1|, find the value of AB.",
+      "options": {
+        "A": "|1 0|",
+        "B": "|0 1|",
+        "C": "|-1 -1|",
+        "D": "|2 3|"
+      },
+      "correct_option": "A",
+      "explanation": "To calculate the product of two matrices, multiply each element of the first matrix with the corresponding element of the second matrix and add them."
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "If A = |2 -1| and B = |-3 4|, find the value of AB.",
+      "options": {
+        "A": "|-6 8|",
+        "B": "|12 20|",
+        "C": "|14 28|",
+        "D": "|15 30|"
+      },
+      "correct_option": "A",
+      "explanation": "To calculate the product of two matrices, multiply each element of the first matrix with the corresponding element of the second matrix and add them."
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "If A = |1 2| and B = |-3 4|, find the value of (AB)^-1.",
+      "options": {
+        "A": "|10 16|",
+        "B": "|12 20|",
+        "C": "|14 28|",
+        "D": "|15 30|"
+      },
+      "correct_option": "A",
+      "explanation": "To find the inverse of a matrix, calculate its determinant and then apply the formula for finding the inverse."
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "subject": "Physics",
+  "topic": "Magnetism",
+  "exam": "Both",
+  "summary": "Magnetism is a fundamental concept in physics that deals with the interactions between magnetic fields and moving charges or current-carrying wires. Magnets are objects that produce a magnetic field, which is a vector field that surrounds the magnet. The Earth's core is thought to be made of iron and nickel and has a magnetic field, which is responsible for the Earth's magnetic field. Magnetism is an important topic in JEE Mains and NEET UG as it plays a crucial role in understanding many natural phenomena such as electric motors, generators, transformers, and magnetic resonance imaging (MRI). The key concepts of magnetism include the Biot-Savart law, Ampere's law with the aid of Maxwell's equations, Gauss's law for magnetism, and the concept of magnetic induction. Magnets can be classified into permanent magnets, electromagnets, and temporary magnets. The strength of a magnetic field is measured in terms of the magnetic flux density (B) which is measured in Tesla or webers per square meter. Magnetic fields can also be classified as uniform or non-uniform depending on their spatial variation. Magnetism has many applications in our daily lives including magnetic resonance imaging, magnetic storage devices, and magnetic separation processes.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the unit of magnetic flux density?",
+      "options": {
+        "A": "Tesla",
+        "B": "Webers per square meter",
+        "C": "Gauss",
+        "D": "Magnetic field strength"
+      },
+      "correct_option": "A",
+      "explanation": "The unit of magnetic flux density is Tesla."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the force experienced by a current-carrying conductor in a uniform magnetic field?",
+      "options": {
+        "A": "Gravitational force",
+        "B": "Magnetic force",
+        "C": "Electric force",
+        "D": "Lorentz force"
+      },
+      "correct_option": "D",
+      "explanation": "The correct option is D, Lorentz force."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What happens when a magnet is brought near a current-carrying conductor?",
+      "options": {
+        "A": "The magnet repels the conductor",
+        "B": "The magnet attracts the conductor",
+        "C": "There is no effect on the conductor",
+        "D": "The conductor becomes demagnetized"
+      },
+      "correct_option": "B",
+      "explanation": "When a magnet is brought near a current-carrying conductor, it attracts the conductor."
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is the direction of magnetic field lines around a bar magnet?",
+      "options": {
+        "A": "Toward the north pole",
+        "B": "Away from the south pole",
+        "C": "Outward from the equator",
+        "D": "Both inward and outward"
+      },
+      "correct_option": "A",
+      "explanation": "The direction of magnetic field lines around a bar magnet is toward the north pole."
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is the unit of magnetic induction?",
+      "options": {
+        "A": "Tesla",
+        "B": "Webers per square meter",
+        "C": "Henry",
+        "D": "Faraday"
+      },
+      "correct_option": "B",
+      "explanation": "The unit of magnetic induction is Webers per square meter."
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is the relationship between the number of turns and the strength of an electromagnet?",
+      "options": {
+        "A": "Inversely proportional",
+        "B": "Directly proportional",
+        "C": "Independent",
+        "D": "Exponential"
+      },
+      "correct_option": "B",
+      "explanation": "The strength of an electromagnet is directly proportional to the number of turns."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the term for the process by which a magnet's magnetic field can be changed or reversed?",
+      "options": {
+        "A": "Magnetic induction",
+        "B": "Electromagnetic induction",
+        "C": "Magnetic reversal",
+        "D": "Demagnetization"
+      },
+      "correct_option": "B",
+      "explanation": "The correct option is B, Electromagnetic induction."
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What is the formula for calculating the force experienced by a current-carrying conductor in a uniform magnetic field?",
+      "options": {
+        "A": "F = ILB",
+        "B": "F = BIL",
+        "C": "F = BLI",
+        "D": "F = IBL"
+      },
+      "correct_option": "D",
+      "explanation": "The formula is F = IBL, where F is the force, I is the current, L is the length of the conductor, and B is the magnetic field strength."
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is the relationship between the number of turns and the inductance of a coil?",
+      "options": {
+        "A": "Inversely proportional",
+        "B": "Directly proportional",
+        "C": "Independent",
+        "D": "Exponential"
+      },
+      "correct_option": "B",
+      "explanation": "The inductance of a coil is directly proportional to the number of turns."
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What is the term for the process by which a magnet's magnetic field can be increased or decreased?",
+      "options": {
+        "A": "Magnetic induction",
+        "B": "Electromagnetic induction",
+        "C": "Magnetic reversal",
+        "D": "Demagnetization"
+      },
+      "correct_option": "D",
+      "explanation": "The correct option is D, Demagnetization."
+    },
+    {
+      "id": 11,
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the magnetic induction in a coil?",
+      "options": {
+        "A": "B = μI",
+        "B": "B = μnI",
+        "C": "B = μN",
+        "D": "B = μL"
+      },
+      "correct_option": "B",
+      "explanation": "The formula is B = μnI, where B is the magnetic induction, μ is the permeability of the core material, n is the number of turns, and I is the current."
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "What is the term for the phenomenon by which a magnet's magnetic field can be changed or reversed through the use of an external magnetic field?",
+      "options": {
+        "A": "Magnetic induction",
+        "B": "Electromagnetic induction",
+        "C": "Magnetic reversal",
+        "D": "Demagnetization"
+      },
+      "correct_option": "B",
+      "explanation": "The correct option is B, Electromagnetic induction."
+    },
+    {
+      "id": 13,
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the force experienced by a magnet in a uniform magnetic field?",
+      "options": {
+        "A": "F = μB",
+        "B": "F = μnI",
+        "C": "F = μN",
+        "D": "F = μL"
+      },
+      "correct_option": "A",
+      "explanation": "The formula is F = μB, where F is the force, μ is the magnetic moment of the magnet, and B is the strength of the uniform magnetic field."
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "What is the term for the process by which a magnet's magnetic field can be reduced or eliminated through the use of an external magnetic field?",
+      "options": {
+        "A": "Magnetic induction",
+        "B": "Electromagnetic induction",
+        "C": "Magnetic reversal",
+        "D": "Demagnetization"
+      },
+      "correct_option": "D",
+      "explanation": "The correct option is D, Demagnetization."
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the magnetic flux through a coil?",
+      "options": {
+        "A": "Φ = B",
+        "B": "Φ = μnI",
+        "C": "Φ = μN",
+        "D": "Φ = μL"
+      },
+      "correct_option": "B",
+      "explanation": "The formula is Φ = μnI, where Φ is the magnetic flux, μ is the permeability of the core material, n is the number of turns, and I is the current."
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "What is the term for the phenomenon by which a magnet's magnetic field can be increased or decreased through the use of an external magnetic field?",
+      "options": {
+        "A": "Magnetic induction",
+        "B": "Electromagnetic induction",
+        "C": "Magnetic reversal",
+        "D": "Demagnetization"
+      },
+      "correct_option": "A",
+      "explanation": "The correct option is A, Magnetic induction."
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the force experienced by a magnet in a non-uniform magnetic field?",
+      "options": {
+        "A": "F = μB",
+        "B": "F = μnI",
+        "C": "F = μN",
+        "D": "F = μL"
+      },
+      "correct_option": "A",
+      "explanation": "The formula is F = μB, where F is the force, μ is the magnetic moment of the magnet, and B is the strength of the non-uniform magnetic field."
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the term for the process by which a magnet's magnetic field can be changed or reversed through the use of an external electric current?",
+      "options": {
+        "A": "Magnetic induction",
+        "B": "Electromagnetic induction",
+        "C": "Magnetic reversal",
+        "D": "Demagnetization"
+      },
+      "correct_option": "B",
+      "explanation": "The correct option is B, Electromagnetic induction."
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What is the formula for calculating the magnetic flux density at a point in space?",
+      "options": {
+        "A": "B = μnI",
+        "B": "B = μN",
+        "C": "B = μL",
+        "D": "B = μ"
+      },
+      "correct_option": "D",
+      "explanation": "The formula is B = μ, where B is the magnetic flux density and μ is the permeability of the medium."
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is the term for the phenomenon by which a magnet's magnetic field can be changed or reversed through the use of an external electric current?",
+      "options": {
+        "A": "Magnetic induction",
+        "B": "Electromagnetic induction",
+        "C": "Magnetic reversal",
+        "D": "Demagnetization"
+      },
+      "correct_option": "B",
+      "explanation": "The correct option is B, Electromagnetic induction."
+    }
+  ]
+}

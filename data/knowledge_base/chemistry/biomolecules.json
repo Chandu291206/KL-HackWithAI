@@ -1,0 +1,268 @@
+{
+  "subject": "Chemistry",
+  "topic": "Biomolecules",
+  "exam": "Both",
+  "summary": "Biomolecules are a type of organic compound found in living organisms. They are made up of carbon, hydrogen, oxygen, and nitrogen atoms. The properties and functions of biomolecules vary depending on their structure and composition. Proteins, carbohydrates, lipids, nucleic acids, and vitamins are all examples of biomolecules. Biomolecules play crucial roles in many biological processes, such as cell signaling, metabolism, and DNA replication. Understanding the structures and functions of biomolecules is essential for understanding biological systems and developing treatments for diseases. In this summary, we will cover the key concepts and formulas related to biomolecules, common mistakes students make on exams, and tips for answering questions about biomolecules. We will also discuss how biomolecules are examined in JEE Mains and NEET UG exams.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the main function of carbohydrates?",
+      "options": {
+        "A": "Energy source",
+        "B": "Structural component",
+        "C": "Regulator of gene expression",
+        "D": "Transport molecule"
+      },
+      "correct_option": "A",
+      "explanation": "Carbohydrates are an energy source for cells"
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the function of lipids?",
+      "options": {
+        "A": "Structural component",
+        "B": "Energy storage",
+        "C": "Regulator of gene expression",
+        "D": "Transport molecule"
+      },
+      "correct_option": "B",
+      "explanation": "Lipids are energy storage molecules"
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the function of proteins?",
+      "options": {
+        "A": "Energy source",
+        "B": "Structural component",
+        "C": "Regulator of gene expression",
+        "D": "Transport molecule"
+      },
+      "correct_option": "B",
+      "explanation": "Proteins are structural components"
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is the function of nucleic acids?",
+      "options": {
+        "A": "Energy source",
+        "B": "Structural component",
+        "C": "Regulator of gene expression",
+        "D": "Transport molecule"
+      },
+      "correct_option": "C",
+      "explanation": "Nucleic acids are regulators of gene expression"
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is the function of vitamins?",
+      "options": {
+        "A": "Energy source",
+        "B": "Structural component",
+        "C": "Regulator of gene expression",
+        "D": "Transport molecule"
+      },
+      "correct_option": "D",
+      "explanation": "Vitamins are transport molecules"
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "What is the difference between simple and complex carbohydrates?",
+      "options": {
+        "A": "Simple carbohydrates have more atoms",
+        "B": "Complex carbohydrates have fewer atoms",
+        "C": "Simple carbohydrates are found in cells",
+        "D": "Complex carbohydrates are found in cells"
+      },
+      "correct_option": "B",
+      "explanation": "Simple carbohydrates have fewer atoms"
+    },
+    {
+      "id": 7,
+      "difficulty": "medium",
+      "question": "What is the function of peptides?",
+      "options": {
+        "A": "Energy source",
+        "B": "Structural component",
+        "C": "Regulator of gene expression",
+        "D": "Transport molecule"
+      },
+      "correct_option": "B",
+      "explanation": "Peptides are structural components"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What is the function of triglycerides?",
+      "options": {
+        "A": "Energy source",
+        "B": "Structural component",
+        "C": "Regulator of gene expression",
+        "D": "Transport molecule"
+      },
+      "correct_option": "B",
+      "explanation": "Triglycerides are energy storage molecules"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is the function of glycoproteins?",
+      "options": {
+        "A": "Energy source",
+        "B": "Structural component",
+        "C": "Regulator of gene expression",
+        "D": "Transport molecule"
+      },
+      "correct_option": "B",
+      "explanation": "Glycoproteins are structural components"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What is the function of glycolipids?",
+      "options": {
+        "A": "Energy source",
+        "B": "Structural component",
+        "C": "Regulator of gene expression",
+        "D": "Transport molecule"
+      },
+      "correct_option": "B",
+      "explanation": "Glycolipids are structural components"
+    },
+    {
+      "id": 11,
+      "difficulty": "hard",
+      "question": "What is the difference between a primary and secondary structure of biomolecules?",
+      "options": {
+        "A": "Primary structures are related to function",
+        "B": "Secondary structures are related to function",
+        "C": "Primary structures are found in cells",
+        "D": "Secondary structures are found in cells"
+      },
+      "correct_option": "A",
+      "explanation": "Primary structures are related to function"
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "What is the difference between a tertiary and quaternary structure of biomolecules?",
+      "options": {
+        "A": "Tertiary structures are found in cells",
+        "B": "Quaternary structures are found in cells",
+        "C": "Tertiary structures are related to function",
+        "D": "Quaternary structures are related to function"
+      },
+      "correct_option": "C",
+      "explanation": "Tertiary structures are related to function"
+    },
+    {
+      "id": 13,
+      "difficulty": "hard",
+      "question": "What is the role of hydrophobic interactions in biomolecules?",
+      "options": {
+        "A": "Hydrophobic interactions are used for energy storage",
+        "B": "Hydrophobic interactions are used for structural components",
+        "C": "Hydrophobic interactions are used for transport molecules",
+        "D": "Hydrophobic interactions are used for gene expression"
+      },
+      "correct_option": "B",
+      "explanation": "Hydrophobic interactions are used for structural components"
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "What is the role of hydrogen bonding in biomolecules?",
+      "options": {
+        "A": "Hydrogen bonding is used for energy storage",
+        "B": "Hydrogen bonding is used for structural components",
+        "C": "Hydrogen bonding is used for transport molecules",
+        "D": "Hydrogen bonding is used for gene expression"
+      },
+      "correct_option": "B",
+      "explanation": "Hydrogen bonding is used for structural components"
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "What is the role of ionic interactions in biomolecules?",
+      "options": {
+        "A": "Ionic interactions are used for energy storage",
+        "B": "Ionic interactions are used for structural components",
+        "C": "Ionic interactions are used for transport molecules",
+        "D": "Ionic interactions are used for gene expression"
+      },
+      "correct_option": "B",
+      "explanation": "Ionic interactions are used for structural components"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "What is the role of covalent bonds in biomolecules?",
+      "options": {
+        "A": "Covalent bonds are used for energy storage",
+        "B": "Covalent bonds are used for structural components",
+        "C": "Covalent bonds are used for transport molecules",
+        "D": "Covalent bonds are used for gene expression"
+      },
+      "correct_option": "B",
+      "explanation": "Covalent bonds are used for structural components"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is the role of disulfide bridges in biomolecules?",
+      "options": {
+        "A": "Disulfide bridges are used for energy storage",
+        "B": "Disulfide bridges are used for structural components",
+        "C": "Disulfide bridges are used for transport molecules",
+        "D": "Disulfide bridges are used for gene expression"
+      },
+      "correct_option": "B",
+      "explanation": "Disulfide bridges are used for structural components"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the role of ester bonds in biomolecules?",
+      "options": {
+        "A": "Ester bonds are used for energy storage",
+        "B": "Ester bonds are used for structural components",
+        "C": "Ester bonds are used for transport molecules",
+        "D": "Ester bonds are used for gene expression"
+      },
+      "correct_option": "B",
+      "explanation": "Ester bonds are used for structural components"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What is the role of amide bonds in biomolecules?",
+      "options": {
+        "A": "Amide bonds are used for energy storage",
+        "B": "Amide bonds are used for structural components",
+        "C": "Amide bonds are used for transport molecules",
+        "D": "Amide bonds are used for gene expression"
+      },
+      "correct_option": "B",
+      "explanation": "Amide bonds are used for structural components"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is the role of peptide bonds in biomolecules?",
+      "options": {
+        "A": "Peptide bonds are used for energy storage",
+        "B": "Peptide bonds are used for structural components",
+        "C": "Peptide bonds are used for transport molecules",
+        "D": "Peptide bonds are used for gene expression"
+      },
+      "correct_option": "B",
+      "explanation": "Peptide bonds are used for structural components"
+    }
+  ]
+}

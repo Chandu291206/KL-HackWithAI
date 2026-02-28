@@ -1,0 +1,268 @@
+{
+  "subject": "Physics",
+  "topic": "Gravitation",
+  "exam": "Both",
+  "summary": "Gravitation is a fundamental force of nature that causes objects with mass to attract each other. The concept was first described by Sir Isaac Newton in his groundbreaking work, Philosophiæ Naturalis Principia Mathematica. According to Newton's law of universal gravitation, every point mass attracts every other point mass by a force acting along the line intersecting both points. The force is proportional to the product of the two masses and inversely proportional to the square of the distance between them. Mathematically, this can be expressed as F = G × (m1 × m2) / r^2, where F is the gravitational force, G is the gravitational constant, m1 and m2 are the masses of the two objects, and r is the distance between their centers. This equation provides a fundamental framework for understanding many phenomena in the natural world, from the falling of objects on Earth to the motion of planets in our solar system. In this topic, we will delve into the key concepts, formulas, exam patterns, common mistakes, and tips for JEE Mains and NEET UG students.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the force of attraction between two objects if one has a mass of 10 kg and the other has a mass of 5 kg, separated by a distance of 2 m?",
+      "options": {
+        "A": "0.1 N",
+        "B": "0.05 N",
+        "C": "0.25 N",
+        "D": "Not defined"
+      },
+      "correct_option": "A",
+      "explanation": "Use F = G × (m1 × m2) / r^2, with G = 6.67408e-11 N·m^2/kg^2, and find the force."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the acceleration due to gravity on the surface of Earth?",
+      "options": {
+        "A": "9.8 m/s^2",
+        "B": "10 m/s^2",
+        "C": "11 m/s^2",
+        "D": "12 m/s^2"
+      },
+      "correct_option": "A",
+      "explanation": "Acceleration due to gravity is 9.8 m/s^2 on Earth."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the gravitational force between two objects if one has a mass of 5 kg and the other has a mass of 10 kg, separated by a distance of 1 m?",
+      "options": {
+        "A": "0.05 N",
+        "B": "0.1 N",
+        "C": "0.25 N",
+        "D": "Not defined"
+      },
+      "correct_option": "B",
+      "explanation": "Use F = G × (m1 × m2) / r^2, with G = 6.67408e-11 N·m^2/kg^2."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the gravitational force between a planet and its satellite if the mass of the planet is 10 times that of the satellite, separated by a distance of 5 astronomical units (AU)?",
+      "options": {
+        "A": "Not defined",
+        "B": "0.1 N",
+        "C": "0.2 N",
+        "D": "0.3 N"
+      },
+      "correct_option": "A",
+      "explanation": "Use F = G × (m1 × m2) / r^2, with G = 6.67408e-11 N·m^2/kg^2."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "A body of mass 10 kg is dropped from a height of 20 m. What is its velocity at the instant it hits the ground?",
+      "options": {
+        "A": "9.8 m/s",
+        "B": "19.6 m/s",
+        "C": "40 m/s",
+        "D": "Not defined"
+      },
+      "correct_option": "A",
+      "explanation": "Use v = gt, with g = 9.8 m/s^2."
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "What is the gravitational force between two objects if one has a mass of 20 kg and the other has a mass of 10 kg, separated by a distance of 3 m?",
+      "options": {
+        "A": "0.05 N",
+        "B": "0.1 N",
+        "C": "0.2 N",
+        "D": "Not defined"
+      },
+      "correct_option": "B",
+      "explanation": "Use F = G × (m1 × m2) / r^2, with G = 6.67408e-11 N·m^2/kg^2."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the acceleration due to gravity on the surface of the Moon?",
+      "options": {
+        "A": "1.62 m/s^2",
+        "B": "2.4 m/s^2",
+        "C": "3.5 m/s^2",
+        "D": "4.8 m/s^2"
+      },
+      "correct_option": "A",
+      "explanation": "Acceleration due to gravity is 1.62 m/s^2 on the surface of the Moon."
+    },
+    {
+      "id": 8,
+      "difficulty": "hard",
+      "question": "What is the gravitational force between two objects if one has a mass of 100 kg and the other has a mass of 50 kg, separated by a distance of 10 m?",
+      "options": {
+        "A": "0.1 N",
+        "B": "0.2 N",
+        "C": "0.5 N",
+        "D": "Not defined"
+      },
+      "correct_option": "C",
+      "explanation": "Use F = G × (m1 × m2) / r^2, with G = 6.67408e-11 N·m^2/kg^2."
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "question": "What is the gravitational force between a planet and its satellite if the mass of the planet is 100 times that of the satellite, separated by a distance of 10 astronomical units (AU)?",
+      "options": {
+        "A": "Not defined",
+        "B": "0.1 N",
+        "C": "1 N",
+        "D": "10 N"
+      },
+      "correct_option": "A",
+      "explanation": "Use F = G × (m1 × m2) / r^2, with G = 6.67408e-11 N·m^2/kg^2."
+    },
+    {
+      "id": 10,
+      "difficulty": "hard",
+      "question": "A body of mass 100 kg is dropped from a height of 50 m. What is its velocity at the instant it hits the ground?",
+      "options": {
+        "A": "9.8 m/s",
+        "B": "49.5 m/s",
+        "C": "99 m/s",
+        "D": "Not defined"
+      },
+      "correct_option": "B",
+      "explanation": "Use v = gt, with g = 9.8 m/s^2."
+    },
+    {
+      "id": 11,
+      "difficulty": "easy",
+      "question": "What is the force of attraction between two objects if one has a mass of 5 kg and the other has a mass of 10 kg, separated by a distance of 1 m?",
+      "options": {
+        "A": "0.05 N",
+        "B": "0.1 N",
+        "C": "0.25 N",
+        "D": "Not defined"
+      },
+      "correct_option": "B",
+      "explanation": "Use F = G × (m1 × m2) / r^2, with G = 6.67408e-11 N·m^2/kg^2."
+    },
+    {
+      "id": 12,
+      "difficulty": "easy",
+      "question": "What is the acceleration due to gravity on the surface of Venus?",
+      "options": {
+        "A": "8.5 m/s^2",
+        "B": "9.1 m/s^2",
+        "C": "10.6 m/s^2",
+        "D": "11.3 m/s^2"
+      },
+      "correct_option": "B",
+      "explanation": "Acceleration due to gravity is 9.1 m/s^2 on the surface of Venus."
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is the gravitational force between two objects if one has a mass of 20 kg and the other has a mass of 15 kg, separated by a distance of 4 m?",
+      "options": {
+        "A": "0.05 N",
+        "B": "0.1 N",
+        "C": "0.2 N",
+        "D": "Not defined"
+      },
+      "correct_option": "B",
+      "explanation": "Use F = G × (m1 × m2) / r^2, with G = 6.67408e-11 N·m^2/kg^2."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "A body of mass 20 kg is dropped from a height of 30 m. What is its velocity at the instant it hits the ground?",
+      "options": {
+        "A": "9.8 m/s",
+        "B": "19.6 m/s",
+        "C": "39.2 m/s",
+        "D": "Not defined"
+      },
+      "correct_option": "A",
+      "explanation": "Use v = gt, with g = 9.8 m/s^2."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is the gravitational force between two objects if one has a mass of 30 kg and the other has a mass of 20 kg, separated by a distance of 6 m?",
+      "options": {
+        "A": "0.05 N",
+        "B": "0.1 N",
+        "C": "0.2 N",
+        "D": "Not defined"
+      },
+      "correct_option": "B",
+      "explanation": "Use F = G × (m1 × m2) / r^2, with G = 6.67408e-11 N·m^2/kg^2."
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "What is the gravitational force between two objects if one has a mass of 50 kg and the other has a mass of 30 kg, separated by a distance of 8 m?",
+      "options": {
+        "A": "0.05 N",
+        "B": "0.1 N",
+        "C": "0.2 N",
+        "D": "Not defined"
+      },
+      "correct_option": "B",
+      "explanation": "Use F = G × (m1 × m2) / r^2, with G = 6.67408e-11 N·m^2/kg^2."
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is the gravitational force between a planet and its satellite if the mass of the planet is 500 times that of the satellite, separated by a distance of 5 astronomical units (AU)?",
+      "options": {
+        "A": "Not defined",
+        "B": "0.1 N",
+        "C": "0.2 N",
+        "D": "10 N"
+      },
+      "correct_option": "A",
+      "explanation": "Use F = G × (m1 × m2) / r^2, with G = 6.67408e-11 N·m^2/kg^2."
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "A body of mass 50 kg is dropped from a height of 60 m. What is its velocity at the instant it hits the ground?",
+      "options": {
+        "A": "9.8 m/s",
+        "B": "49.5 m/s",
+        "C": "99 m/s",
+        "D": "Not defined"
+      },
+      "correct_option": "B",
+      "explanation": "Use v = gt, with g = 9.8 m/s^2."
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "What is the force of attraction between two objects if one has a mass of 10 kg and the other has a mass of 5 kg, separated by a distance of 3 m?",
+      "options": {
+        "A": "0.1 N",
+        "B": "0.05 N",
+        "C": "0.25 N",
+        "D": "Not defined"
+      },
+      "correct_option": "A",
+      "explanation": "Use F = G × (m1 × m2) / r^2, with G = 6.67408e-11 N·m^2/kg^2."
+    },
+    {
+      "id": 20,
+      "difficulty": "easy",
+      "question": "What is the acceleration due to gravity on the surface of Mars?",
+      "options": {
+        "A": "3.5 m/s^2",
+        "B": "4.1 m/s^2",
+        "C": "5.1 m/s^2",
+        "D": "6.2 m/s^2"
+      },
+      "correct_option": "B",
+      "explanation": "Acceleration due to gravity is 4.1 m/s^2 on the surface of Mars."
+    }
+  ]
+}

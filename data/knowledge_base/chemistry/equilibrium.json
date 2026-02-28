@@ -1,0 +1,268 @@
+{
+  "subject": "Chemistry",
+  "topic": "Equilibrium",
+  "exam": "Both",
+  "summary": "Equilibrium in a chemical reaction is a state where the rates of forward and reverse reactions are equal. This concept is crucial in understanding various chemical processes, including acid-base reactions, oxidation-reduction reactions, and precipitation reactions. In this context, equilibrium is not just a static condition but also a dynamic process that involves continuous interactions between reactants and products. The law of mass action helps to predict the direction of reaction and the extent to which it proceeds towards equilibrium. Le Chatelier's principle further elucidates how changes in concentration, temperature, or pressure affect the equilibrium state. The equilibrium constant (Kc) is a measure of the ratio of product concentrations to reactant concentrations at equilibrium. Understanding these concepts is essential for solving problems related to chemical equilibria. For JEE Mains and NEET UG students, it is vital to grasp the underlying principles and mathematical expressions involved in calculating Kc values. Common mistakes to avoid include neglecting the stoichiometry of reactions or using incorrect values for concentrations or equilibrium constants.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the condition required for chemical equilibrium?",
+      "options": {
+        "A": "Rates of forward and reverse reactions are equal",
+        "B": "Concentrations of reactants and products are equal",
+        "C": "Temperature is constant",
+        "D": "Pressure is constant"
+      },
+      "correct_option": "A",
+      "explanation": "The rates of forward and reverse reactions must be equal for a chemical reaction to reach equilibrium."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the value of Kc for a reversible reaction at equilibrium?",
+      "options": {
+        "A": "1",
+        "B": "Kc",
+        "C": "0",
+        "D": "-1"
+      },
+      "correct_option": "B",
+      "explanation": "The value of Kc represents the ratio of product concentrations to reactant concentrations at equilibrium."
+    },
+    {
+      "id": 3,
+      "difficulty": "medium",
+      "question": "What is Le Chatelier's principle?",
+      "options": {
+        "A": "The reaction rate increases with increasing temperature",
+        "B": "The reaction rate decreases with decreasing concentration",
+        "C": "When a system at equilibrium is subjected to a stress, it will always respond in the opposite direction of the stress",
+        "D": "The reaction rate remains constant regardless of changes in temperature or pressure"
+      },
+      "correct_option": "C",
+      "explanation": "Le Chatelier's principle states that when a system at equilibrium is subjected to a stress, it will always respond in the opposite direction of the stress."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the effect of increasing pressure on an equilibrium mixture?",
+      "options": {
+        "A": "The reaction shifts to the left",
+        "B": "The reaction shifts to the right",
+        "C": "No change in the equilibrium state",
+        "D": "Depends on the type of reaction"
+      },
+      "correct_option": "A",
+      "explanation": "Increasing pressure tends to favor the side with fewer moles of gas, causing the reaction to shift to the left."
+    },
+    {
+      "id": 5,
+      "difficulty": "hard",
+      "question": "What is the effect of increasing temperature on an equilibrium mixture?",
+      "options": {
+        "A": "The reaction shifts to the right",
+        "B": "The reaction shifts to the left",
+        "C": "No change in the equilibrium state",
+        "D": "Depends on the type of reaction"
+      },
+      "correct_option": "A",
+      "explanation": "Increasing temperature tends to favor the endothermic side, causing the reaction to shift to the right."
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "question": "What is the significance of Kc in chemical equilibrium?",
+      "options": {
+        "A": "It represents the ratio of product concentrations to reactant concentrations at equilibrium",
+        "B": "It represents the rate of reaction",
+        "C": "It represents the concentration of reactants at equilibrium",
+        "D": "It has no significance"
+      },
+      "correct_option": "A",
+      "explanation": "Kc represents the ratio of product concentrations to reactant concentrations at equilibrium, which is a measure of the extent to which a chemical reaction proceeds towards equilibrium."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the condition for an equilibrium state?",
+      "options": {
+        "A": "Rates of forward and reverse reactions are equal",
+        "B": "Concentrations of reactants and products are equal",
+        "C": "Temperature is constant",
+        "D": "Pressure is constant"
+      },
+      "correct_option": "A",
+      "explanation": "The rates of forward and reverse reactions must be equal for a chemical reaction to reach equilibrium."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What happens when the concentration of one reactant is doubled?",
+      "options": {
+        "A": "The reaction shifts to the left",
+        "B": "The reaction shifts to the right",
+        "C": "No change in the equilibrium state",
+        "D": "Depends on the type of reaction"
+      },
+      "correct_option": "A",
+      "explanation": "Doubling the concentration of one reactant will cause the reaction to shift towards the side with fewer moles of that reactant."
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is the effect of adding an inert gas to an equilibrium mixture?",
+      "options": {
+        "A": "The reaction shifts to the left",
+        "B": "The reaction shifts to the right",
+        "C": "No change in the equilibrium state",
+        "D": "Depends on the type of reaction"
+      },
+      "correct_option": "C",
+      "explanation": "Adding an inert gas to an equilibrium mixture will not affect the equilibrium state."
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What is the significance of stoichiometry in chemical equilibrium?",
+      "options": {
+        "A": "It determines the direction of reaction",
+        "B": "It determines the rate of reaction",
+        "C": "It helps to predict the Kc value",
+        "D": "It has no significance"
+      },
+      "correct_option": "C",
+      "explanation": "Stoichiometry is essential for calculating Kc values and predicting the direction of a chemical reaction."
+    },
+    {
+      "id": 11,
+      "difficulty": "hard",
+      "question": "What is the effect of adding a catalyst to an equilibrium mixture?",
+      "options": {
+        "A": "The reaction shifts to the left",
+        "B": "The reaction shifts to the right",
+        "C": "No change in the equilibrium state",
+        "D": "Depends on the type of reaction"
+      },
+      "correct_option": "C",
+      "explanation": "Adding a catalyst to an equilibrium mixture will not affect the equilibrium state."
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "What is the significance of temperature in chemical equilibrium?",
+      "options": {
+        "A": "It determines the direction of reaction",
+        "B": "It affects the rate of reaction",
+        "C": "It has no effect on the equilibrium state",
+        "D": "It depends on the type of reaction"
+      },
+      "correct_option": "B",
+      "explanation": "Temperature can affect the rate at which a chemical reaction proceeds towards equilibrium."
+    },
+    {
+      "id": 13,
+      "difficulty": "easy",
+      "question": "What is the value of Kc for an equilibrium mixture with [A] = 0.1 M and [B] = 0.01 M?",
+      "options": {
+        "A": "0.1",
+        "B": "0.01",
+        "C": "10",
+        "D": "100"
+      },
+      "correct_option": "C",
+      "explanation": "The value of Kc is calculated by dividing the product concentrations by the reactant concentrations."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is the effect of increasing the concentration of a reactant on an equilibrium mixture?",
+      "options": {
+        "A": "The reaction shifts to the left",
+        "B": "The reaction shifts to the right",
+        "C": "No change in the equilibrium state",
+        "D": "Depends on the type of reaction"
+      },
+      "correct_option": "B",
+      "explanation": "Increasing the concentration of a reactant will cause the reaction to shift towards the side with fewer moles of that reactant."
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "What is the significance of equilibrium constant in chemical reactions?",
+      "options": {
+        "A": "It represents the ratio of product concentrations to reactant concentrations at equilibrium",
+        "B": "It represents the rate of reaction",
+        "C": "It represents the concentration of reactants at equilibrium",
+        "D": "It has no significance"
+      },
+      "correct_option": "A",
+      "explanation": "Kc represents the ratio of product concentrations to reactant concentrations at equilibrium, which is a measure of the extent to which a chemical reaction proceeds towards equilibrium."
+    },
+    {
+      "id": 16,
+      "difficulty": "easy",
+      "question": "What happens when the concentration of one product is doubled?",
+      "options": {
+        "A": "The reaction shifts to the left",
+        "B": "The reaction shifts to the right",
+        "C": "No change in the equilibrium state",
+        "D": "Depends on the type of reaction"
+      },
+      "correct_option": "B",
+      "explanation": "Doubling the concentration of one product will cause the reaction to shift towards the side with more moles of that product."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is the effect of adding a reactant to an equilibrium mixture?",
+      "options": {
+        "A": "The reaction shifts to the left",
+        "B": "The reaction shifts to the right",
+        "C": "No change in the equilibrium state",
+        "D": "Depends on the type of reaction"
+      },
+      "correct_option": "A",
+      "explanation": "Adding a reactant to an equilibrium mixture will cause the reaction to shift towards the side with fewer moles of that reactant."
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the significance of reaction direction in chemical equilibrium?",
+      "options": {
+        "A": "It determines the Kc value",
+        "B": "It affects the rate of reaction",
+        "C": "It has no effect on the equilibrium state",
+        "D": "It depends on the type of reaction"
+      },
+      "correct_option": "A",
+      "explanation": "The direction of a chemical reaction determines the Kc value, which is a measure of the extent to which the reaction proceeds towards equilibrium."
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "What is the effect of decreasing pressure on an equilibrium mixture?",
+      "options": {
+        "A": "The reaction shifts to the left",
+        "B": "The reaction shifts to the right",
+        "C": "No change in the equilibrium state",
+        "D": "Depends on the type of reaction"
+      },
+      "correct_option": "B",
+      "explanation": "Decreasing pressure tends to favor the side with more moles of gas, causing the reaction to shift towards the right."
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is the significance of equilibrium constant in predicting the direction of a chemical reaction?",
+      "options": {
+        "A": "It represents the ratio of product concentrations to reactant concentrations at equilibrium",
+        "B": "It represents the rate of reaction",
+        "C": "It helps to predict the direction of reaction",
+        "D": "It has no significance"
+      },
+      "correct_option": "C",
+      "explanation": "Kc helps to predict the direction of a chemical reaction by comparing the product concentrations to reactant concentrations at equilibrium."
+    }
+  ]
+}

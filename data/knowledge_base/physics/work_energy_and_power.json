@@ -1,0 +1,268 @@
+{
+  "subject": "Physics",
+  "topic": "Work Energy and Power",
+  "exam": "Both",
+  "summary": "Work energy theorem states that the total energy of a closed system remains constant. It is the product of force applied and displacement through which it acts. The unit of work is Joule (J). The formula for work done is W = F × d. Power (P) is the rate at which work is done. P = W / t. Kinetic energy (K) is the energy of motion. K = 0.5 × m × v^2. Potential energy (U) is stored energy due to position or configuration. U = m × g × h. The sum of kinetic and potential energy remains constant for a conservative system. The concept of work, energy, and power helps in understanding various physical phenomena like motion, forces, and thermodynamics.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the unit of work?",
+      "options": {
+        "A": "Joule (J)",
+        "B": "Newton (N)",
+        "C": "Meter (m)",
+        "D": "Second (s)"
+      },
+      "correct_option": "A",
+      "explanation": "The unit of work is Joule (J)."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the formula for work done?",
+      "options": {
+        "A": "W = F + d",
+        "B": "W = F × d",
+        "C": "W = m × v^2",
+        "D": "W = K × U"
+      },
+      "correct_option": "B",
+      "explanation": "The formula for work done is W = F × d."
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the rate at which work is done?",
+      "options": {
+        "A": "Power",
+        "B": "Energy",
+        "C": "Force",
+        "D": "Displacement"
+      },
+      "correct_option": "A",
+      "explanation": "The rate at which work is done is Power."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the formula for kinetic energy?",
+      "options": {
+        "A": "K = 0.5 × m × v",
+        "B": "K = 1/2 × m × v^2",
+        "C": "K = m × g × h",
+        "D": "K = F × d"
+      },
+      "correct_option": "B",
+      "explanation": "The formula for kinetic energy is K = 0.5 × m × v^2."
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the sum of kinetic and potential energies in a conservative system?",
+      "options": {
+        "A": "Constant",
+        "B": "Increasing",
+        "C": "Decreasing",
+        "D": "Random"
+      },
+      "correct_option": "A",
+      "explanation": "The sum of kinetic and potential energies remains constant for a conservative system."
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "question": "What is the change in potential energy when an object falls from a height 'h'?",
+      "options": {
+        "A": "U = m × g × h",
+        "B": "U = -m × g × h",
+        "C": "U = 0.5 × m × v^2",
+        "D": "U = F × d"
+      },
+      "correct_option": "A",
+      "explanation": "The change in potential energy when an object falls from a height 'h' is U = m × g × h."
+    },
+    {
+      "id": 7,
+      "difficulty": "hard",
+      "question": "What is the relationship between work, force, and displacement?",
+      "options": {
+        "A": "W = F × d",
+        "B": "W = F - d",
+        "C": "W = F + d",
+        "D": "W = m × v^2"
+      },
+      "correct_option": "A",
+      "explanation": "The relationship between work, force, and displacement is W = F × d."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is the formula for power?",
+      "options": {
+        "A": "P = W / t",
+        "B": "P = F × v",
+        "C": "P = m × g × h",
+        "D": "P = K × U"
+      },
+      "correct_option": "A",
+      "explanation": "The formula for power is P = W / t."
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "What is the unit of energy?",
+      "options": {
+        "A": "Joule (J)",
+        "B": "Newton (N)",
+        "C": "Meter (m)",
+        "D": "Second (s)"
+      },
+      "correct_option": "A",
+      "explanation": "The unit of energy is Joule (J)."
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What is the formula for potential energy?",
+      "options": {
+        "A": "U = m × g × h",
+        "B": "U = 0.5 × m × v^2",
+        "C": "U = F × d",
+        "D": "U = K × U"
+      },
+      "correct_option": "A",
+      "explanation": "The formula for potential energy is U = m × g × h."
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the concept that relates work, energy, and power?",
+      "options": {
+        "A": "Conservation of Energy",
+        "B": "Conservation of Momentum",
+        "C": "Conservation of Angular Momentum",
+        "D": "Conservation of Linear Momentum"
+      },
+      "correct_option": "A",
+      "explanation": "The concept that relates work, energy, and power is the Conservation of Energy."
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "What is the formula for kinetic energy in terms of velocity?",
+      "options": {
+        "A": "K = m × v^2",
+        "B": "K = 0.5 × m × v",
+        "C": "K = m × g × h",
+        "D": "K = F × d"
+      },
+      "correct_option": "A",
+      "explanation": "The formula for kinetic energy in terms of velocity is K = 0.5 × m × v^2."
+    },
+    {
+      "id": 13,
+      "difficulty": "easy",
+      "question": "What is the unit of power?",
+      "options": {
+        "A": "Watt (W)",
+        "B": "Joule (J)",
+        "C": "Newton (N)",
+        "D": "Meter (m)"
+      },
+      "correct_option": "A",
+      "explanation": "The unit of power is Watt (W)."
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is the formula for work done?",
+      "options": {
+        "A": "W = F × d",
+        "B": "W = m × v^2",
+        "C": "W = K × U",
+        "D": "W = P × t"
+      },
+      "correct_option": "A",
+      "explanation": "The formula for work done is W = F × d."
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "What is the relationship between potential energy and height?",
+      "options": {
+        "A": "U ∝ h",
+        "B": "U ∝ -h",
+        "C": "U ∝ v^2",
+        "D": "U ∝ F × d"
+      },
+      "correct_option": "B",
+      "explanation": "The relationship between potential energy and height is U ∝ -h."
+    },
+    {
+      "id": 16,
+      "difficulty": "easy",
+      "question": "What is the formula for kinetic energy in terms of mass and velocity?",
+      "options": {
+        "A": "K = m × v^2",
+        "B": "K = 0.5 × m × v",
+        "C": "K = F × d",
+        "D": "K = P × t"
+      },
+      "correct_option": "A",
+      "explanation": "The formula for kinetic energy in terms of mass and velocity is K = 0.5 × m × v^2."
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is the concept that relates motion, force, and work?",
+      "options": {
+        "A": "Conservation of Energy",
+        "B": "Conservation of Momentum",
+        "C": "Conservation of Angular Momentum",
+        "D": "Work-Energy Theorem"
+      },
+      "correct_option": "D",
+      "explanation": "The concept that relates motion, force, and work is the Work-Energy Theorem."
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the formula for potential energy in terms of mass, acceleration due to gravity, and height?",
+      "options": {
+        "A": "U = m × g × h",
+        "B": "U = -m × g × h",
+        "C": "U = 0.5 × m × v^2",
+        "D": "U = F × d"
+      },
+      "correct_option": "A",
+      "explanation": "The formula for potential energy in terms of mass, acceleration due to gravity, and height is U = m × g × h."
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "What is the relationship between work, force, and displacement?",
+      "options": {
+        "A": "W = F + d",
+        "B": "W = F - d",
+        "C": "W = F × d",
+        "D": "W = m × v^2"
+      },
+      "correct_option": "C",
+      "explanation": "The relationship between work, force, and displacement is W = F × d."
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is the formula for kinetic energy in terms of velocity and mass?",
+      "options": {
+        "A": "K = m × v^2",
+        "B": "K = 0.5 × m × v",
+        "C": "K = F × d",
+        "D": "K = P × t"
+      },
+      "correct_option": "A",
+      "explanation": "The formula for kinetic energy in terms of velocity and mass is K = 0.5 × m × v^2."
+    }
+  ]
+}

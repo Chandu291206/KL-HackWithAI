@@ -1,0 +1,268 @@
+{
+  "subject": "Chemistry",
+  "topic": "Organic Reactions and GOC",
+  "exam": "Both",
+  "summary": "Organic reactions are chemical reactions that involve the rearrangement of carbon-based compounds. These reactions can be broadly classified into two categories: substitution and elimination reactions. Substitution reactions involve the replacement of one functional group with another, while elimination reactions involve the removal of a leaving group from a molecule. GOC stands for General Organic Chemistry, which is an important topic in both JEE Mains and NEET UG exams. Students should have a thorough understanding of various types of organic reactions, including nucleophilic substitution, electrophilic addition, and oxidation-reduction reactions. The summary will cover these topics in detail, along with common mistakes to avoid and tips for scoring well.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the major product of the reaction between CH3CH2Cl and NaOH?",
+      "options": {
+        "A": "CH3CH2OH",
+        "B": "CH3CH2COONa",
+        "C": "CH3CH2CN",
+        "D": "CH3CH2CHO"
+      },
+      "correct_option": "A",
+      "explanation": "The reaction is an SN1 mechanism, and the major product is the alkoxide ion."
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the intermediate in the Grignard reaction?",
+      "options": {
+        "A": "R-MgX",
+        "B": "R-H",
+        "C": "R-Cl",
+        "D": "R-OH"
+      },
+      "correct_option": "A",
+      "explanation": "The Grignard reagent is a complex in which the magnesium atom coordinates with the carbon atom."
+    },
+    {
+      "id": 3,
+      "difficulty": "medium",
+      "question": "What is the product of the reaction between CH3CH2COOH and NaNH2?",
+      "options": {
+        "A": "CH3CH2CONH2",
+        "B": "CH3CH2CHO",
+        "C": "CH3CH2CN",
+        "D": "CH3CH2COONa"
+      },
+      "correct_option": "A",
+      "explanation": "The reaction is an SN1 mechanism, and the major product is the amide ion."
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the reagent used to remove a protecting group in organic synthesis?",
+      "options": {
+        "A": "HCl",
+        "B": "NaOH",
+        "C": "H2SO4",
+        "D": "TMS"
+      },
+      "correct_option": "D",
+      "explanation": "Trimethylsilyl (TMS) is a common protecting group that can be removed using TBAF or fluoride ions."
+    },
+    {
+      "id": 5,
+      "difficulty": "hard",
+      "question": "What is the mechanism of the Baeyer-Villiger oxidation?",
+      "options": {
+        "A": "E1cB",
+        "B": "E2",
+        "C": "SN2",
+        "D": "SN1"
+      },
+      "correct_option": "A",
+      "explanation": "The reaction involves a concerted mechanism in which the oxygen atom coordinates with the carbonyl group and forms an epoxide."
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "question": "What is the product of the reaction between CH3CH2CHO and AgNO3?",
+      "options": {
+        "A": "CH3CH2COOH",
+        "B": "CH3CH2COOAg",
+        "C": "CH3CH2CN",
+        "D": "CH3CH2CHO"
+      },
+      "correct_option": "B",
+      "explanation": "The reaction is an oxidation-reduction mechanism, and the major product is the silver salt of the carboxylic acid."
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the reagent used to remove a protecting group in organic synthesis?",
+      "options": {
+        "A": "TMS",
+        "B": "TES",
+        "C": "SEM",
+        "D": "PMB"
+      },
+      "correct_option": "A",
+      "explanation": "Trimethylsilyl (TMS) is a common protecting group that can be removed using TBAF or fluoride ions."
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is the product of the reaction between CH3CH2Cl and NaNH2?",
+      "options": {
+        "A": "CH3CH2CN",
+        "B": "CH3CH2CHO",
+        "C": "CH3CH2COONa",
+        "D": "CH3CH2OH"
+      },
+      "correct_option": "A",
+      "explanation": "The reaction is an SN1 mechanism, and the major product is the nitrile ion."
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "What is the reagent used to oxidize aldehydes to carboxylic acids?",
+      "options": {
+        "A": "K2Cr2O7",
+        "B": "KMnO4",
+        "C": "H2O2",
+        "D": "Cl2"
+      },
+      "correct_option": "A",
+      "explanation": "The reaction involves a two-electron oxidation mechanism, and the major product is the carboxylic acid."
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "What is the reagent used to reduce aldehydes to primary alcohols?",
+      "options": {
+        "A": "NaBH4",
+        "B": "LiAlH4",
+        "C": "Zn(Hg)",
+        "D": "CuCN"
+      },
+      "correct_option": "A",
+      "explanation": "The reaction involves a one-electron reduction mechanism, and the major product is the primary alcohol."
+    },
+    {
+      "id": 11,
+      "difficulty": "hard",
+      "question": "What is the mechanism of the Favorskii rearrangement?",
+      "options": {
+        "A": "E1cB",
+        "B": "E2",
+        "C": "SN2",
+        "D": "S1N1"
+      },
+      "correct_option": "D",
+      "explanation": "The reaction involves a concerted mechanism in which the oxygen atom coordinates with the carbonyl group and forms an epoxide."
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "What is the product of the reaction between CH3CH2CHO and Cl2?",
+      "options": {
+        "A": "CH3CH2COCl",
+        "B": "CH3CH2COOCl",
+        "C": "CH3CH2CN",
+        "D": "CH3CH2CHO"
+      },
+      "correct_option": "A",
+      "explanation": "The reaction is an oxidation-reduction mechanism, and the major product is the chlorinated acid."
+    },
+    {
+      "id": 13,
+      "difficulty": "easy",
+      "question": "What is the reagent used to remove a protecting group in organic synthesis?",
+      "options": {
+        "A": "HCl",
+        "B": "NaOH",
+        "C": "H2SO4",
+        "D": "TMS"
+      },
+      "correct_option": "D",
+      "explanation": "Trimethylsilyl (TMS) is a common protecting group that can be removed using TBAF or fluoride ions."
+    },
+    {
+      "id": 14,
+      "difficulty": "easy",
+      "question": "What is the product of the reaction between CH3CH2Cl and NaNH2?",
+      "options": {
+        "A": "CH3CH2CN",
+        "B": "CH3CH2CHO",
+        "C": "CH3CH2COONa",
+        "D": "CH3CH2OH"
+      },
+      "correct_option": "A",
+      "explanation": "The reaction is an SN1 mechanism, and the major product is the nitrile ion."
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What is the reagent used to oxidize aldehydes to carboxylic acids?",
+      "options": {
+        "A": "K2Cr2O7",
+        "B": "KMnO4",
+        "C": "H2O2",
+        "D": "Cl2"
+      },
+      "correct_option": "A",
+      "explanation": "The reaction involves a two-electron oxidation mechanism, and the major product is the carboxylic acid."
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the reagent used to reduce aldehydes to primary alcohols?",
+      "options": {
+        "A": "NaBH4",
+        "B": "LiAlH4",
+        "C": "Zn(Hg)",
+        "D": "CuCN"
+      },
+      "correct_option": "A",
+      "explanation": "The reaction involves a one-electron reduction mechanism, and the major product is the primary alcohol."
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is the mechanism of the Baeyer-Villiger oxidation?",
+      "options": {
+        "A": "E1cB",
+        "B": "E2",
+        "C": "SN2",
+        "D": "S1N1"
+      },
+      "correct_option": "A",
+      "explanation": "The reaction involves a concerted mechanism in which the oxygen atom coordinates with the carbonyl group and forms an epoxide."
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the product of the reaction between CH3CH2CHO and AgNO3?",
+      "options": {
+        "A": "CH3CH2COOH",
+        "B": "CH3CH2COOAg",
+        "C": "CH3CH2CN",
+        "D": "CH3CH2CHO"
+      },
+      "correct_option": "B",
+      "explanation": "The reaction is an oxidation-reduction mechanism, and the major product is the silver salt of the carboxylic acid."
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "What is the reagent used to remove a protecting group in organic synthesis?",
+      "options": {
+        "A": "TMS",
+        "B": "TES",
+        "C": "SEM",
+        "D": "PMB"
+      },
+      "correct_option": "A",
+      "explanation": "Trimethylsilyl (TMS) is a common protecting group that can be removed using TBAF or fluoride ions."
+    },
+    {
+      "id": 20,
+      "difficulty": "easy",
+      "question": "What is the product of the reaction between CH3CH2Cl and NaNH2?",
+      "options": {
+        "A": "CH3CH2CN",
+        "B": "CH3CH2CHO",
+        "C": "CH3CH2COONa",
+        "D": "CH3CH2OH"
+      },
+      "correct_option": "A",
+      "explanation": "The reaction is an SN1 mechanism, and the major product is the nitrile ion."
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "subject": "Chemistry",
+  "topic": "Atomic Structure",
+  "exam": "Both",
+  "summary": "Atomic structure is a fundamental concept in chemistry that deals with the internal composition and organization of atoms. It is essential to understand atomic structure to comprehend various chemical phenomena, such as chemical bonding, reactivity, and properties of elements. An atom consists of three main parts: protons, neutrons, and electrons. Protons are positively charged particles located in the nucleus (center) of an atom, while neutrons have no charge and are also found in the nucleus. Electrons are negatively charged particles that orbit around the nucleus. The number of protons in an atom determines its atomic number or element, whereas the number of neutrons can vary, leading to different isotopes of the same element. The electrons in an atom are arranged in energy levels or shells, with each shell having a specific capacity for holding electrons. The innermost shell is called the K-shell, followed by the L-shell and M-shell. Each subsequent shell has more capacity for holding electrons. The valence shell is the outermost energy level of an atom that participates in chemical bonding. Atomic structure is crucial to understand various properties of elements, such as their reactivity, physical state, and chemical behavior. Understanding atomic structure is also vital to comprehend chemical reactions and changes that occur during chemical transformations.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What are the three main parts of an atom?",
+      "options": {
+        "A": "Protons, neutrons, and electrons",
+        "B": "Protons, neutrons, and photons",
+        "C": "Protons, electrons, and ions",
+        "D": "Neutrons, electrons, and protons"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What determines an element's atomic number?",
+      "options": {
+        "A": "Number of neutrons",
+        "B": "Number of protons",
+        "C": "Number of electrons",
+        "D": "Number of isotopes"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the valence shell in an atom?",
+      "options": {
+        "A": "Innermost energy level",
+        "B": "Outermost energy level",
+        "C": "Middle energy level",
+        "D": "Highest energy level"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the difference between isotopes and ions?",
+      "options": {
+        "A": "Isotopes have different numbers of protons, while ions have different numbers of neutrons",
+        "B": "Ions are formed by losing or gaining electrons, while isotopes have different numbers of neutrons",
+        "C": "Isotopes have different numbers of protons and neutrons, while ions are formed by gaining or losing electrons",
+        "D": "Isotopes are formed by gaining or losing electrons, while ions have different numbers of protons"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the Aufbau principle in atomic structure?",
+      "options": {
+        "A": "The principle that states that atoms are stable when their outermost energy level is full",
+        "B": "The principle that states that electrons occupy the lowest possible energy level",
+        "C": "The principle that states that electrons jump to higher energy levels during chemical bonding",
+        "D": "The principle that states that protons and neutrons have the same charge"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "difficulty": "hard",
+      "question": "What is the relationship between atomic radius and electron configuration?",
+      "options": {
+        "A": "Atomic radius decreases as the number of electrons increases",
+        "B": "Atomic radius increases as the number of protons increases",
+        "C": "Atomic radius has no relation to electron configuration",
+        "D": "Atomic radius increases as the number of neutrons increases"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the significance of atomic structure in chemistry?",
+      "options": {
+        "A": "It helps understand chemical reactions and properties",
+        "B": "It only explains chemical bonding",
+        "C": "It has no relation to chemistry",
+        "D": "It only explains chemical behavior"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What is the difference between a valence electron and a non-valence electron?",
+      "options": {
+        "A": "Valence electrons participate in bonding, while non-valence electrons do not",
+        "B": "Non-valence electrons are found in the innermost energy level, while valence electrons are found in the outermost energy level",
+        "C": "Valence electrons have a higher energy than non-valence electrons",
+        "D": "Non-valence electrons participate in bonding, while valence electrons do not"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "question": "What is the relationship between electron spin and magnetic properties?",
+      "options": {
+        "A": "Electron spin determines magnetic properties",
+        "B": "Magnetic properties are determined by the number of protons in an atom",
+        "C": "Electron spin has no relation to magnetic properties",
+        "D": "Magnetic properties depend on both the number of protons and electrons"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What is the K-shell in atomic structure?",
+      "options": {
+        "A": "The outermost energy level",
+        "B": "The innermost energy level",
+        "C": "The middle energy level",
+        "D": "The highest energy level"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the difference between a neutral atom and an ion?",
+      "options": {
+        "A": "Neutral atoms have an equal number of protons and electrons, while ions do not",
+        "B": "Ions are formed by gaining or losing electrons, while neutral atoms are formed by the combination of protons and neutrons",
+        "C": "Neutral atoms are formed by losing or gaining protons, while ions are formed by losing or gaining electrons",
+        "D": "Ions have a different number of protons than neutral atoms"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "What is the relationship between atomic radius and the number of valence electrons?",
+      "options": {
+        "A": "Atomic radius increases as the number of valence electrons decreases",
+        "B": "Atomic radius has no relation to the number of valence electrons",
+        "C": "Atomic radius increases as the number of valence electrons increases",
+        "D": "Atomic radius decreases as the number of valence electrons increases"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "difficulty": "easy",
+      "question": "What is the significance of atomic structure in understanding chemical properties?",
+      "options": {
+        "A": "It helps understand chemical reactivity and physical state",
+        "B": "It only explains chemical bonding",
+        "C": "It has no relation to chemical properties",
+        "D": "It only explains chemical behavior"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is the difference between an atom and a molecule?",
+      "options": {
+        "A": "Atoms have protons, while molecules do not",
+        "B": "Molecules are formed by the combination of atoms, while atoms are individual particles",
+        "C": "Atoms have electrons, while molecules do not",
+        "D": "Atoms are small, while molecules are large"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "What is the relationship between atomic radius and the number of protons?",
+      "options": {
+        "A": "Atomic radius decreases as the number of protons increases",
+        "B": "Atomic radius has no relation to the number of protons",
+        "C": "Atomic radius increases as the number of protons decreases",
+        "D": "Atomic radius increases as the number of protons increases"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "difficulty": "easy",
+      "question": "What is the significance of atomic structure in understanding chemical reactions?",
+      "options": {
+        "A": "It helps understand chemical reactivity and physical state",
+        "B": "It only explains chemical bonding",
+        "C": "It has no relation to chemical reactions",
+        "D": "It only explains chemical behavior"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is the difference between a cation and an anion?",
+      "options": {
+        "A": "Cations have more protons than anions",
+        "B": "Anions have more electrons than cations",
+        "C": "Cations are formed by gaining electrons, while anions are formed by losing electrons",
+        "D": "Cations are formed by losing electrons, while anions are formed by gaining electrons"
+      },
+      "correct_option": "D",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the relationship between atomic radius and the number of neutrons?",
+      "options": {
+        "A": "Atomic radius decreases as the number of neutrons increases",
+        "B": "Atomic radius has no relation to the number of neutrons",
+        "C": "Atomic radius increases as the number of neutrons decreases",
+        "D": "Atomic radius increases as the number of neutrons increases"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "What is the significance of atomic structure in understanding chemical properties?",
+      "options": {
+        "A": "It helps understand chemical reactivity and physical state",
+        "B": "It only explains chemical bonding",
+        "C": "It has no relation to chemical properties",
+        "D": "It only explains chemical behavior"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is the difference between a neutral atom and an ion?",
+      "options": {
+        "A": "Neutral atoms have an equal number of protons and electrons, while ions do not",
+        "B": "Ions are formed by gaining or losing electrons, while neutral atoms are formed by the combination of protons and neutrons",
+        "C": "Neutral atoms are formed by losing or gaining protons, while ions are formed by losing or gaining electrons",
+        "D": "Ions have a different number of protons than neutral atoms"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    }
+  ]
+}

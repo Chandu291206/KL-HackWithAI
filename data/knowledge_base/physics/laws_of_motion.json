@@ -1,0 +1,268 @@
+{
+  "subject": "Physics",
+  "topic": "Laws of Motion",
+  "exam": "Both",
+  "summary": "The laws of motion are three fundamental principles in physics that describe the relationship between a body and the forces acting upon it. The first law, also known as the law of inertia, states that every object at rest will remain at rest, and every object in motion will continue to move with a constant velocity, unless acted upon by an external force. The second law relates the force applied to an object to its resulting acceleration, and is often expressed mathematically as F = ma, where F is the net force acting on an object, m is its mass, and a is its acceleration. The third law states that for every action, there is an equal and opposite reaction. This means that when two objects interact through a force, they will always apply forces to one another that are equal in magnitude and opposite in direction.",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the first law of motion?",
+      "options": {
+        "A": "It states that every object at rest will remain at rest",
+        "B": "It states that every object in motion will continue to move with a constant velocity",
+        "C": "It states that force and acceleration are directly proportional",
+        "D": "It states that the net force acting on an object is always zero"
+      },
+      "correct_option": "A",
+      "explanation": "The first law of motion, also known as the law of inertia, states that every object at rest will remain at rest"
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the second law of motion?",
+      "options": {
+        "A": "It relates the force applied to an object to its resulting acceleration",
+        "B": "It states that every object in motion will continue to move with a constant velocity",
+        "C": "It states that the net force acting on an object is always zero",
+        "D": "It states that force and acceleration are inversely proportional"
+      },
+      "correct_option": "A",
+      "explanation": "The second law of motion relates the force applied to an object to its resulting acceleration"
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the third law of motion?",
+      "options": {
+        "A": "It states that for every action, there is an equal and opposite reaction",
+        "B": "It states that force and acceleration are directly proportional",
+        "C": "It states that the net force acting on an object is always zero",
+        "D": "It states that every object in motion will continue to move with a constant velocity"
+      },
+      "correct_option": "A",
+      "explanation": "The third law of motion states that for every action, there is an equal and opposite reaction"
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is the value of F in the equation F = ma?",
+      "options": {
+        "A": "Force",
+        "B": "Mass",
+        "C": "Acceleration",
+        "D": "Velocity"
+      },
+      "correct_option": "A",
+      "explanation": "The value of F in the equation F = ma is force"
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "What is the unit of acceleration?",
+      "options": {
+        "A": "Meter",
+        "B": "Second",
+        "C": "Kilogram",
+        "D": "Newton"
+      },
+      "correct_option": "B",
+      "explanation": "The unit of acceleration is second"
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is the unit of force?",
+      "options": {
+        "A": "Meter",
+        "B": "Second",
+        "C": "Kilogram",
+        "D": "Newton"
+      },
+      "correct_option": "D",
+      "explanation": "The unit of force is newton"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the value of m in the equation F = ma?",
+      "options": {
+        "A": "Force",
+        "B": "Mass",
+        "C": "Acceleration",
+        "D": "Velocity"
+      },
+      "correct_option": "B",
+      "explanation": "The value of m in the equation F = ma is mass"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "A force of 5 N acts on an object. If the mass of the object is 2 kg, what will be its acceleration?",
+      "options": {
+        "A": "1 m/s^2",
+        "B": "2 m/s^2",
+        "C": "3 m/s^2",
+        "D": "4 m/s^2"
+      },
+      "correct_option": "B",
+      "explanation": "Using the equation F = ma, we can solve for a: a = F/m. Substituting the values given, we get a = 5 N / (2 kg) = 2.5 m/s^2"
+    },
+    {
+      "id": 9,
+      "difficulty": "medium",
+      "question": "An object is moving with an acceleration of 3 m/s^2. If the force acting on it is 15 N, what will be its mass?",
+      "options": {
+        "A": "1 kg",
+        "B": "2 kg",
+        "C": "3 kg",
+        "D": "4 kg"
+      },
+      "correct_option": "B",
+      "explanation": "Using the equation F = ma, we can solve for m: m = F/a. Substituting the values given, we get m = 15 N / (3 m/s^2) = 5 kg"
+    },
+    {
+      "id": 10,
+      "difficulty": "medium",
+      "question": "A force of 8 N acts on an object with a mass of 4 kg. What will be its acceleration?",
+      "options": {
+        "A": "1 m/s^2",
+        "B": "2 m/s^2",
+        "C": "3 m/s^2",
+        "D": "4 m/s^2"
+      },
+      "correct_option": "B",
+      "explanation": "Using the equation F = ma, we can solve for a: a = F/m. Substituting the values given, we get a = 8 N / (4 kg) = 2 m/s^2"
+    },
+    {
+      "id": 11,
+      "difficulty": "hard",
+      "question": "A force of 20 N acts on an object with a mass of 10 kg. If the object is initially at rest, what will be its velocity after 5 seconds?",
+      "options": {
+        "A": "1 m/s",
+        "B": "2 m/s",
+        "C": "3 m/s",
+        "D": "4 m/s"
+      },
+      "correct_option": "B",
+      "explanation": "Using the equation F = ma, we can solve for a: a = F/m. Substituting the values given, we get a = 20 N / (10 kg) = 2 m/s^2. Since the object is initially at rest, its initial velocity will be zero. We can then use the equation v = u + at to find its final velocity after 5 seconds: v = 0 + (2 m/s^2)(5 s) = 10 m/s"
+    },
+    {
+      "id": 12,
+      "difficulty": "hard",
+      "question": "An object is moving with an acceleration of 4 m/s^2. If the force acting on it is 40 N, what will be its mass?",
+      "options": {
+        "A": "5 kg",
+        "B": "10 kg",
+        "C": "15 kg",
+        "D": "20 kg"
+      },
+      "correct_option": "B",
+      "explanation": "Using the equation F = ma, we can solve for m: m = F/a. Substituting the values given, we get m = 40 N / (4 m/s^2) = 10 kg"
+    },
+    {
+      "id": 13,
+      "difficulty": "hard",
+      "question": "A force of 30 N acts on an object with a mass of 15 kg. If the object is initially moving with a velocity of 5 m/s, what will be its final velocity after 3 seconds?",
+      "options": {
+        "A": "1 m/s",
+        "B": "2 m/s",
+        "C": "3 m/s",
+        "D": "4 m/s"
+      },
+      "correct_option": "B",
+      "explanation": "Using the equation F = ma, we can solve for a: a = F/m. Substituting the values given, we get a = 30 N / (15 kg) = 2 m/s^2. We can then use the equation v = u + at to find its final velocity after 3 seconds: v = 5 m/s + (2 m/s^2)(3 s) = 11 m/s"
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "An object is moving with an acceleration of 6 m/s^2. If the force acting on it is 60 N, what will be its mass?",
+      "options": {
+        "A": "5 kg",
+        "B": "10 kg",
+        "C": "15 kg",
+        "D": "20 kg"
+      },
+      "correct_option": "B",
+      "explanation": "Using the equation F = ma, we can solve for m: m = F/a. Substituting the values given, we get m = 60 N / (6 m/s^2) = 10 kg"
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "A force of 40 N acts on an object with a mass of 20 kg. If the object is initially at rest, what will be its velocity after 4 seconds?",
+      "options": {
+        "A": "1 m/s",
+        "B": "2 m/s",
+        "C": "3 m/s",
+        "D": "4 m/s"
+      },
+      "correct_option": "B",
+      "explanation": "Using the equation F = ma, we can solve for a: a = F/m. Substituting the values given, we get a = 40 N / (20 kg) = 2 m/s^2. Since the object is initially at rest, its initial velocity will be zero. We can then use the equation v = u + at to find its final velocity after 4 seconds: v = 0 + (2 m/s^2)(4 s) = 8 m/s"
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "An object is moving with an acceleration of 5 m/s^2. If the force acting on it is 50 N, what will be its mass?",
+      "options": {
+        "A": "5 kg",
+        "B": "10 kg",
+        "C": "15 kg",
+        "D": "20 kg"
+      },
+      "correct_option": "B",
+      "explanation": "Using the equation F = ma, we can solve for m: m = F/a. Substituting the values given, we get m = 50 N / (5 m/s^2) = 10 kg"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "A force of 35 N acts on an object with a mass of 18 kg. If the object is initially moving with a velocity of 3 m/s, what will be its final velocity after 2 seconds?",
+      "options": {
+        "A": "1 m/s",
+        "B": "2 m/s",
+        "C": "3 m/s",
+        "D": "4 m/s"
+      },
+      "correct_option": "C",
+      "explanation": "Using the equation F = ma, we can solve for a: a = F/m. Substituting the values given, we get a = 35 N / (18 kg) = 1.94 m/s^2. We can then use the equation v = u + at to find its final velocity after 2 seconds: v = 3 m/s + (1.94 m/s^2)(2 s) = 6.88 m/s"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "An object is moving with an acceleration of 8 m/s^2. If the force acting on it is 80 N, what will be its mass?",
+      "options": {
+        "A": "5 kg",
+        "B": "10 kg",
+        "C": "15 kg",
+        "D": "20 kg"
+      },
+      "correct_option": "B",
+      "explanation": "Using the equation F = ma, we can solve for m: m = F/a. Substituting the values given, we get m = 80 N / (8 m/s^2) = 10 kg"
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "A force of 45 N acts on an object with a mass of 22 kg. If the object is initially at rest, what will be its velocity after 3 seconds?",
+      "options": {
+        "A": "1 m/s",
+        "B": "2 m/s",
+        "C": "3 m/s",
+        "D": "4 m/s"
+      },
+      "correct_option": "B",
+      "explanation": "Using the equation F = ma, we can solve for a: a = F/m. Substituting the values given, we get a = 45 N / (22 kg) = 2.05 m/s^2. Since the object is initially at rest, its initial velocity will be zero. We can then use the equation v = u + at to find its final velocity after 3 seconds: v = 0 + (2.05 m/s^2)(3 s) = 6.15 m/s"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "An object is moving with an acceleration of 7 m/s^2. If the force acting on it is 70 N, what will be its mass?",
+      "options": {
+        "A": "5 kg",
+        "B": "10 kg",
+        "C": "15 kg",
+        "D": "20 kg"
+      },
+      "correct_option": "B",
+      "explanation": "Using the equation F = ma, we can solve for m: m = F/a. Substituting the values given, we get m = 70 N / (7 m/s^2) = 10 kg"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "subject": "Chemistry",
+  "topic": "Coordination Compounds",
+  "exam": "Both",
+  "summary": "Coordination compounds are a type of chemical compound that contain at least one metal atom or ion coordinated to a surrounding array of molecules or ions. This surrounding array is typically referred to as a ligand, and the metal atom or ion is referred to as the central atom. Coordination compounds are also known as coordination complexes or metal complexes. They can be found in various forms such as solids, liquids, or gases. The study of coordination compounds is important in understanding many natural phenomena and industrial processes.\r\n\r\nCoordination compounds have a wide range of applications including catalysis, biological systems, and chemical synthesis. The properties of coordination compounds depend on the type of metal atom or ion present, the number of ligands surrounding it, and their arrangement. They can exhibit a variety of colors due to electronic transitions between different energy levels.\r\n\r\nThe general formula for a coordination compound is [MLn], where M is the central metal atom or ion, L is the ligand, and n is the number of ligands. The most common types of ligands are neutral molecules such as ammonia, water, and carbon monoxide, and charged species such as chloride and nitrate ions.\r\n\r\nThe coordination number of a compound refers to the number of ligands surrounding the central metal atom or ion. This can range from one to seven or more. The shape of the molecule also depends on the arrangement of the ligands around the central metal atom or ion.\r\n\r\nCoordination compounds can be classified into different types based on their properties and structures. These include monodentate, bidentate, tridentate, and polydentate ligands. Monodentate ligands coordinate to the metal atom through a single donor atom, while bidentate and tridentate ligands coordinate through two or three donor atoms respectively.\r\n\r\nThe physical properties of coordination compounds such as melting point, boiling point, solubility, and magnetic properties can be influenced by the type of central metal atom or ion present. The chemical properties of these compounds are also affected by the type of ligand present.\r\n\r\nIn conclusion, coordination compounds have a wide range of applications and properties that depend on the type of metal atom or ion, number of ligands, and their arrangement. Understanding the properties and behavior of these compounds is important in various fields including chemistry, biology, and materials science.\r\n\r\n",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What are coordination compounds?",
+      "options": {
+        "A": "Compounds that contain only carbon and hydrogen atoms",
+        "B": "Compounds that contain at least one metal atom or ion coordinated to a surrounding array of molecules or ions",
+        "C": "Compounds that have a melting point above 100°C",
+        "D": "Compounds that are found in biological systems"
+      },
+      "correct_option": "B",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the general formula for a coordination compound?",
+      "options": {
+        "A": "[MLn]",
+        "B": "[ML]",
+        "C": "[L]",
+        "D": "[M]"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the coordination number of a compound?",
+      "options": {
+        "A": "The number of metal atoms present",
+        "B": "The number of ligands surrounding the central metal atom or ion",
+        "C": "The boiling point of the compound",
+        "D": "The melting point of the compound"
+      },
+      "correct_option": "B",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the difference between a monodentate and bidentate ligand?",
+      "options": {
+        "A": "Monodentate ligands coordinate to the metal atom through two donor atoms, while bidentate ligands coordinate through one donor atom",
+        "B": "Monodentate ligands coordinate to the metal atom through one donor atom, while bidentate ligands coordinate through two donor atoms",
+        "C": "Both monodentate and bidentate ligands coordinate to the metal atom through three donor atoms",
+        "D": "There is no difference between monodentate and bidentate ligands"
+      },
+      "correct_option": "B",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the shape of a coordination compound?",
+      "options": {
+        "A": "Sphere",
+        "B": "Octahedron",
+        "C": "Tetrahedron",
+        "D": "Cube"
+      },
+      "correct_option": "B",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "What is the role of ligands in coordination compounds?",
+      "options": {
+        "A": "Ligands are responsible for the color of the compound",
+        "B": "Ligands are responsible for the shape of the compound",
+        "C": "Ligands coordinate to the metal atom or ion and influence its properties",
+        "D": "Ligands do not have any role in coordination compounds"
+      },
+      "correct_option": "C",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the name of the central metal atom or ion in a coordination compound?",
+      "options": {
+        "A": "Ligand",
+        "B": "Metal",
+        "C": "Central Atom",
+        "D": "Ion"
+      },
+      "correct_option": "B",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 8,
+      "difficulty": "medium",
+      "question": "What is the effect of increasing the number of ligands on the properties of a coordination compound?",
+      "options": {
+        "A": "It decreases the melting point",
+        "B": "It increases the boiling point",
+        "C": "It does not affect the properties",
+        "D": "It increases the solubility"
+      },
+      "correct_option": "D",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "question": "What is the difference between a coordination compound and an alloy?",
+      "options": {
+        "A": "Alloys are composed of two or more elements, while coordination compounds are composed of one metal atom or ion and one or more ligands",
+        "B": "Coordination compounds are found in biological systems, while alloys are not",
+        "C": "Alloys have a fixed composition, while coordination compounds do not",
+        "D": "There is no difference between a coordination compound and an alloy"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 10,
+      "difficulty": "hard",
+      "question": "What is the role of coordination compounds in catalysis?",
+      "options": {
+        "A": "Coordination compounds act as catalysts by providing a site for chemical reactions to occur",
+        "B": "Coordination compounds do not have any role in catalysis",
+        "C": "Coordination compounds are always used as reactants in catalytic processes",
+        "D": "Coordination compounds are only used as products in catalytic processes"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 11,
+      "difficulty": "easy",
+      "question": "What is the color of a coordination compound?",
+      "options": {
+        "A": "Green",
+        "B": "Blue",
+        "C": "Red",
+        "D": "White"
+      },
+      "correct_option": "B",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is the shape of a coordination compound?",
+      "options": {
+        "A": "Sphere",
+        "B": "Octahedron",
+        "C": "Tetrahedron",
+        "D": "Cube"
+      },
+      "correct_option": "B",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 13,
+      "difficulty": "hard",
+      "question": "What is the role of coordination compounds in biological systems?",
+      "options": {
+        "A": "Coordination compounds act as enzymes and facilitate chemical reactions",
+        "B": "Coordination compounds do not have any role in biological systems",
+        "C": "Coordination compounds are always used as reactants in biological processes",
+        "D": "Coordination compounds are only used as products in biological processes"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is the effect of increasing the temperature on the properties of a coordination compound?",
+      "options": {
+        "A": "It increases the solubility",
+        "B": "It decreases the melting point",
+        "C": "It does not affect the properties",
+        "D": "It increases the boiling point"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 15,
+      "difficulty": "easy",
+      "question": "What is the name of the central metal atom or ion in a coordination compound?",
+      "options": {
+        "A": "Ligand",
+        "B": "Metal",
+        "C": "Central Atom",
+        "D": "Ion"
+      },
+      "correct_option": "B",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the role of ligands in coordination compounds?",
+      "options": {
+        "A": "Ligands are responsible for the color of the compound",
+        "B": "Ligands are responsible for the shape of the compound",
+        "C": "Ligands coordinate to the metal atom or ion and influence its properties",
+        "D": "Ligands do not have any role in coordination compounds"
+      },
+      "correct_option": "C",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 17,
+      "difficulty": "hard",
+      "question": "What is the difference between a coordination compound and an alloy?",
+      "options": {
+        "A": "Alloys are composed of two or more elements, while coordination compounds are composed of one metal atom or ion and one or more ligands",
+        "B": "Coordination compounds are found in biological systems, while alloys are not",
+        "C": "Alloys have a fixed composition, while coordination compounds do not",
+        "D": "There is no difference between a coordination compound and an alloy"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the role of coordination compounds in catalysis?",
+      "options": {
+        "A": "Coordination compounds act as catalysts by providing a site for chemical reactions to occur",
+        "B": "Coordination compounds do not have any role in catalysis",
+        "C": "Coordination compounds are always used as reactants in catalytic processes",
+        "D": "Coordination compounds are only used as products in catalytic processes"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "What is the name of the surrounding array of molecules or ions in a coordination compound?",
+      "options": {
+        "A": "Ligand",
+        "B": "Metal",
+        "C": "Central Atom",
+        "D": "Ion"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is the effect of increasing the number of ligands on the properties of a coordination compound?",
+      "options": {
+        "A": "It decreases the melting point",
+        "B": "It increases the boiling point",
+        "C": "It does not affect the properties",
+        "D": "It increases the solubility"
+      },
+      "correct_option": "D",
+      "explanation": "brief explanation"
+    }
+  ]
+}

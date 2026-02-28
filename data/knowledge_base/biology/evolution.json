@@ -1,0 +1,268 @@
+{
+  "subject": "Biology",
+  "topic": "Evolution",
+  "exam": "NEET",
+  "summary": "Evolution is the scientifically accepted theory that all species of life have developed from a common ancestor through the process of natural selection, genetic drift, mutation and gene flow. It is an ongoing process that has shaped the diversity of life on Earth over millions of years. The concept of evolution was first proposed by Charles Darwin in his book 'On the Origin of Species' published in 1859. According to Darwin, species evolve through a process called natural selection, where individuals with favorable traits are more likely to survive and reproduce, passing those traits on to their offspring. Over time, this leads to the accumulation of adaptations that distinguish one species from another.\r\n\r\nThe concept of evolution has been widely accepted by the scientific community and is supported by overwhelming evidence from various fields such as biology, paleontology, geology, and genetics. The fossil record provides a rich source of evidence for evolution, with transitional forms between different groups of organisms found in sedimentary rocks. Molecular biology has also provided strong support for evolution through the study of DNA and protein sequences.\r\n\r\nEvolution is an essential concept in biology as it helps us understand the diversity of life on Earth and how species adapt to their environments. It is a fundamental principle that underlies many areas of biology, including ecology, conservation, and medicine.\r\n\r\nKey concepts in evolution include adaptation, speciation, phylogeny, and evolutionary trees. Adaptation refers to the process by which an organism becomes better suited to its environment over time. Speciation occurs when a new species emerges from an existing one through geographic isolation or other mechanisms. Phylogeny is the study of the relationships between organisms based on their shared characteristics. Evolutionary trees are diagrams that show the evolutionary relationships between different species.\r\n\r\nThe NEET exam typically tests students' understanding of evolution through multiple-choice questions and short-answer questions. Common mistakes to avoid include not fully explaining the concept of natural selection, failing to provide evidence for evolution, and misunderstanding the difference between microevolution and macroevolution.\r\n\r\nTips for answering NEET questions on evolution include reading the question carefully, identifying the key concepts being tested, and providing clear and concise explanations. It is also important to be familiar with the fossil record and the different mechanisms of evolutionary change.\r\n",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the primary mechanism of evolution?",
+      "options": {
+        "A": "Natural Selection",
+        "B": "Genetic Drift",
+        "C": "Mutation",
+        "D": "Gene Flow"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Who proposed the theory of evolution?",
+      "options": {
+        "A": "Charles Darwin",
+        "B": "Gregor Mendel",
+        "C": "Jean-Baptiste Lamarck",
+        "D": "Alfred Russel Wallace"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the term for the process by which an organism becomes better suited to its environment?",
+      "options": {
+        "A": "Adaptation",
+        "B": "Speciation",
+        "C": "Phylogeny",
+        "D": "Evolutionary Tree"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "What is the role of genetic drift in evolution?",
+      "options": {
+        "A": "It leads to the loss of genetic variation",
+        "B": "It increases genetic variation",
+        "C": "It has no effect on genetic variation",
+        "D": "It causes speciation"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the term for the process by which a new species emerges from an existing one?",
+      "options": {
+        "A": "Speciation",
+        "B": "Evolutionary Tree",
+        "C": "Phylogeny",
+        "D": "Adaptation"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "What is the evidence for evolution from the fossil record?",
+      "options": {
+        "A": " Transitional forms between different groups of organisms",
+        "B": "Fossils of extinct species only",
+        "C": "No fossils found in sedimentary rocks",
+        "D": "Fossils are not relevant to evolution"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the primary source of evidence for evolution?",
+      "options": {
+        "A": "Fossil Record",
+        "B": "Molecular Biology",
+        "C": "Geology",
+        "D": "Paleontology"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 8,
+      "difficulty": "hard",
+      "question": "What is the role of molecular biology in supporting evolution?",
+      "options": {
+        "A": "It provides evidence for microevolution",
+        "B": "It provides evidence for macroevolution",
+        "C": "It has no effect on evolutionary theory",
+        "D": "It contradicts evolutionary theory"
+      },
+      "correct_option": "B",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "question": "What is the difference between microevolution and macroevolution?",
+      "options": {
+        "A": "Microevolution refers to changes within a species, while macroevolution refers to the emergence of new species",
+        "B": "Macroevolution refers to changes within a species, while microevolution refers to the emergence of new species",
+        "C": "There is no difference between microevolution and macroevolution",
+        "D": "Microevolution refers to the emergence of new species, while macroevolution refers to changes within a species"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 10,
+      "difficulty": "hard",
+      "question": "What is the term for the study of the relationships between organisms based on their shared characteristics?",
+      "options": {
+        "A": "Phylogeny",
+        "B": "Evolutionary Tree",
+        "C": "Adaptation",
+        "D": "Speciation"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 11,
+      "difficulty": "easy",
+      "question": "What is the term for the process by which an organism's characteristics become better suited to its environment?",
+      "options": {
+        "A": "Adaptation",
+        "B": "Speciation",
+        "C": "Phylogeny",
+        "D": "Evolutionary Tree"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "What is the role of mutation in evolution?",
+      "options": {
+        "A": "It leads to the loss of genetic variation",
+        "B": "It increases genetic variation",
+        "C": "It has no effect on genetic variation",
+        "D": "It causes speciation"
+      },
+      "correct_option": "B",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is the term for the process by which a species becomes extinct?",
+      "options": {
+        "A": "Extinction",
+        "B": "Evolutionary Tree",
+        "C": "Phylogeny",
+        "D": "Adaptation"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 14,
+      "difficulty": "hard",
+      "question": "What is the role of gene flow in evolution?",
+      "options": {
+        "A": "It leads to the loss of genetic variation",
+        "B": "It increases genetic variation",
+        "C": "It has no effect on genetic variation",
+        "D": "It causes speciation"
+      },
+      "correct_option": "B",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "What is the term for a diagram that shows the evolutionary relationships between different species?",
+      "options": {
+        "A": "Evolutionary Tree",
+        "B": "Phylogeny",
+        "C": "Adaptation",
+        "D": "Speciation"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 16,
+      "difficulty": "easy",
+      "question": "What is the primary mechanism of evolutionary change?",
+      "options": {
+        "A": "Natural Selection",
+        "B": "Genetic Drift",
+        "C": "Mutation",
+        "D": "Gene Flow"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "What is the term for a new species that emerges from an existing one?",
+      "options": {
+        "A": "Species",
+        "B": "Genus",
+        "C": "Family",
+        "D": "Order"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 18,
+      "difficulty": "hard",
+      "question": "What is the role of genetic variation in evolution?",
+      "options": {
+        "A": "It leads to the loss of genetic variation",
+        "B": "It increases genetic variation",
+        "C": "It has no effect on genetic variation",
+        "D": "It causes speciation"
+      },
+      "correct_option": "B",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "What is the term for a group of organisms that can interbreed?",
+      "options": {
+        "A": "Species",
+        "B": "Genus",
+        "C": "Family",
+        "D": "Order"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is the term for a process that leads to the loss of genetic variation?",
+      "options": {
+        "A": "Genetic Drift",
+        "B": "Mutation",
+        "C": "Gene Flow",
+        "D": "Natural Selection"
+      },
+      "correct_option": "A",
+      "explanation": "Brief explanation"
+    }
+  ]
+}

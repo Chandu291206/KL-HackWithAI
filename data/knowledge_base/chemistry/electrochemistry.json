@@ -1,0 +1,268 @@
+{
+  "subject": "Chemistry",
+  "topic": "Electrochemistry",
+  "exam": "Both",
+  "summary": "Electrochemistry is a branch of chemistry that deals with the relationship between chemical reactions and electricity. It involves the study of oxidation-reduction reactions, which involve the transfer of electrons between atoms or molecules. Electrochemical cells, such as batteries, are used to generate electric currents from chemical energy. The concept of electromotive force (EMF) is crucial in understanding electrochemistry. EMF is the potential difference that drives an electric current between two electrodes. The Nernst equation is a mathematical representation of the relationship between the EMF and the concentration of ions at the electrodes.\r\n\r\nThe Faraday constant, F, is the charge per mole of electrons. It has units of coulombs per mole (C/mol). The Faraday law states that the amount of substance deposited or liberated during an electrolysis process is directly proportional to the quantity of electricity passed and the valence of the ions involved.\r\n\r\nElectrolytes are substances that facilitate the flow of electric current through a solution. Examples include salts, acids, and bases. Electrolytic cells are used to deposit or liberate substances from an electrolyte using an electric current. Fuel cells convert chemical energy into electrical energy and are used in some electric vehicles.\r\n\r\nIn electrochemical reactions, oxidation is the loss of electrons, while reduction is the gain of electrons. The half-cell reaction is a process where one electrode undergoes oxidation or reduction. Electrochemical cells can be classified as galvanic or electrolytic cells based on whether they generate an electric current spontaneously or require an external power source.\r\n\r\nThe concept of electroplating involves depositing a thin layer of material onto the surface of another material using an electric current. Corrosion resistance is achieved through the application of a protective layer, such as chromium or nickel, through electroplating.\r\n\r\n",
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the difference between oxidation and reduction in electrochemistry?",
+      "options": {
+        "A": "Oxidation involves loss of electrons, while reduction involves gain of electrons",
+        "B": "Oxidation involves gain of electrons, while reduction involves loss of electrons",
+        "C": "Oxidation always occurs at the anode, while reduction always occurs at the cathode",
+        "D": "Reduction always occurs at the anode, while oxidation always occurs at the cathode"
+      },
+      "correct_option": "A",
+      "explanation": "brief explanation"
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "What is the unit of Faraday constant?",
+      "options": {
+        "A": "C/mol",
+        "B": "J/kg K",
+        "C": "m/s",
+        "D": "g/cm^3"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What is the type of electrochemical cell that generates electric current spontaneously?",
+      "options": {
+        "A": "Electrolytic cell",
+        "B": "Galvanic cell",
+        "C": "Fuel cell",
+        "D": "Corrosion cell"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "difficulty": "medium",
+      "question": "How does the Nernst equation relate to the EMF of an electrochemical cell?",
+      "options": {
+        "A": "The Nernst equation is a mathematical representation of the relationship between the EMF and the concentration of ions at the electrodes",
+        "B": "The Nernst equation is used to calculate the voltage drop across a resistor in an electric circuit",
+        "C": "The Nernst equation is used to determine the pH of a solution",
+        "D": "The Nernst equation has no relation to EMF"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "difficulty": "medium",
+      "question": "What is the purpose of electrolytes in electrochemical reactions?",
+      "options": {
+        "A": "To facilitate the flow of electric current through a solution",
+        "B": "To increase the resistance to electric current",
+        "C": "To decrease the concentration of ions at the electrodes",
+        "D": "To increase the EMF of an electrochemical cell"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "difficulty": "medium",
+      "question": "What is the term for the process where one electrode undergoes oxidation or reduction?",
+      "options": {
+        "A": "Half-cell reaction",
+        "B": "Electrolysis",
+        "C": "Corrosion",
+        "D": "Oxidation"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "What is the type of electrochemical cell that requires an external power source?",
+      "options": {
+        "A": "Galvanic cell",
+        "B": "Electrolytic cell",
+        "C": "Fuel cell",
+        "D": "Corrosion cell"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "difficulty": "hard",
+      "question": "What is the equation for the Nernst equation?",
+      "options": {
+        "A": "E = RT/nF",
+        "B": "E = R/TnF",
+        "C": "E = RT*ln(C)",
+        "D": "E = RT*nF"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "difficulty": "hard",
+      "question": "What is the term for the process where a thin layer of material is deposited onto the surface of another material using an electric current?",
+      "options": {
+        "A": "Electroplating",
+        "B": "Anodizing",
+        "C": "Electrolysis",
+        "D": "Corrosion"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "difficulty": "hard",
+      "question": "What is the term for the protection of a material from corrosion through the application of a thin layer of another material?",
+      "options": {
+        "A": "Passivation",
+        "B": "Anodizing",
+        "C": "Electroplating",
+        "D": "Corrosion resistance"
+      },
+      "correct_option": "C",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "difficulty": "easy",
+      "question": "What is the type of electrochemical cell that converts chemical energy into electrical energy?",
+      "options": {
+        "A": "Galvanic cell",
+        "B": "Fuel cell",
+        "C": "Electrolytic cell",
+        "D": "Corrosion cell"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "difficulty": "easy",
+      "question": "What is the term for the potential difference that drives an electric current between two electrodes?",
+      "options": {
+        "A": "EMF",
+        "B": "Voltage",
+        "C": "Current",
+        "D": "Resistance"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is the relationship between the amount of substance deposited or liberated during an electrolysis process and the quantity of electricity passed?",
+      "options": {
+        "A": "Directly proportional to the quantity of electricity passed",
+        "B": "Inversely proportional to the quantity of electricity passed",
+        "C": "Independent of the quantity of electricity passed",
+        "D": "Not applicable"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "What is the term for the type of electrochemical cell that generates electric current spontaneously and does not require an external power source?",
+      "options": {
+        "A": "Galvanic cell",
+        "B": "Electrolytic cell",
+        "C": "Fuel cell",
+        "D": "Corrosion cell"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "difficulty": "hard",
+      "question": "What is the equation for the Faraday law?",
+      "options": {
+        "A": "nF = q",
+        "B": "q = nF",
+        "C": "m = nF/q",
+        "D": "nF/q = m"
+      },
+      "correct_option": "B",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "difficulty": "hard",
+      "question": "What is the term for the type of electrochemical cell that generates electric current through an external power source?",
+      "options": {
+        "A": "Electrolytic cell",
+        "B": "Galvanic cell",
+        "C": "Fuel cell",
+        "D": "Corrosion cell"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "difficulty": "easy",
+      "question": "What is the type of electrochemical reaction where one electrode undergoes oxidation and the other undergoes reduction?",
+      "options": {
+        "A": "Oxidation-reduction reaction",
+        "B": "Corrosion reaction",
+        "C": "Electrolysis reaction",
+        "D": "Ion exchange reaction"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is the term for the type of electrochemical cell that generates electric current through the flow of ions?",
+      "options": {
+        "A": "Electrolytic cell",
+        "B": "Galvanic cell",
+        "C": "Fuel cell",
+        "D": "Corrosion cell"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "difficulty": "hard",
+      "question": "What is the equation for the Faraday constant?",
+      "options": {
+        "A": "F = nq",
+        "B": "F = q/n",
+        "C": "F = n^2q",
+        "D": "F = q"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "difficulty": "hard",
+      "question": "What is the term for the type of electrochemical cell that generates electric current through the flow of electrons?",
+      "options": {
+        "A": "Galvanic cell",
+        "B": "Electrolytic cell",
+        "C": "Fuel cell",
+        "D": "Corrosion cell"
+      },
+      "correct_option": "A",
+      "explanation": ""
+    }
+  ]
+}
