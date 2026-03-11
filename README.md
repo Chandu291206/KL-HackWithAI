@@ -20,3 +20,4 @@ EduCoach is an intelligent coaching agent designed to revolutionize JEE and NEET
 * Saketh Peddoju
 * Sai Sudhamsh Chivukula
 * Chandu Chethan
+* Charan Tej
